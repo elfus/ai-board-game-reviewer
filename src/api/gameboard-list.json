@@ -1,0 +1,3002 @@
+{
+    "brass-birmingham": {
+        "name": "Brass: Birmingham",
+        "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
+        "year": 2018,
+        "rating": 8.6,
+        "votes": 46622,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.8764,
+        "images": {
+            "default": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard/img/jRj9wl9q5_zv1Og0fi8vLqYsXGE=/0x226:1200x901/288x162/filters:strip_icc()/pic3490053.jpg",
+            "2x": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard@2x/img/3pW54SpsB2HIGKMbnvVH3GPN4NE=/0x226:1200x901/576x324/filters:strip_icc()/pic3490053.jpg",
+            "banner": "https://cf.geekdo-images.com/e2e0wdO8oVNzD0ZAhzi6MQ__itemheader/img/Zj1GBUN2m-z4zX2-QWn31fiKEE4=/800x450/filters:quality(30):strip_icc()/pic3509697.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 9,
+            "duration": 7,
+            "players": 8,
+            "difficulty": 6,
+            "cost": 1
+        }
+    },
+    "pandemic-legacy-season-1": {
+        "name": "Pandemic Legacy: Season 1",
+        "description": "Mutating diseases are spreading around the world - can your team save humanity?",
+        "year": 2015,
+        "rating": 8.53,
+        "votes": 53719,
+        "duration": {
+            "min": 60,
+            "max": 60
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 2.8307,
+        "images": {
+            "default": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__mediacard/img/4Pq43wZTLmX1zFeY1RzebYs660I=/0x148:899x654/288x162/filters:strip_icc()/pic2452831.png",
+            "2x": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__mediacard@2x/img/ZGA2MbbQ4XCEUCa6itgKvH5zY0M=/0x148:899x654/576x324/filters:strip_icc()/pic2452831.png",
+            "banner": "https://cf.geekdo-images.com/lP-74qyuhrCisnXGqAIUBg__itemheader/img/q87vtjyl02FoB-GfowOH6UG29Ds=/800x450/filters:quality(30):strip_icc()/pic2733239.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 0,
+            "duration": 9,
+            "players": 9,
+            "difficulty": 3,
+            "cost": 1
+        }
+    },
+    "gloomhaven": {
+        "name": "Gloomhaven",
+        "description": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
+        "year": 2017,
+        "rating": 8.59,
+        "votes": 62499,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.9123,
+        "images": {
+            "default": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__mediacard/img/PG_Ye2A6OjNFa6VBEsRxwSjWFqI=/0x0:3500x1969/288x162/filters:strip_icc()/pic2437871.jpg",
+            "2x": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__mediacard@2x/img/A0DfoWWvmXKY_aoxbLlhJrarXZA=/0x0:3500x1969/576x324/filters:strip_icc()/pic2437871.jpg",
+            "banner": "https://cf.geekdo-images.com/Wt-UZoeVFZG2a_aZX9tbHg__itemheader/img/25YfRO2lPmcZQzoRmlqssC6oUfA=/800x450/filters:quality(30):strip_icc()/pic2657094.png"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 0,
+            "duration": 6,
+            "players": 3,
+            "difficulty": 2,
+            "cost": 4
+        }
+    },
+    "ark-nova": {
+        "name": "Ark Nova",
+        "description": "Plan and build a modern, scientifically managed zoo to support conservation projects.",
+        "year": 2021,
+        "rating": 8.53,
+        "votes": 44433,
+        "duration": {
+            "min": 90,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.7647,
+        "images": {
+            "default": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__mediacard/img/VxCvketCpD0r4x0G6Qs8BAu-fUw=/0x2323:3543x4316/288x162/filters:strip_icc()/pic6293412.jpg",
+            "2x": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__mediacard@2x/img/g_woPLS8SwfZd4ES9hcyVUfHrs8=/0x2323:3543x4316/576x324/filters:strip_icc()/pic6293412.jpg",
+            "banner": "https://cf.geekdo-images.com/GvO8ZVAr_jUciRog9Lwhqg__itemheader/img/HvUiTHslbou-sI7VhvyGvTP7ehY=/800x450/filters:quality(30):strip_icc()/pic6428595.jpg"
+        },
+        "score": {
+            "fun": 1,
+            "learning_curve": 8,
+            "duration": 5,
+            "players": 5,
+            "difficulty": 7,
+            "cost": 1
+        }
+    },
+    "twilight-imperium-fourth-edition": {
+        "name": "Twilight Imperium: Fourth Edition",
+        "description": "Build an intergalactic empire through trade, research, conquest and grand politics.",
+        "year": 2017,
+        "rating": 8.6,
+        "votes": 24065,
+        "duration": {
+            "min": 240,
+            "max": 480
+        },
+        "players": {
+            "min": 3,
+            "max": 6
+        },
+        "minage": 14,
+        "weight": 4.3172,
+        "images": {
+            "default": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__mediacard/img/ho6Zlrpju5aChmd5co6dlqffmS0=/0x0:5233x2944/288x162/filters:strip_icc()/pic3727516.jpg",
+            "2x": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__mediacard@2x/img/-aTjgZ8hIcw4XW-X7-sbB7MqTc8=/0x0:5233x2944/576x324/filters:strip_icc()/pic3727516.jpg",
+            "banner": "https://cf.geekdo-images.com/xNFCiOAXp0k5qvXQUmfQ6Q__itemheader/img/HA19toKqPo89QBLXXS2krRpm2iY=/800x450/filters:quality(30):strip_icc()/pic3690829.png"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 3,
+            "duration": 1,
+            "players": 5,
+            "difficulty": 5,
+            "cost": 10
+        }
+    },
+    "dune-imperium": {
+        "name": "Dune: Imperium",
+        "description": "Influence, intrigue, and combat in the universe of Dune.",
+        "year": 2020,
+        "rating": 8.44,
+        "votes": 46259,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.0488,
+        "images": {
+            "default": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__mediacard/img/lHok12fsliGKu-YKWMYIRv6MsMU=/0x0:600x338/288x162/filters:strip_icc()/pic5666597.jpg",
+            "2x": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__mediacard@2x/img/x2WpncO1LZNgk4GzzOq7u40cGj8=/0x0:600x338/576x324/filters:strip_icc()/pic5666597.jpg",
+            "banner": "https://cf.geekdo-images.com/kVNbdF7xYp1iZGGZPBRagg__itemheader/img/1O_9Tg_hn25q6oHXfrzG8yHBDms=/800x450/filters:quality(30):strip_icc()/pic5666628.png"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 1,
+            "duration": 1,
+            "players": 10,
+            "difficulty": 2,
+            "cost": 9
+        }
+    },
+    "terraforming-mars": {
+        "name": "Terraforming Mars",
+        "description": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
+        "year": 2016,
+        "rating": 8.36,
+        "votes": 99844,
+        "duration": {
+            "min": 120,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.2626,
+        "images": {
+            "default": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__mediacard/img/IecPV_tfudPO-IeRhYZHO6KRHoc=/0x651:1500x1495/288x162/filters:strip_icc()/pic3536616.jpg",
+            "2x": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__mediacard@2x/img/-Uk0TnRLYk_wmQyJ5EXoUNKc1X4=/0x651:1500x1495/576x324/filters:strip_icc()/pic3536616.jpg",
+            "banner": "https://cf.geekdo-images.com/h4xbkoKIsRL6Mk0K_1g_VQ__itemheader/img/PhWOLZLJHy5FBwdN0gGIDs_NCb0=/800x450/filters:quality(30):strip_icc()/pic3540110.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 9,
+            "duration": 7,
+            "players": 1,
+            "difficulty": 8,
+            "cost": 6
+        }
+    },
+    "war-of-the-ring-second-edition": {
+        "name": "War of the Ring: Second Edition",
+        "description": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.",
+        "year": 2011,
+        "rating": 8.54,
+        "votes": 21573,
+        "duration": {
+            "min": 150,
+            "max": 180
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 4.2151,
+        "images": {
+            "default": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__mediacard/img/U3CsXIHbbJbUgji9fGEFZeOzOHY=/0x0:1435x807/288x162/filters:strip_icc()/pic1215633.jpg",
+            "2x": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__mediacard@2x/img/FabIHu99sRh4IAjZcC-eleVd6Nw=/0x0:1435x807/576x324/filters:strip_icc()/pic1215633.jpg",
+            "banner": "https://cf.geekdo-images.com/B43ORnwE4ZhwvlezIyncNw__itemheader/img/h1ljmJILmtF0Uh7iDY38496DCrU=/800x450/filters:quality(30):strip_icc()/pic1188123.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 4,
+            "duration": 8,
+            "players": 4,
+            "difficulty": 7,
+            "cost": 7
+        }
+    },
+    "star-wars-rebellion": {
+        "name": "Star Wars: Rebellion",
+        "description": "Strike from your hidden base as the Rebels—or find and destroy it as the Empire.",
+        "year": 2016,
+        "rating": 8.42,
+        "votes": 32716,
+        "duration": {
+            "min": 180,
+            "max": 240
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.7424,
+        "images": {
+            "default": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__mediacard/img/9PnVE_MhFMLpT29XHGHl6aF1FUk=/0x0:480x270/288x162/filters:strip_icc()/pic4325841.jpg",
+            "2x": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__mediacard@2x/img/wLIho5XD3mc_QmXNVgvGQTndxew=/0x0:480x270/576x324/filters:strip_icc()/pic4325841.jpg",
+            "banner": "https://cf.geekdo-images.com/FT-LtXrAtxGfJ3JlDy3JNQ__itemheader/img/XfsY-CLv_1nz8EHJfAmAb021DZc=/800x450/filters:quality(30):strip_icc()/pic2961864.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 0,
+            "duration": 8,
+            "players": 2,
+            "difficulty": 2,
+            "cost": 3
+        }
+    },
+    "gloomhaven-jaws-of-the-lion": {
+        "name": "Gloomhaven: Jaws of the Lion",
+        "description": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign.",
+        "year": 2020,
+        "rating": 8.43,
+        "votes": 34665,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.6414,
+        "images": {
+            "default": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__mediacard/img/pLv_SdUXyJQiQsiLkvd45pDSLwQ=/0x0:702x395/288x162/filters:strip_icc()/pic5055631.jpg",
+            "2x": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__mediacard@2x/img/NJCeGPUmJ7YQ-D1PYerKcApuCZY=/0x0:702x395/576x324/filters:strip_icc()/pic5055631.jpg",
+            "banner": "https://cf.geekdo-images.com/p_tFmkN241jAI-gH1dO00A__itemheader/img/6mYUjt8tjxZXdl4WfboB9fuJLDw=/800x450/filters:quality(30):strip_icc()/pic5491564.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 8,
+            "duration": 4,
+            "players": 8,
+            "difficulty": 8,
+            "cost": 4
+        }
+    },
+    "spirit-island": {
+        "name": "Spirit Island",
+        "description": "Island Spirits join forces using elemental powers to defend their home from invaders.",
+        "year": 2017,
+        "rating": 8.34,
+        "votes": 52201,
+        "duration": {
+            "min": 90,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 4.0678,
+        "images": {
+            "default": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__mediacard/img/f6TPXLQRQP5Uv9lJ4BBhvgSPeBo=/0x0:1680x945/288x162/filters:strip_icc()/pic7013651.jpg",
+            "2x": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__mediacard@2x/img/a_D7LspxOtAxEWD7ArsxTXbpZ0c=/0x0:1680x945/576x324/filters:strip_icc()/pic7013651.jpg",
+            "banner": "https://cf.geekdo-images.com/fJBIMHUj2peahXuFRo4y5w__itemheader/img/8BnQJXjlmARCr_Clxkhk0PGUMDE=/800x450/filters:quality(30):strip_icc()/pic6468414.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 1,
+            "duration": 10,
+            "players": 7,
+            "difficulty": 10,
+            "cost": 4
+        }
+    },
+    "gaia-project": {
+        "name": "Gaia Project",
+        "description": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
+        "year": 2017,
+        "rating": 8.37,
+        "votes": 27359,
+        "duration": {
+            "min": 60,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 4.3921,
+        "images": {
+            "default": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__mediacard/img/VovXeiCOwNe6_PAkSiTJNVbEkGs=/0x0:1864x1049/288x162/filters:strip_icc()/pic5375625.png",
+            "2x": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__mediacard@2x/img/7z6cl8c8Ksth6l_hMO-EEisnPW4=/0x0:1864x1049/576x324/filters:strip_icc()/pic5375625.png",
+            "banner": "https://cf.geekdo-images.com/pz4DG7MJX4gxHdFlRswlKg__itemheader/img/6OoMFNDVUkWod1meCjbQIGEUOpA=/800x450/filters:quality(30):strip_icc()/pic3409873.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 2,
+            "duration": 0,
+            "players": 6,
+            "difficulty": 8,
+            "cost": 7
+        }
+    },
+    "twilight-struggle": {
+        "name": "Twilight Struggle",
+        "description": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
+        "year": 2005,
+        "rating": 8.25,
+        "votes": 48971,
+        "duration": {
+            "min": 120,
+            "max": 180
+        },
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "minage": 13,
+        "weight": 3.6084,
+        "images": {
+            "default": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__mediacard/img/B-FmcEJ1e5Uv4tMA_uHvR60TSZ8=/0x30:1900x1099/288x162/filters:strip_icc()/pic3530661.jpg",
+            "2x": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__mediacard@2x/img/W97R-44sRs6v54er8lHyzdKMpLc=/0x30:1900x1099/576x324/filters:strip_icc()/pic3530661.jpg",
+            "banner": "https://cf.geekdo-images.com/3xtaGglJAnMe4LdItL1fuQ__itemheader/img/1JHaQKTW4P9WZ1nmw_nDeZh-Nn0=/800x450/filters:quality(30):strip_icc()/pic2726905.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 8,
+            "duration": 3,
+            "players": 9,
+            "difficulty": 5,
+            "cost": 8
+        }
+    },
+    "through-the-ages-a-new-story-of-civilization": {
+        "name": "Through the Ages: A New Story of Civilization",
+        "description": "Rewrite history as you build up your civilization in this epic card drafting game!",
+        "year": 2015,
+        "rating": 8.29,
+        "votes": 31815,
+        "duration": {
+            "min": 120,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.4372,
+        "images": {
+            "default": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__mediacard/img/ChhQc8g_2Ov0UGhw8Dh9MB3kFuM=/0x0:2048x1152/288x162/filters:strip_icc()/pic2663291.jpg",
+            "2x": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__mediacard@2x/img/gPUOZpab4s7XswfFyb6D2ASBk7Y=/0x0:2048x1152/576x324/filters:strip_icc()/pic2663291.jpg",
+            "banner": "https://cf.geekdo-images.com/ZouRjWon9pjotLob1kkdBA__itemheader/img/Wim59lc7mNaL7_roMBSBF0DlfT0=/800x450/filters:quality(30):strip_icc()/pic2707021.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 0,
+            "duration": 7,
+            "players": 2,
+            "difficulty": 1,
+            "cost": 10
+        }
+    },
+    "great-western-trail": {
+        "name": "Great Western Trail",
+        "description": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
+        "year": 2016,
+        "rating": 8.19,
+        "votes": 41048,
+        "duration": {
+            "min": 75,
+            "max": 150
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.6992,
+        "images": {
+            "default": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__mediacard/img/mNL9nH2MAW9mwVWfKqOKwz8KOZ8=/0x0:2000x1125/288x162/filters:strip_icc()/pic4887376.jpg",
+            "2x": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__mediacard@2x/img/ljCZWBcFTWWSNi8UPyU7LARlnWw=/0x0:2000x1125/576x324/filters:strip_icc()/pic4887376.jpg",
+            "banner": "https://cf.geekdo-images.com/aLJJNzSLAir6VLwBN2D4Zw__itemheader/img/OuOWZliPW5hoyBkfklAtqD8ZtXE=/800x450/filters:quality(30):strip_icc()/pic3128444.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 6,
+            "duration": 0,
+            "players": 5,
+            "difficulty": 2,
+            "cost": 9
+        }
+    },
+    "the-castles-of-burgundy": {
+        "name": "The Castles of Burgundy",
+        "description": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
+        "year": 2011,
+        "rating": 8.14,
+        "votes": 62641,
+        "duration": {
+            "min": 30,
+            "max": 90
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 2.9789,
+        "images": {
+            "default": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__mediacard/img/2Ev_xnV1O9ROcAfp8E5WRysdXhs=/0x3:310x177/288x162/filters:strip_icc()/pic1176894.jpg",
+            "2x": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__mediacard@2x/img/Yi1PGP3tsybz1idl5Jn_qiyWWVg=/0x3:310x177/576x324/filters:strip_icc()/pic1176894.jpg",
+            "banner": "https://cf.geekdo-images.com/i-BZcqb4DfZt47se7HI0DQ__itemheader/img/4nH-Obi7i3pkRkx9tWIO22yF4v0=/800x450/filters:quality(30):strip_icc()/pic2789337.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 2,
+            "duration": 7,
+            "players": 5,
+            "difficulty": 2,
+            "cost": 9
+        }
+    },
+    "scythe": {
+        "name": "Scythe",
+        "description": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe.",
+        "year": 2016,
+        "rating": 8.14,
+        "votes": 84073,
+        "duration": {
+            "min": 90,
+            "max": 115
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 14,
+        "weight": 3.4441,
+        "images": {
+            "default": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__mediacard/img/Zrq8zWXxC3C_RQPSpPOouYi-o5o=/0x0:4259x2396/288x162/filters:strip_icc()/pic3163924.jpg",
+            "2x": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__mediacard@2x/img/VgiEm3GpgpX0y5LGbS02mt11XeQ=/0x0:4259x2396/576x324/filters:strip_icc()/pic3163924.jpg",
+            "banner": "https://cf.geekdo-images.com/hyqVOyVvyUAVu3PmlP9scg__itemheader/img/v7NmHYsHsKLKrqi8ZbVZY5aoJw4=/800x450/filters:quality(30):strip_icc()/pic2977400.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 2,
+            "duration": 2,
+            "players": 9,
+            "difficulty": 2,
+            "cost": 1
+        }
+    },
+    "eclipse-second-dawn-for-the-galaxy": {
+        "name": "Eclipse: Second Dawn for the Galaxy",
+        "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
+        "year": 2020,
+        "rating": 8.46,
+        "votes": 13820,
+        "duration": {
+            "min": 60,
+            "max": 200
+        },
+        "players": {
+            "min": 2,
+            "max": 6
+        },
+        "minage": 14,
+        "weight": 3.6473,
+        "images": {
+            "default": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__mediacard/img/mO_Ayp0pxG2SCTwqSOx7VgmAwTU=/0x700:5388x3731/288x162/filters:strip_icc()/pic5235277.jpg",
+            "2x": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__mediacard@2x/img/O8SEpLIZA6JpQ9o8yUZt1JgrA5c=/0x700:5388x3731/576x324/filters:strip_icc()/pic5235277.jpg",
+            "banner": "https://cf.geekdo-images.com/seDsaRNO8IdM0aWqO3T1ug__itemheader/img/GZSiReHj8WLCearowb2dsj9A78I=/800x450/filters:quality(30):strip_icc()/pic8026004.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 2,
+            "duration": 9,
+            "players": 6,
+            "difficulty": 1,
+            "cost": 8
+        }
+    },
+    "7-wonders-duel": {
+        "name": "7 Wonders Duel",
+        "description": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
+        "year": 2015,
+        "rating": 8.1,
+        "votes": 95357,
+        "duration": {
+            "min": 30,
+            "max": 30
+        },
+        "players": {
+            "min": 2,
+            "max": 2
+        },
+        "minage": 10,
+        "weight": 2.2283,
+        "images": {
+            "default": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__mediacard/img/OTmEfmtsErSd1otMsKfvjDMrNgo=/0x0:720x405/288x162/filters:strip_icc()/pic2576399.jpg",
+            "2x": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__mediacard@2x/img/-Y-w00_djtCCOHB6LTdTwqvAaOM=/0x0:720x405/576x324/filters:strip_icc()/pic2576399.jpg",
+            "banner": "https://cf.geekdo-images.com/PMh6Ov_3gLJBnXnAb-yZKA__itemheader/img/kgDNdMOoCE0QBNkJDKs1aoGfAt4=/800x450/filters:quality(30):strip_icc()/pic2558121.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 4,
+            "duration": 0,
+            "players": 2,
+            "difficulty": 1,
+            "cost": 8
+        }
+    },
+    "brass-lancashire": {
+        "name": "Brass: Lancashire",
+        "description": "Test your economic mettle as you build and network in the Industrial Revolution.",
+        "year": 2007,
+        "rating": 8.19,
+        "votes": 25051,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.8561,
+        "images": {
+            "default": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__mediacard/img/vNo5eOMORHNxNcxyXuOtjfvYzTM=/0x233:1200x908/288x162/filters:strip_icc()/pic3469216.jpg",
+            "2x": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__mediacard@2x/img/Z2Wk89GYQt23v0Xd5Bw5U4KSxfo=/0x233:1200x908/576x324/filters:strip_icc()/pic3469216.jpg",
+            "banner": "https://cf.geekdo-images.com/89h0Qdz_2e6KD3z33GRD1w__itemheader/img/TmAtBuzAZeRLubBTiIC8SG8trP0=/800x450/filters:quality(30):strip_icc()/pic3509689.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 9,
+            "duration": 6,
+            "players": 4,
+            "difficulty": 8,
+            "cost": 2
+        }
+    },
+    "nemesis": {
+        "name": "Nemesis",
+        "description": "Survive an alien-infested spaceship, but beware of other players and their agendas!",
+        "year": 2018,
+        "rating": 8.27,
+        "votes": 30909,
+        "duration": {
+            "min": 90,
+            "max": 180
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.4658,
+        "images": {
+            "default": "https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__mediacard/img/PnGM5P4Xn3xFhV3_0lTgCK_V2AE=/0x308:1431x1113/288x162/filters:strip_icc()/pic8211747.png",
+            "2x": "https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__mediacard@2x/img/f0k3MPIuqvQDj3D-uZ7In42WyGw=/0x308:1431x1113/576x324/filters:strip_icc()/pic8211747.png",
+            "banner": "https://cf.geekdo-images.com/p6PwJg06x02SQdlj24GXbw__itemheader/img/LAnoc75DRTDe7DULCfRxYxO6UFE=/800x450/filters:quality(30):strip_icc()/pic6253996.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 1,
+            "duration": 8,
+            "players": 2,
+            "difficulty": 7,
+            "cost": 2
+        }
+    },
+    "clank-legacy-acquisitions-incorporated": {
+        "name": "Clank! Legacy: Acquisitions Incorporated",
+        "description": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\"",
+        "year": 2019,
+        "rating": 8.53,
+        "votes": 9524,
+        "duration": {
+            "min": 90,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 2.7273,
+        "images": {
+            "default": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__mediacard/img/dZVuhra9srvUGtly8TfXlzxe3zw=/0x0:1200x675/288x162/filters:strip_icc()/pic4885780.png",
+            "2x": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__mediacard@2x/img/GgxSDEqB7zjp6EEbjwbxoYEhKCA=/0x0:1200x675/576x324/filters:strip_icc()/pic4885780.png",
+            "banner": "https://cf.geekdo-images.com/ZNWXlIloGqf-53iKK1ejgw__itemheader/img/kBymPZ0VfX1_C-xlPOpL4JkUwIQ=/800x450/filters:quality(30):strip_icc()/pic5017269.png"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 6,
+            "duration": 5,
+            "players": 4,
+            "difficulty": 6,
+            "cost": 2
+        }
+    },
+    "a-feast-for-odin": {
+        "name": "A Feast for Odin",
+        "description": "Puzzle together the life of a Viking village as you hunt, farm, craft, and explore.",
+        "year": 2016,
+        "rating": 8.17,
+        "votes": 28790,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.8603,
+        "images": {
+            "default": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__mediacard/img/kdJ_qjzUtHdbJRbctZ3Ve8mirKo=/0x0:527x296/288x162/filters:strip_icc()/pic3146943.png",
+            "2x": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__mediacard@2x/img/NyzTWY_n9jLGYDmfe45ztnC2f3g=/0x0:527x296/576x324/filters:strip_icc()/pic3146943.png",
+            "banner": "https://cf.geekdo-images.com/IYP_Jy8ER_Y7Ft_dDodj-Q__itemheader/img/wU3OFcviDep2tihdxX7WzyFHsRU=/800x450/filters:quality(30):strip_icc()/pic3214824.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 8,
+            "duration": 9,
+            "players": 9,
+            "difficulty": 9,
+            "cost": 1
+        }
+    },
+    "concordia": {
+        "name": "Concordia",
+        "description": "Merchants build and trade throughout the Roman Empire to please the Gods.",
+        "year": 2013,
+        "rating": 8.09,
+        "votes": 40720,
+        "duration": {
+            "min": 100,
+            "max": 100
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 13,
+        "weight": 2.9895,
+        "images": {
+            "default": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__mediacard/img/e3fgAzlM_WX6VD-UnJn2dFV-lDc=/0x0:3305x1859/288x162/filters:strip_icc()/pic3453267.jpg",
+            "2x": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__mediacard@2x/img/BIm4z2TvSgwRubi-EouDNVx_jeE=/0x0:3305x1859/576x324/filters:strip_icc()/pic3453267.jpg",
+            "banner": "https://cf.geekdo-images.com/GhLvoXocyQHs2WRAqI4QSg__itemheader/img/ESOwpLoBdBlvQqsuYAZzLntew_Y=/800x450/filters:quality(30):strip_icc()/pic1784325.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 10,
+            "duration": 2,
+            "players": 0,
+            "difficulty": 9,
+            "cost": 10
+        }
+    },
+    "great-western-trail-second-edition": {
+        "name": "Great Western Trail: Second Edition",
+        "description": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City.",
+        "year": 2021,
+        "rating": 8.34,
+        "votes": 12984,
+        "duration": {
+            "min": 75,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.7168,
+        "images": {
+            "default": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__mediacard/img/I6VXYNW418qjG-tHOEiVCMKbvvE=/0x0:1756x988/288x162/filters:strip_icc()/pic5988511.jpg",
+            "2x": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__mediacard@2x/img/RSjYUfXy6sKBo_VmBzK87lmXU98=/0x0:1756x988/576x324/filters:strip_icc()/pic5988511.jpg",
+            "banner": "https://cf.geekdo-images.com/aGhMRbOa55EZEP7ZEjPfQw__itemheader/img/pLzNBxFpjGO-_E6AKYgOGx1VwxQ=/800x450/filters:quality(30):strip_icc()/pic6366851.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 1,
+            "duration": 0,
+            "players": 1,
+            "difficulty": 4,
+            "cost": 4
+        }
+    },
+    "arkham-horror-the-card-game": {
+        "name": "Arkham Horror: The Card Game",
+        "description": "Investigate the horrors of Arkham while courting cosmic doom.",
+        "year": 2016,
+        "rating": 8.13,
+        "votes": 43365,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "minage": 14,
+        "weight": 3.5403,
+        "images": {
+            "default": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__mediacard/img/pKXIYvMbAY0zTYfnk1wSAzsHWBo=/0x0:602x339/288x162/filters:strip_icc()/pic3122349.jpg",
+            "2x": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__mediacard@2x/img/x2FlxKM0PHIKQzS7D7reGRnImUA=/0x0:602x339/576x324/filters:strip_icc()/pic3122349.jpg",
+            "banner": "https://cf.geekdo-images.com/nHdJ4vS_C70WWVn_RA725g__itemheader/img/KlmBm365OsAn_h4ReL1AHCG89YM=/800x450/filters:quality(30):strip_icc()/pic3308240.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 9,
+            "duration": 7,
+            "players": 5,
+            "difficulty": 10,
+            "cost": 3
+        }
+    },
+    "frosthaven": {
+        "name": "Frosthaven",
+        "description": "Adventure in the frozen north and build up your outpost throughout an epic campaign.",
+        "year": 2022,
+        "rating": 8.83,
+        "votes": 7138,
+        "duration": {
+            "min": 90,
+            "max": 180
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.3668,
+        "images": {
+            "default": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__mediacard/img/uVhC2ylhlEw7cug3heW0CnM9YQw=/0x0:600x338/288x162/filters:strip_icc()/pic5092291.png",
+            "2x": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__mediacard@2x/img/6culAx27wWjtQR9cHEjz1hM3lQo=/0x0:600x338/576x324/filters:strip_icc()/pic5092291.png",
+            "banner": "https://cf.geekdo-images.com/Fk8uVOqyU36CLTQ68Dr95A__itemheader/img/OkLCgoy-ZhYdY2TbGZHrwLs2A0k=/800x450/filters:quality(30):strip_icc()/pic7172856.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 3,
+            "duration": 7,
+            "players": 9,
+            "difficulty": 0,
+            "cost": 7
+        }
+    },
+    "lost-ruins-of-arnak": {
+        "name": "Lost Ruins of Arnak",
+        "description": "Explore an island to find resources and discover the lost ruins of Arnak.",
+        "year": 2020,
+        "rating": 8.07,
+        "votes": 44780,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 2.9201,
+        "images": {
+            "default": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__mediacard/img/ScBU7uekxKxiN0jgmFghGdalakA=/0x0:1387x780/288x162/filters:strip_icc()/pic5674958.jpg",
+            "2x": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__mediacard@2x/img/Z2p2aa17rmMlYEkkTJ1Ya5-xABU=/0x0:1387x780/576x324/filters:strip_icc()/pic5674958.jpg",
+            "banner": "https://cf.geekdo-images.com/EsTP6q6zLLiRKFqIwyGAbw__itemheader/img/eQ42WvwtPMjWwEnJ8uzZra-wE5I=/800x450/filters:quality(30):strip_icc()/pic5702515.jpg"
+        },
+        "score": {
+            "fun": 10,
+            "learning_curve": 0,
+            "duration": 3,
+            "players": 3,
+            "difficulty": 2,
+            "cost": 8
+        }
+    },
+    "wingspan": {
+        "name": "Wingspan",
+        "description": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
+        "year": 2019,
+        "rating": 8.04,
+        "votes": 94242,
+        "duration": {
+            "min": 40,
+            "max": 70
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 10,
+        "weight": 2.4632,
+        "images": {
+            "default": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__mediacard/img/zSNZvma0PPsb-qDO4ufTc-yU5hk=/0x766:1750x1750/288x162/filters:strip_icc()/pic4458123.jpg",
+            "2x": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__mediacard@2x/img/POit0SNyEkfUSt8c4kwzs3eZar8=/0x766:1750x1750/576x324/filters:strip_icc()/pic4458123.jpg",
+            "banner": "https://cf.geekdo-images.com/mrqKHhyS669h3kbloXRBug__itemheader/img/4NZWDuQMyaxnapIrtWz3DrtCpMQ=/800x450/filters:quality(30):strip_icc()/pic6384893.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 7,
+            "duration": 1,
+            "players": 8,
+            "difficulty": 8,
+            "cost": 9
+        }
+    },
+    "terra-mystica": {
+        "name": "Terra Mystica",
+        "description": "Play fantastical factions.  Expand your influence by terraforming and joining cults.",
+        "year": 2012,
+        "rating": 8.06,
+        "votes": 48163,
+        "duration": {
+            "min": 60,
+            "max": 150
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.9728,
+        "images": {
+            "default": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__mediacard/img/AOCL2I_pL7aiS05_RK1SYN_tQZw=/0x0:1427x803/288x162/filters:strip_icc()/pic5375624.jpg",
+            "2x": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__mediacard@2x/img/-KQKXxReDHS_sr3SidJdgUnwZwU=/0x0:1427x803/576x324/filters:strip_icc()/pic5375624.jpg",
+            "banner": "https://cf.geekdo-images.com/6l0i5uwIitD6euxolU3GXg__itemheader/img/jx-XCuxm3PqgESStR0PKJx5suYc=/800x450/filters:quality(30):strip_icc()/pic1450485.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 2,
+            "duration": 10,
+            "players": 9,
+            "difficulty": 2,
+            "cost": 2
+        }
+    },
+    "root": {
+        "name": "Root",
+        "description": "Decide the fate of the forest as woodland factions fight for contrasting goals.",
+        "year": 2018,
+        "rating": 8.07,
+        "votes": 52044,
+        "duration": {
+            "min": 60,
+            "max": 90
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 10,
+        "weight": 3.8073,
+        "images": {
+            "default": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__mediacard/img/9-BzH6ykxbnzpVRdgG0R-FscjoY=/0x132:2048x1284/288x162/filters:strip_icc()/pic4254509.jpg",
+            "2x": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__mediacard@2x/img/1cgjIfLMYuzf0fZgLDIObz_ajdk=/0x132:2048x1284/576x324/filters:strip_icc()/pic4254509.jpg",
+            "banner": "https://cf.geekdo-images.com/LdKT6D7rzUkEzf6DCIDdEw__itemheader/img/XqBQFsCdLm3CSUlRuq4C48aydfY=/800x450/filters:quality(30):strip_icc()/pic3799727.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 7,
+            "duration": 8,
+            "players": 9,
+            "difficulty": 6,
+            "cost": 7
+        }
+    },
+    "orleans": {
+        "name": "Orléans",
+        "description": "Craftsmen, scholars & monks can help you reign supreme—but who will turn up to help?",
+        "year": 2014,
+        "rating": 8.06,
+        "votes": 31561,
+        "duration": {
+            "min": 90,
+            "max": 90
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.026,
+        "images": {
+            "default": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__mediacard/img/_nRS3s1ra6h8XURTkavsdpQxfp0=/0x0:1328x747/288x162/filters:strip_icc()/pic6228507.jpg",
+            "2x": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__mediacard@2x/img/7CvL0-5a-ZSFqseNM21Bxi8PgDc=/0x0:1328x747/576x324/filters:strip_icc()/pic6228507.jpg",
+            "banner": "https://cf.geekdo-images.com/kcoG20-7VUyY5VgnmXU7vw__itemheader/img/4vuF74FYNQKDpdw0uWrU9MqClDA=/800x450/filters:quality(30):strip_icc()/pic3957654.jpg"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 1,
+            "duration": 1,
+            "players": 3,
+            "difficulty": 2,
+            "cost": 5
+        }
+    },
+    "too-many-bones": {
+        "name": "Too Many Bones",
+        "description": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown.",
+        "year": 2017,
+        "rating": 8.34,
+        "votes": 13596,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.85,
+        "images": {
+            "default": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__mediacard/img/SCKM2C76--SpTXDjAsN_MJDkLPY=/0x0:1430x804/288x162/filters:strip_icc()/pic6624445.png",
+            "2x": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__mediacard@2x/img/Wrg95SQArf_dOlHSK2C9FV88t5c=/0x0:1430x804/576x324/filters:strip_icc()/pic6624445.png",
+            "banner": "https://cf.geekdo-images.com/SYaYyRLKtIvS_5TMKFRi9w__itemheader/img/o_tSJKygogfPDuNAX1fYAoncwBI=/800x450/filters:quality(30):strip_icc()/pic2894396.png"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 0,
+            "duration": 5,
+            "players": 2,
+            "difficulty": 7,
+            "cost": 4
+        }
+    },
+    "mage-knight-board-game": {
+        "name": "Mage Knight Board Game",
+        "description": "Build your hero’s spells, abilities, and artifacts as you explore & conquer cities.",
+        "year": 2011,
+        "rating": 8.08,
+        "votes": 33409,
+        "duration": {
+            "min": 60,
+            "max": 240
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.3634,
+        "images": {
+            "default": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__mediacard/img/dcRAzWRkQKFWCWQIeqmvekCJ380=/0x628:4153x2964/288x162/filters:strip_icc()/pic1083380.jpg",
+            "2x": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__mediacard@2x/img/8-KUlanD04xz5a6ixYRxMyBaPb8=/0x628:4153x2964/576x324/filters:strip_icc()/pic1083380.jpg",
+            "banner": "https://cf.geekdo-images.com/CLw0OgY7po-pn4TVr7NGVg__itemheader/img/hnoQqtG7KQ6sJL6mEjCDU-wzWI8=/800x450/filters:quality(30):strip_icc()/pic1189467.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 9,
+            "duration": 0,
+            "players": 5,
+            "difficulty": 1,
+            "cost": 4
+        }
+    },
+    "barrage": {
+        "name": "Barrage",
+        "description": "Nations vie for hydroelectric dominance in a dystopia where water is power.",
+        "year": 2019,
+        "rating": 8.16,
+        "votes": 17917,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.1124,
+        "images": {
+            "default": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__mediacard/img/1IHqpdyaa3767v2eaqmz_hmQaCc=/0x2234:2685x3744/288x162/filters:strip_icc()/pic4336469.png",
+            "2x": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__mediacard@2x/img/uhhx9i8Mi8q2jtumXY6vGzXAJJ4=/0x2234:2685x3744/576x324/filters:strip_icc()/pic4336469.png",
+            "banner": "https://cf.geekdo-images.com/tfSJqM4UmPAnAWtlak8oCA__itemheader/img/7Sg8kUZQW4xizcBVLXEePSXvgS0=/800x450/filters:quality(30):strip_icc()/pic5081736.jpg"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 5,
+            "duration": 10,
+            "players": 6,
+            "difficulty": 8,
+            "cost": 10
+        }
+    },
+    "everdell": {
+        "name": "Everdell",
+        "description": "Gather resources to develop a harmonious village of woodland critters and structures.",
+        "year": 2018,
+        "rating": 8.02,
+        "votes": 55410,
+        "duration": {
+            "min": 40,
+            "max": 80
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 10,
+        "weight": 2.8283,
+        "images": {
+            "default": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__mediacard/img/e3ilyrm_j3WOSeT6aoPyzvs1Xg4=/0x12:1600x912/288x162/filters:strip_icc()/pic3918905.png",
+            "2x": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__mediacard@2x/img/t9NZv63tVuxk-Lrfe1Yk_RQM_L0=/0x12:1600x912/576x324/filters:strip_icc()/pic3918905.png",
+            "banner": "https://cf.geekdo-images.com/Mk5PB1JUW5isIErvCvBefA__itemheader/img/_CR-ke97xoGYReK3REzse9jfWN8=/800x450/filters:quality(30):strip_icc()/pic3929249.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 1,
+            "duration": 8,
+            "players": 8,
+            "difficulty": 0,
+            "cost": 3
+        }
+    },
+    "the-crew-mission-deep-sea": {
+        "name": "The Crew: Mission Deep Sea",
+        "description": "Dive into the deep sea in this co-operative trick-taking game with variable missions.",
+        "year": 2021,
+        "rating": 8.14,
+        "votes": 18011,
+        "duration": {
+            "min": 20,
+            "max": 20
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 10,
+        "weight": 2.0297,
+        "images": {
+            "default": "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__mediacard/img/LOhZGde178E_rwXvq8x18AD9RUQ=/0x0:1524x857/288x162/filters:strip_icc()/pic5988903.jpg",
+            "2x": "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__mediacard@2x/img/OgZxOLxD-UsyweS0fQLKBaImaac=/0x0:1524x857/576x324/filters:strip_icc()/pic5988903.jpg",
+            "banner": "https://cf.geekdo-images.com/uS7rjQ6BL5f1jqPyD3Daig__itemheader/img/TzR6RTcveWy8jkegP4-4sGtmk5w=/800x450/filters:quality(30):strip_icc()/pic6219541.jpg"
+        },
+        "score": {
+            "fun": 1,
+            "learning_curve": 0,
+            "duration": 9,
+            "players": 5,
+            "difficulty": 5,
+            "cost": 2
+        }
+    },
+    "viticulture-essential-edition": {
+        "name": "Viticulture Essential Edition",
+        "description": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
+        "year": 2015,
+        "rating": 7.99,
+        "votes": 49046,
+        "duration": {
+            "min": 45,
+            "max": 90
+        },
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "minage": 13,
+        "weight": 2.8916,
+        "images": {
+            "default": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__mediacard/img/kzWAv2YUNqjrU_1TKNsM4HQNuJA=/0x0:3150x1772/288x162/filters:strip_icc()/pic6500949.jpg",
+            "2x": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__mediacard@2x/img/_kkxsPzGMgcgCcMkgW8lJybDVL4=/0x0:3150x1772/576x324/filters:strip_icc()/pic6500949.jpg",
+            "banner": "https://cf.geekdo-images.com/RoaYFIGB5bg-B-9tqExLHA__itemheader/img/nab38socfzbn5KBcZf-HCP4WD5g=/800x450/filters:quality(30):strip_icc()/pic3025835.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 5,
+            "duration": 6,
+            "players": 1,
+            "difficulty": 4,
+            "cost": 1
+        }
+    },
+    "heat-pedal-to-the-metal": {
+        "name": "Heat: Pedal to the Metal",
+        "description": "Manage your race car's speed to keep from overheating.",
+        "year": 2022,
+        "rating": 8.07,
+        "votes": 23945,
+        "duration": {
+            "min": 30,
+            "max": 60
+        },
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "minage": 10,
+        "weight": 2.2009,
+        "images": {
+            "default": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard/img/u-knslA6rSjeKxZcm0GoNg6dwXk=/0x0:1316x740/288x162/filters:strip_icc()/pic6940449.png",
+            "2x": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard@2x/img/gIGJPnyrTDmDd7c6BBHZR86-ULc=/0x0:1316x740/576x324/filters:strip_icc()/pic6940449.png",
+            "banner": "https://cf.geekdo-images.com/oLY-unxhNEiGlvNgt73LLA__itemheader/img/Ri4bpwJtbrhWOl2MYpTm3479xrY=/800x450/filters:quality(30):strip_icc()/pic6940454.png"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 10,
+            "duration": 1,
+            "players": 4,
+            "difficulty": 8,
+            "cost": 10
+        }
+    },
+    "food-chain-magnate": {
+        "name": "Food Chain Magnate",
+        "description": "Strategically hire and manage your workforce to outcompete rival fast food chains.",
+        "year": 2015,
+        "rating": 8.06,
+        "votes": 20587,
+        "duration": {
+            "min": 120,
+            "max": 240
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 14,
+        "weight": 4.1968,
+        "images": {
+            "default": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__mediacard/img/xFvL_-IQcUSpHh7AyMUXvqnpe18=/0x243:637x601/288x162/filters:strip_icc()/pic2649434.png",
+            "2x": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__mediacard@2x/img/JdxX4-dbQ6YUdAX9Wmh-UvtS9d0=/0x243:637x601/576x324/filters:strip_icc()/pic2649434.png",
+            "banner": "https://cf.geekdo-images.com/FP0yfxqT_HmoFOZhzGjCcw__itemheader/img/SHf2WTfU_eiV4biFTiWpf9jmVfQ=/800x450/filters:quality(30):strip_icc()/pic2689285.jpg"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 5,
+            "duration": 1,
+            "players": 3,
+            "difficulty": 4,
+            "cost": 5
+        }
+    },
+    "marvel-champions-the-card-game": {
+        "name": "Marvel Champions: The Card Game",
+        "description": "Battle Marvel villains with unique teams of iconic heroes in this LCG.",
+        "year": 2019,
+        "rating": 8.12,
+        "votes": 23873,
+        "duration": {
+            "min": 45,
+            "max": 90
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 2.9358,
+        "images": {
+            "default": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__mediacard/img/rfGEKi-GwAo7umFSBZXNK15DWTc=/0x0:1726x971/288x162/filters:strip_icc()/pic4900321.jpg",
+            "2x": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__mediacard@2x/img/O1uAi_hZjhFpTpIXWA-ndP0N9P8=/0x0:1726x971/576x324/filters:strip_icc()/pic4900321.jpg",
+            "banner": "https://cf.geekdo-images.com/47Cpu_vBqzrPG8ltpiU1_w__itemheader/img/ylOe2Qt2IMJki3q3U08UlRErt-U=/800x450/filters:quality(30):strip_icc()/pic5060277.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 7,
+            "duration": 3,
+            "players": 7,
+            "difficulty": 9,
+            "cost": 6
+        }
+    },
+    "pax-pamir-second-edition": {
+        "name": "Pax Pamir: Second Edition",
+        "description": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan.",
+        "year": 2019,
+        "rating": 8.19,
+        "votes": 14292,
+        "duration": {
+            "min": 45,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 13,
+        "weight": 3.8563,
+        "images": {
+            "default": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__mediacard/img/6wdHDJ-08Hga8siysTeqRgk-niw=/0x48:1673x989/288x162/filters:strip_icc()/pic4503733.png",
+            "2x": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__mediacard@2x/img/kg22MPQcIZzaBm0GVMBvf5hTIq8=/0x48:1673x989/576x324/filters:strip_icc()/pic4503733.png",
+            "banner": "https://cf.geekdo-images.com/pj7HXPlqQ574qjKf5nGqsQ__itemheader/img/BF9jFD4xYSD39kPBOiSf9yxiOYM=/800x450/filters:quality(30):strip_icc()/pic4706132.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 5,
+            "duration": 10,
+            "players": 9,
+            "difficulty": 7,
+            "cost": 0
+        }
+    },
+    "underwater-cities": {
+        "name": "Underwater Cities",
+        "description": "Develop future cities on the seafloor through politics, production, and science.",
+        "year": 2018,
+        "rating": 8.06,
+        "votes": 19808,
+        "duration": {
+            "min": 80,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.5907,
+        "images": {
+            "default": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__mediacard/img/B63bXIE8j4r6r8m-9KeQkFukaQA=/0x0:697x392/288x162/filters:strip_icc()/pic4837710.png",
+            "2x": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__mediacard@2x/img/mJewWO21b2t2alQorH_A0OER7G4=/0x0:697x392/576x324/filters:strip_icc()/pic4837710.png",
+            "banner": "https://cf.geekdo-images.com/dphTB5ukkN3eL0ZORTmm2w__itemheader/img/lKEuVzgoUIBl-ML4A8jxRGDLEHE=/800x450/filters:quality(30):strip_icc()/pic4472874.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 2,
+            "duration": 5,
+            "players": 4,
+            "difficulty": 3,
+            "cost": 9
+        }
+    },
+    "puerto-rico": {
+        "name": "Puerto Rico",
+        "description": "Ship goods, construct buildings, and choose roles that benefit you more than others.",
+        "year": 2002,
+        "rating": 7.92,
+        "votes": 71159,
+        "duration": {
+            "min": 90,
+            "max": 150
+        },
+        "players": {
+            "min": 3,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.269,
+        "images": {
+            "default": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__mediacard/img/tIy5kONCgwew-_KGOCuSXBI8tkE=/0x0:708x398/288x162/filters:strip_icc()/pic158548.jpg",
+            "2x": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__mediacard@2x/img/f7iTpMPIv6Y03ilwjDUMd6VV32k=/0x0:708x398/576x324/filters:strip_icc()/pic158548.jpg",
+            "banner": "https://cf.geekdo-images.com/qdbeElgNWByFOiimIbvfKg__itemheader/img/lNpGVr_4V3nyaHlJJpSiWFRr6l8=/800x450/filters:quality(30):strip_icc()/pic129481.jpg"
+        },
+        "score": {
+            "fun": 1,
+            "learning_curve": 9,
+            "duration": 7,
+            "players": 7,
+            "difficulty": 4,
+            "cost": 7
+        }
+    },
+    "cascadia": {
+        "name": "Cascadia",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
+        "year": 2021,
+        "rating": 7.95,
+        "votes": 39600,
+        "duration": {
+            "min": 30,
+            "max": 45
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 10,
+        "weight": 1.8504,
+        "images": {
+            "default": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard/img/i84Rg_1papUEEM6J-rfUmqyRtBU=/0x0:1200x675/288x162/filters:strip_icc()/pic5100691.jpg",
+            "2x": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard@2x/img/lVEuGQqJKyZNeXYcebc9AdH1oL0=/0x0:1200x675/576x324/filters:strip_icc()/pic5100691.jpg",
+            "banner": "https://cf.geekdo-images.com/N6cvoAuqbs4hl0L8BmnLPw__itemheader/img/VRnQoppc8qOAfc0im_dnn8qlTyM=/800x450/filters:quality(30):strip_icc()/pic6339716.jpg"
+        },
+        "score": {
+            "fun": 10,
+            "learning_curve": 4,
+            "duration": 1,
+            "players": 4,
+            "difficulty": 3,
+            "cost": 3
+        }
+    },
+    "crokinole": {
+        "name": "Crokinole",
+        "description": "Flick discs and make trick shots in this traditional Canadian dexterity game!",
+        "year": 1876,
+        "rating": 8.04,
+        "votes": 18186,
+        "duration": {
+            "min": 30,
+            "max": 30
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 8,
+        "weight": 1.2293,
+        "images": {
+            "default": "https://cf.geekdo-images.com/x4BbdwSDkjTnbQR_PfQHfg__mediacard/img/auoFYwtZ6ipF5O4iN51mPWbAuuI=/0x131:299x299/288x162/filters:strip_icc()/pic8207389.jpg",
+            "2x": "https://cf.geekdo-images.com/x4BbdwSDkjTnbQR_PfQHfg__mediacard@2x/img/MfwTyR7Uxsx6JIiuVyNyNJUJsrM=/0x131:299x299/576x324/filters:strip_icc()/pic8207389.jpg",
+            "banner": "https://cf.geekdo-images.com/84CMrpljkvQNeKZfUau2ug__itemheader/img/t3BMkq5aX-XTXqnjHhxoXWKOOho=/800x450/filters:quality(30):strip_icc()/pic2406894.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 8,
+            "duration": 7,
+            "players": 4,
+            "difficulty": 1,
+            "cost": 8
+        }
+    },
+    "kanban-ev": {
+        "name": "Kanban EV",
+        "description": "EV-factory workers optimize and innovate to stand out at the big board meeting.",
+        "year": 2020,
+        "rating": 8.42,
+        "votes": 7793,
+        "duration": {
+            "min": 60,
+            "max": 180
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.3082,
+        "images": {
+            "default": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__mediacard/img/MK31PFTkhQ6ivG6JZyQEslRYFqE=/0x1222:2417x2581/288x162/filters:strip_icc()/pic4924232.jpg",
+            "2x": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__mediacard@2x/img/x8r7aBMCcNuly7U1SeCnsM9ueWM=/0x1222:2417x2581/576x324/filters:strip_icc()/pic4924232.jpg",
+            "banner": "https://cf.geekdo-images.com/zvOdR5rCacIJSbAihyDWtw__itemheader/img/3AJOA_1CUqNbGBr73wKPNZXGvUg=/800x450/filters:quality(30):strip_icc()/pic5078275.png"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 2,
+            "duration": 6,
+            "players": 9,
+            "difficulty": 10,
+            "cost": 3
+        }
+    },
+    "caverna-the-cave-farmers": {
+        "name": "Caverna: The Cave Farmers",
+        "description": "From a simple cave, expand your dwarven home through mining, agriculture, and more.",
+        "year": 2013,
+        "rating": 7.95,
+        "votes": 34941,
+        "duration": {
+            "min": 30,
+            "max": 210
+        },
+        "players": {
+            "min": 1,
+            "max": 7
+        },
+        "minage": 12,
+        "weight": 3.7784,
+        "images": {
+            "default": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__mediacard/img/DIuxzj0-8vrXphX3kv9iKaTLhL4=/0x0:1235x695/288x162/filters:strip_icc()/pic5598833.jpg",
+            "2x": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__mediacard@2x/img/WNP48Gdgp08oaohIVJOjwTq_G5A=/0x0:1235x695/576x324/filters:strip_icc()/pic5598833.jpg",
+            "banner": "https://cf.geekdo-images.com/aCxqAF-u2hT7TnmmEiMVmA__itemheader/img/tBZofT0lLW2S270oo3N7zN0mgUk=/800x450/filters:quality(30):strip_icc()/pic1799025.jpg"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 2,
+            "duration": 8,
+            "players": 4,
+            "difficulty": 7,
+            "cost": 7
+        }
+    },
+    "anachrony": {
+        "name": "Anachrony",
+        "description": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm.",
+        "year": 2017,
+        "rating": 8.07,
+        "votes": 18803,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 15,
+        "weight": 4.0088,
+        "images": {
+            "default": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__mediacard/img/YW8jyVKDhW0QgOAmevm_wz2Td-g=/0x376:550x685/288x162/filters:strip_icc()/pic3499707.jpg",
+            "2x": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__mediacard@2x/img/4XYK2nvNwIrJM5X8hrQAlFty3Mk=/0x376:550x685/576x324/filters:strip_icc()/pic3499707.jpg",
+            "banner": "https://cf.geekdo-images.com/sWyWcWlNht7Yt5rr7bYhIA__itemheader/img/sOrX0Ylti2QZJxZjtSqCq_38iNA=/800x450/filters:quality(30):strip_icc()/pic2983884.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 2,
+            "duration": 3,
+            "players": 3,
+            "difficulty": 1,
+            "cost": 5
+        }
+    },
+    "blood-rage": {
+        "name": "Blood Rage",
+        "description": "Ragnarök has come! Secure your place in Valhalla in epic Viking battles.",
+        "year": 2015,
+        "rating": 7.93,
+        "votes": 47389,
+        "duration": {
+            "min": 60,
+            "max": 90
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 2.8799,
+        "images": {
+            "default": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__mediacard/img/gNvm8Xa-FrBrIlpzGdwjKX_E6Tk=/0x0:2000x1125/288x162/filters:strip_icc()/pic2439223.jpg",
+            "2x": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__mediacard@2x/img/XqqY5TZ2kW_UUzfZ3u4jydzce3M=/0x0:2000x1125/576x324/filters:strip_icc()/pic2439223.jpg",
+            "banner": "https://cf.geekdo-images.com/f1KUbP2l8ltRRTgCkZ3NRQ__itemheader/img/NdJcSVtyGkFroEosnqNY_iDHmbw=/800x450/filters:quality(30):strip_icc()/pic2618676.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 2,
+            "duration": 1,
+            "players": 1,
+            "difficulty": 7,
+            "cost": 1
+        }
+    },
+    "on-mars": {
+        "name": "On Mars",
+        "description": "Be a part of the first Martian colony, striving to be the best contributor.",
+        "year": 2020,
+        "rating": 8.19,
+        "votes": 12753,
+        "duration": {
+            "min": 90,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.6732,
+        "images": {
+            "default": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__mediacard/img/HpLNqxiMRXd_59LmchxLXRSCVDc=/0x1083:2015x2216/288x162/filters:strip_icc()/pic4357658.jpg",
+            "2x": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__mediacard@2x/img/_NbShk7dMsDztwxA1jU2AA1mRgY=/0x1083:2015x2216/576x324/filters:strip_icc()/pic4357658.jpg",
+            "banner": "https://cf.geekdo-images.com/q1UvBmkggA-4uermcetLpA__itemheader/img/OCM8zXN2ms0fEx6dlX7sxVXcZBs=/800x450/filters:quality(30):strip_icc()/pic4849162.jpg"
+        },
+        "score": {
+            "fun": 10,
+            "learning_curve": 8,
+            "duration": 6,
+            "players": 8,
+            "difficulty": 7,
+            "cost": 8
+        }
+    },
+    "pandemic-legacy-season-0": {
+        "name": "Pandemic Legacy: Season 0",
+        "description": "Work together during the Cold War to prevent a Soviet bio-threat.",
+        "year": 2020,
+        "rating": 8.39,
+        "votes": 7755,
+        "duration": {
+            "min": 45,
+            "max": 60
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.1523,
+        "images": {
+            "default": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__mediacard/img/BM09oiv3DayLGGgNz20IXAzu5hA=/0x315:1900x1384/288x162/filters:strip_icc()/pic5581457.jpg",
+            "2x": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__mediacard@2x/img/GqgL-kHYp-dsOLnN-gb_lJk1Bxo=/0x315:1900x1384/576x324/filters:strip_icc()/pic5581457.jpg",
+            "banner": "https://cf.geekdo-images.com/u3y2Nt8S91iqBdvLVB-DGg__itemheader/img/lOJZCKalH7eZPcHie3W7SlGXPRc=/800x450/filters:quality(30):strip_icc()/pic5534419.png"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 8,
+            "duration": 2,
+            "players": 7,
+            "difficulty": 2,
+            "cost": 4
+        }
+    },
+    "agricola": {
+        "name": "Agricola",
+        "description": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!",
+        "year": 2007,
+        "rating": 7.87,
+        "votes": 72985,
+        "duration": {
+            "min": 30,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.636,
+        "images": {
+            "default": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__mediacard/img/iJYcO3pqnIPskbKnjtQijGxRjW4=/0x0:1024x576/288x162/filters:strip_icc()/pic831744.jpg",
+            "2x": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__mediacard@2x/img/gqvv7VjnC9WmtC8Rzua72z8u2-g=/0x0:1024x576/576x324/filters:strip_icc()/pic831744.jpg",
+            "banner": "https://cf.geekdo-images.com/WeiIMQijn7O5lyooPXvoWQ__itemheader/img/UNQyvC9fxp5D74csa6r1hZyJ5Ws=/800x450/filters:quality(30):strip_icc()/pic326297.jpg"
+        },
+        "score": {
+            "fun": 10,
+            "learning_curve": 4,
+            "duration": 0,
+            "players": 2,
+            "difficulty": 8,
+            "cost": 1
+        }
+    },
+    "sleeping-gods": {
+        "name": "Sleeping Gods",
+        "description": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea.",
+        "year": 2021,
+        "rating": 8.21,
+        "votes": 12272,
+        "duration": {
+            "min": 60,
+            "max": 1200
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 3.2387,
+        "images": {
+            "default": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__mediacard/img/P8_XyCxhp6H1BucgBO7W9Y-0OuY=/0x0:3000x1688/288x162/filters:strip_icc()/pic5975244.png",
+            "2x": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__mediacard@2x/img/PxWZhjPqmMV8vpXX3vyKhCJxfU4=/0x0:3000x1688/576x324/filters:strip_icc()/pic5975244.png",
+            "banner": "https://cf.geekdo-images.com/MUZYAbcYGXMnuUVTs7GCXA__itemheader/img/rNIrrS8SiG-gtgyug6YHpSn9Bg8=/800x450/filters:quality(30):strip_icc()/pic4547776.jpg"
+        },
+        "score": {
+            "fun": 1,
+            "learning_curve": 9,
+            "duration": 7,
+            "players": 5,
+            "difficulty": 10,
+            "cost": 1
+        }
+    },
+    "pandemic-legacy-season-2": {
+        "name": "Pandemic Legacy: Season 2",
+        "description": "The world is a mystery after a devastating pandemic—where will your team go?",
+        "year": 2017,
+        "rating": 8.03,
+        "votes": 16967,
+        "duration": {
+            "min": 60,
+            "max": 60
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.2508,
+        "images": {
+            "default": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__mediacard/img/YWPOxSlv_XoICEhVEdPHX6HYGMA=/0x339:2000x1464/288x162/filters:strip_icc()/pic3763549.jpg",
+            "2x": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__mediacard@2x/img/Y3Zvru-_sp3GvAPvyKYFKweZD-Q=/0x339:2000x1464/576x324/filters:strip_icc()/pic3763549.jpg",
+            "banner": "https://cf.geekdo-images.com/LKfKrEcxCBwi_eh9aOX-GA__itemheader/img/LmTBs_lRk8D9uFyvPCqYUUDQhxQ=/800x450/filters:quality(30):strip_icc()/pic3618741.png"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 6,
+            "duration": 1,
+            "players": 5,
+            "difficulty": 5,
+            "cost": 3
+        }
+    },
+    "lisboa": {
+        "name": "Lisboa",
+        "description": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755.",
+        "year": 2017,
+        "rating": 8.19,
+        "votes": 11219,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 4.5831,
+        "images": {
+            "default": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__mediacard/img/fVbPY3r5cO6eXSWUjKAcoPk8hIU=/0x947:3000x2635/288x162/filters:strip_icc()/pic3209553.jpg",
+            "2x": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__mediacard@2x/img/cSjINzPfoYOcNgkD3bHVfXx1YGc=/0x947:3000x2635/576x324/filters:strip_icc()/pic3209553.jpg",
+            "banner": "https://cf.geekdo-images.com/sbSa-ek6oX3HxOzLn9ataA__itemheader/img/KUyFP4-QQfIJ5ZfHSbzIXGO_qj8=/800x450/filters:quality(30):strip_icc()/pic3189397.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 0,
+            "duration": 10,
+            "players": 5,
+            "difficulty": 1,
+            "cost": 9
+        }
+    },
+    "cthulhu-death-may-die": {
+        "name": "Cthulhu: Death May Die",
+        "description": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker.",
+        "year": 2019,
+        "rating": 8.19,
+        "votes": 12672,
+        "duration": {
+            "min": 90,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 14,
+        "weight": 2.4728,
+        "images": {
+            "default": "https://cf.geekdo-images.com/e8D09pfFsUsoX1D81EeoZg__mediacard/img/RZIrAXtA3F0r4gpJFp36xqj94rs=/0x824:2000x1949/288x162/filters:strip_icc()/pic4705171.jpg",
+            "2x": "https://cf.geekdo-images.com/e8D09pfFsUsoX1D81EeoZg__mediacard@2x/img/siTR8-Xmo_pwVM167C7kNUXcaS4=/0x824:2000x1949/576x324/filters:strip_icc()/pic4705171.jpg",
+            "banner": "https://cf.geekdo-images.com/RFoj71bL7v7mJ0Qqv52PcA__itemheader/img/O8ITWxgNImgg1EEHO8ParRoLWTY=/800x450/filters:quality(30):strip_icc()/pic5144519.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 8,
+            "duration": 8,
+            "players": 4,
+            "difficulty": 5,
+            "cost": 6
+        }
+    },
+    "mansions-of-madness-second-edition": {
+        "name": "Mansions of Madness: Second Edition",
+        "description": "Unravel mysteries in Arkham with your investigative team in this app-guided game.",
+        "year": 2016,
+        "rating": 7.95,
+        "votes": 36605,
+        "duration": {
+            "min": 120,
+            "max": 180
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 14,
+        "weight": 2.6893,
+        "images": {
+            "default": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__mediacard/img/g9sRs6JGEhlq20ymvLqb6WRX1ak=/0x0:600x338/288x162/filters:strip_icc()/pic3118622.jpg",
+            "2x": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__mediacard@2x/img/drvGA4Mrp0QEk9RLE-PP-Ep-gOQ=/0x0:600x338/576x324/filters:strip_icc()/pic3118622.jpg",
+            "banner": "https://cf.geekdo-images.com/m9ZedNP_8LjWTwlSsrvY3w__itemheader/img/SZWn9pkWi5O_1OENTo5wropKhVw=/800x450/filters:quality(30):strip_icc()/pic3112719.png"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 8,
+            "duration": 5,
+            "players": 7,
+            "difficulty": 7,
+            "cost": 1
+        }
+    },
+    "obsession": {
+        "name": "Obsession",
+        "description": "Renovate an estate, manage servants, and pursue romance in Victorian England.",
+        "year": 2018,
+        "rating": 8.14,
+        "votes": 12744,
+        "duration": {
+            "min": 30,
+            "max": 90
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.0994,
+        "images": {
+            "default": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__mediacard/img/2QNWzv5_GQr3qUw4t44Tt-7Vs9o=/0x0:1900x1069/288x162/filters:strip_icc()/pic5902073.png",
+            "2x": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__mediacard@2x/img/ayo8xn0TpYeJPPMQRDlFauoiFI0=/0x0:1900x1069/576x324/filters:strip_icc()/pic5902073.png",
+            "banner": "https://cf.geekdo-images.com/Eclq4JuO4iS693FFWboR6A__itemheader/img/oPbtcFsilJSh-VaopNg6iAloI7s=/800x450/filters:quality(30):strip_icc()/pic6283886.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 8,
+            "duration": 1,
+            "players": 10,
+            "difficulty": 7,
+            "cost": 7
+        }
+    },
+    "tzolkin-the-mayan-calendar": {
+        "name": "Tzolk'in: The Mayan Calendar",
+        "description": "Lead your people, build monuments and make offerings to earn the favour of the gods.",
+        "year": 2012,
+        "rating": 7.86,
+        "votes": 39497,
+        "duration": {
+            "min": 90,
+            "max": 90
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 3.6667,
+        "images": {
+            "default": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__mediacard/img/U1U2ECr9IIMvsVYSdNJGnutLi8c=/0x0:1000x563/288x162/filters:strip_icc()/pic4604439.jpg",
+            "2x": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__mediacard@2x/img/58aDvVV378c7bye0JVd4s-jFdMA=/0x0:1000x563/576x324/filters:strip_icc()/pic4604439.jpg",
+            "banner": "https://cf.geekdo-images.com/DoHwEEEJobPokZKcrJLfCQ__itemheader/img/bw9TyYhxiLgvsPC6Twzz7sMfxGc=/800x450/filters:quality(30):strip_icc()/pic1441830.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 8,
+            "duration": 8,
+            "players": 4,
+            "difficulty": 2,
+            "cost": 4
+        }
+    },
+    "power-grid": {
+        "name": "Power Grid",
+        "description": "Bid, network, and manage resources in a race to supply the most cities with power.",
+        "year": 2004,
+        "rating": 7.81,
+        "votes": 65679,
+        "duration": {
+            "min": 120,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 6
+        },
+        "minage": 12,
+        "weight": 3.2532,
+        "images": {
+            "default": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__mediacard/img/mJoMnV7rJjBizVWyNmJxNq5Q4-c=/0x0:1000x563/288x162/filters:strip_icc()/pic4459753.jpg",
+            "2x": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__mediacard@2x/img/T1r5q1D-sdrPCLYw17dfB3kdD84=/0x0:1000x563/576x324/filters:strip_icc()/pic4459753.jpg",
+            "banner": "https://cf.geekdo-images.com/031KGSuNFbQYjuOzB0aqWw__itemheader/img/qe8J5XYtUleqw3s80sbOOEsDFIs=/800x450/filters:quality(30):strip_icc()/pic147429.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 1,
+            "duration": 5,
+            "players": 8,
+            "difficulty": 0,
+            "cost": 10
+        }
+    },
+    "maracaibo": {
+        "name": "Maracaibo",
+        "description": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean.",
+        "year": 2019,
+        "rating": 8.02,
+        "votes": 16475,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.9169,
+        "images": {
+            "default": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__mediacard/img/hlOqobUr-UTzIKO3frOFbTS9KtM=/0x90:480x388/fit-in/288x162/filters:fill(blur):strip_icc()/pic4917407.jpg",
+            "2x": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__mediacard@2x/img/INwBOTLJqh5FHCtk8CKqHNbARx8=/0x90:480x388/fit-in/576x324/filters:fill(blur):strip_icc()/pic4917407.jpg",
+            "banner": "https://cf.geekdo-images.com/Qjs4vj5angM6nuLmO0D-Rw__itemheader/img/X-PwaxPVrV92MjV5f8NGXFhtX-s=/800x450/filters:quality(30):strip_icc()/pic5026080.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 3,
+            "duration": 1,
+            "players": 7,
+            "difficulty": 4,
+            "cost": 2
+        }
+    },
+    "grand-austria-hotel": {
+        "name": "Grand Austria Hotel",
+        "description": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age.",
+        "year": 2015,
+        "rating": 7.95,
+        "votes": 21174,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.2133,
+        "images": {
+            "default": "https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__mediacard/img/n0-6JLGn82pYWqsc03pl1_RYR4w=/0x0:1819x1023/288x162/filters:strip_icc()/pic6966955.jpg",
+            "2x": "https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__mediacard@2x/img/8JpMr4cHxF3les7SIUe0TwP8SYg=/0x0:1819x1023/576x324/filters:strip_icc()/pic6966955.jpg",
+            "banner": "https://cf.geekdo-images.com/ZKFxtkBORoGCu9dOis6n0A__itemheader/img/zMGeRyn9MyoJWvWtKpDjp_o6Twc=/800x450/filters:quality(30):strip_icc()/pic2649933.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 5,
+            "duration": 4,
+            "players": 0,
+            "difficulty": 9,
+            "cost": 6
+        }
+    },
+    "the-quacks-of-quedlinburg": {
+        "name": "The Quacks of Quedlinburg",
+        "description": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
+        "year": 2018,
+        "rating": 7.82,
+        "votes": 50241,
+        "duration": {
+            "min": 45,
+            "max": 45
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 10,
+        "weight": 1.9455,
+        "images": {
+            "default": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__mediacard/img/4YHdLlhxDCZ-HKmaDKh417N9Yik=/0x0:2500x1406/288x162/filters:strip_icc()/pic6137509.png",
+            "2x": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__mediacard@2x/img/AUDL9-LVZgjBcqmXB8JJKnos8dI=/0x0:2500x1406/576x324/filters:strip_icc()/pic6137509.png",
+            "banner": "https://cf.geekdo-images.com/X8Ff6-_RI29wIwLv6jc-Ng__itemheader/img/LSTYdJhvpGX1IIatb9Y7TzUVlg8=/800x450/filters:quality(30):strip_icc()/pic4490389.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 5,
+            "duration": 10,
+            "players": 2,
+            "difficulty": 8,
+            "cost": 1
+        }
+    },
+    "clans-of-caledonia": {
+        "name": "Clans of Caledonia",
+        "description": "Lead your unique Scottish clan to economic might via production, trade, and export.",
+        "year": 2017,
+        "rating": 7.94,
+        "votes": 20502,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.4586,
+        "images": {
+            "default": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__mediacard/img/GHYoq65SyYNiTr5u-R3GAKa4ktg=/0x0:3110x1749/288x162/filters:strip_icc()/pic3511783.png",
+            "2x": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__mediacard@2x/img/QUBZ1-o7eH45DdJctfs21fba3-4=/0x0:3110x1749/576x324/filters:strip_icc()/pic3511783.png",
+            "banner": "https://cf.geekdo-images.com/ULJFXw-l12J_wKbGRpHYdA__itemheader/img/OA5Wv_FdjkM-HFUKTmDwn45QgOo=/800x450/filters:quality(30):strip_icc()/pic3522382.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 5,
+            "duration": 6,
+            "players": 4,
+            "difficulty": 6,
+            "cost": 1
+        }
+    },
+    "oathsworn-into-the-deepwood": {
+        "name": "Oathsworn: Into the Deepwood",
+        "description": "Fight for humanity's survival against unnatural horrors and the Deepwood itself.",
+        "year": 2022,
+        "rating": 8.97,
+        "votes": 4870,
+        "duration": {
+            "min": 30,
+            "max": 90
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.6514,
+        "images": {
+            "default": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__mediacard/img/TV2M5DwDCjOP5Oku1-FyaXXHw8o=/0x526:4796x3224/288x162/filters:strip_icc()/pic6863204.jpg",
+            "2x": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__mediacard@2x/img/A6JrBGF4O4Fi1dP6q73YeOYnYnA=/0x526:4796x3224/576x324/filters:strip_icc()/pic6863204.jpg",
+            "banner": "https://cf.geekdo-images.com/iRPnf0so_O4nopF3YaPRCQ__itemheader/img/HWtSXKTwLHHZXlXaV7T1se1wSUs=/800x450/filters:quality(30):strip_icc()/pic6863224.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 4,
+            "duration": 7,
+            "players": 8,
+            "difficulty": 6,
+            "cost": 9
+        }
+    },
+    "le-havre": {
+        "name": "Le Havre",
+        "description": "Establish a supply chain by collecting resources, building industries, and shipping.",
+        "year": 2008,
+        "rating": 7.85,
+        "votes": 31815,
+        "duration": {
+            "min": 30,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 3.7165,
+        "images": {
+            "default": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__mediacard/img/hMuCtMObt5gLBH8L0H3aNbU-quY=/0x0:428x241/288x162/filters:strip_icc()/pic6091101.jpg",
+            "2x": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__mediacard@2x/img/6Zfgwjq9l0k70o6hnpRws4eI_SY=/0x0:428x241/576x324/filters:strip_icc()/pic6091101.jpg",
+            "banner": "https://cf.geekdo-images.com/gkcT3w__DWQiwPCLZvuYtg__itemheader/img/m-UDIsVdECbVaUag18FVXuEwvaM=/800x450/filters:quality(30):strip_icc()/pic392682.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 8,
+            "duration": 5,
+            "players": 9,
+            "difficulty": 3,
+            "cost": 10
+        }
+    },
+    "paladins-of-the-west-kingdom": {
+        "name": "Paladins of the West Kingdom",
+        "description": "Invaders are coming from everywhere.  Keep the faith and defend your homeland.",
+        "year": 2019,
+        "rating": 7.98,
+        "votes": 17976,
+        "duration": {
+            "min": 90,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.7208,
+        "images": {
+            "default": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__mediacard/img/EzKUpziyFd-_OPrB8Q33j1MrSBU=/0x288:2718x1816/288x162/filters:strip_icc()/pic4462987.png",
+            "2x": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__mediacard@2x/img/kogRK-YSLJNmENS6958qUfrjjE0=/0x288:2718x1816/576x324/filters:strip_icc()/pic4462987.png",
+            "banner": "https://cf.geekdo-images.com/E2xvQZSyO5Q4ugDn8Wf8HQ__itemheader/img/2sPhNIFtOBsJVRZ1vdPkut9ekWs=/800x450/filters:quality(30):strip_icc()/pic4547332.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 1,
+            "duration": 4,
+            "players": 6,
+            "difficulty": 2,
+            "cost": 7
+        }
+    },
+    "the-gallerist": {
+        "name": "The Gallerist",
+        "description": "Amass a fortune, and stake your reputation by operating a lucrative art gallery.",
+        "year": 2015,
+        "rating": 8.02,
+        "votes": 14730,
+        "duration": {
+            "min": 60,
+            "max": 150
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 4.2461,
+        "images": {
+            "default": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__mediacard/img/-5h_QHkPQmqqRpymLWmfjg4RCZo=/0x555:1129x1190/288x162/filters:strip_icc()/pic2503200.png",
+            "2x": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__mediacard@2x/img/7cSqtQP9C3yLCrMQ9kEl4WXPN9c=/0x555:1129x1190/576x324/filters:strip_icc()/pic2503200.png",
+            "banner": "https://cf.geekdo-images.com/U36NPYdAmiDan2g1F39Yqw__itemheader/img/LxN4AprWzBuLXjW4kTYOTdeZU0A=/800x450/filters:quality(30):strip_icc()/pic2661884.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 1,
+            "duration": 9,
+            "players": 10,
+            "difficulty": 9,
+            "cost": 6
+        }
+    },
+    "star-wars-imperial-assault": {
+        "name": "Star Wars: Imperial Assault",
+        "description": "Play as Rebel or Imperial forces to fulfill mission objectives.",
+        "year": 2014,
+        "rating": 7.96,
+        "votes": 24708,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 14,
+        "weight": 3.3056,
+        "images": {
+            "default": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__mediacard/img/4utD0rHHXcq8pvHA2ZoPBZeejIA=/0x0:600x338/288x162/filters:strip_icc()/pic2247647.jpg",
+            "2x": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__mediacard@2x/img/Wq881E52hyssuFDPrxSzfPV_6vg=/0x0:600x338/576x324/filters:strip_icc()/pic2247647.jpg",
+            "banner": "https://cf.geekdo-images.com/D8Ez24EEigLY1JyCIImMig__itemheader/img/RJvqX4cHSZ9NrA41Kb4uqlmirGk=/800x450/filters:quality(30):strip_icc()/pic2273560.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 7,
+            "duration": 5,
+            "players": 2,
+            "difficulty": 8,
+            "cost": 7
+        }
+    },
+    "hegemony-lead-your-class-to-victory": {
+        "name": "Hegemony: Lead Your Class to Victory",
+        "description": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game.",
+        "year": 2023,
+        "rating": 8.47,
+        "votes": 6702,
+        "duration": {
+            "min": 90,
+            "max": 180
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 4.2018,
+        "images": {
+            "default": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__mediacard/img/58SQVt_SGrKfjkbkiVjc3GI-t14=/0x0:1772x997/288x162/filters:strip_icc()/pic5715770.jpg",
+            "2x": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__mediacard@2x/img/VH2MoJqnvfrB7MVQE7HtZEHrhtg=/0x0:1772x997/576x324/filters:strip_icc()/pic5715770.jpg",
+            "banner": "https://cf.geekdo-images.com/EbqfgIcfSBhKl7Dx-arBpQ__itemheader/img/GyvRZ4-SVvJoofQ_NoTje-ewuMM=/800x450/filters:quality(30):strip_icc()/pic6499213.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 6,
+            "duration": 5,
+            "players": 6,
+            "difficulty": 5,
+            "cost": 4
+        }
+    },
+    "mechs-vs-minions": {
+        "name": "Mechs vs. Minions",
+        "description": "Cooperatively program and pilot your mechs to defeat an army of marauding minions.",
+        "year": 2016,
+        "rating": 7.97,
+        "votes": 17496,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 2.4427,
+        "images": {
+            "default": "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__mediacard/img/zqH9elEMieOBkbIRlRceFPf7ib0=/0x161:2600x1624/288x162/filters:strip_icc()/pic3184103.jpg",
+            "2x": "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__mediacard@2x/img/4PKQj-yBpgx9UbFDceuaTApIjLw=/0x161:2600x1624/576x324/filters:strip_icc()/pic3184103.jpg",
+            "banner": "https://cf.geekdo-images.com/FopiIfSzPWMDkFE9g8uDTw__itemheader/img/6nRW8YtflTLxNR7_gJmkLK62J-c=/800x450/filters:quality(30):strip_icc()/pic3183967.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 1,
+            "duration": 1,
+            "players": 9,
+            "difficulty": 8,
+            "cost": 5
+        }
+    },
+    "android-netrunner": {
+        "name": "Android: Netrunner",
+        "description": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse.",
+        "year": 2012,
+        "rating": 7.88,
+        "votes": 30190,
+        "duration": {
+            "min": 45,
+            "max": 45
+        },
+        "players": {
+            "min": 2,
+            "max": 2
+        },
+        "minage": 14,
+        "weight": 3.4104,
+        "images": {
+            "default": "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__mediacard/img/ka1dq9aTPyzV7tWKU06Z24-ZV-4=/0x0:2000x1125/288x162/filters:strip_icc()/pic3738560.jpg",
+            "2x": "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__mediacard@2x/img/we2edA5VAENTEVOMPST-riEfVRQ=/0x0:2000x1125/576x324/filters:strip_icc()/pic3738560.jpg",
+            "banner": "https://cf.geekdo-images.com/R7NPywC1wqgu2YmBWnqKJQ__itemheader/img/hm0e5uSpAi1zUw4kdpakXz02RMk=/800x450/filters:quality(30):strip_icc()/pic5553826.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 2,
+            "duration": 3,
+            "players": 5,
+            "difficulty": 9,
+            "cost": 1
+        }
+    },
+    "the-crew-the-quest-for-planet-nine": {
+        "name": "The Crew: The Quest for Planet Nine",
+        "description": "Go on many planet-discovering space missions in this cooperative trick-taking game.",
+        "year": 2019,
+        "rating": 7.8,
+        "votes": 42011,
+        "duration": {
+            "min": 20,
+            "max": 20
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 10,
+        "weight": 1.9532,
+        "images": {
+            "default": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__mediacard/img/V0-_3x6KBfM68ePLT2ihxBd80AI=/0x0:1440x810/288x162/filters:strip_icc()/pic5687013.jpg",
+            "2x": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__mediacard@2x/img/5WbhmvLGCY8JtS7nXP8IumLsyBE=/0x0:1440x810/576x324/filters:strip_icc()/pic5687013.jpg",
+            "banner": "https://cf.geekdo-images.com/0ApmYv9LSjnexNpiMVS7lQ__itemheader/img/NE58vux-OoC7hBYhYv2NntpO3Vk=/800x450/filters:quality(30):strip_icc()/pic5506507.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 1,
+            "duration": 5,
+            "players": 1,
+            "difficulty": 5,
+            "cost": 0
+        }
+    },
+    "dune-imperium-uprising": {
+        "name": "Dune: Imperium – Uprising",
+        "description": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
+        "year": 2023,
+        "rating": 8.73,
+        "votes": 4956,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 6
+        },
+        "minage": 13,
+        "weight": 3.4369,
+        "images": {
+            "default": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard/img/WvAdTbLWcsnMjjfvwiEXqbeagLQ=/0x0:3539x1991/288x162/filters:strip_icc()/pic7664424.jpg",
+            "2x": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard@2x/img/CMvL0xoF9CXGLha6rctkKeAxm4M=/0x0:3539x1991/576x324/filters:strip_icc()/pic7664424.jpg",
+            "banner": "https://cf.geekdo-images.com/mk8BSChUnfBFP4pEk613KQ__itemheader/img/ra8zTZK69-ucmPNWcAaPW3oSmMk=/800x450/filters:quality(30):strip_icc()/pic7680371.jpg"
+        },
+        "score": {
+            "fun": 1,
+            "learning_curve": 0,
+            "duration": 4,
+            "players": 10,
+            "difficulty": 6,
+            "cost": 8
+        }
+    },
+    "kingdom-death-monster": {
+        "name": "Kingdom Death: Monster",
+        "description": "Try to survive in a nightmarish world that lies under eternal darkness.",
+        "year": 2015,
+        "rating": 8.49,
+        "votes": 9706,
+        "duration": {
+            "min": 60,
+            "max": 180
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 17,
+        "weight": 4.2624,
+        "images": {
+            "default": "https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__mediacard/img/kmssbY9w-IxjfiKDhPXexGtR4aw=/288x162/filters:strip_icc()/pic2931007.jpg",
+            "2x": "https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__mediacard@2x/img/Igyo8iXAD3wnRlOkiTXklNM12uY=/576x324/filters:strip_icc()/pic2931007.jpg",
+            "banner": "https://cf.geekdo-images.com/88Vh-eJqsUk6xui8MCcofw__itemheader/img/yTcW3vwSANz1AaSqBJcfKldJUd8=/800x450/filters:quality(30):strip_icc()/pic2592273.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 9,
+            "duration": 4,
+            "players": 9,
+            "difficulty": 1,
+            "cost": 5
+        }
+    },
+    "agricola-revised-edition": {
+        "name": "Agricola (Revised Edition)",
+        "description": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game.",
+        "year": 2016,
+        "rating": 7.96,
+        "votes": 18052,
+        "duration": {
+            "min": 30,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.4504,
+        "images": {
+            "default": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__mediacard/img/Xd5FEpKtUPdBYXuUQZENrrO66G0=/0x0:1435x807/288x162/filters:strip_icc()/pic8093340.jpg",
+            "2x": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__mediacard@2x/img/wktG-44fLaquUHUcaSCBUq9zeWs=/0x0:1435x807/576x324/filters:strip_icc()/pic8093340.jpg",
+            "banner": "https://cf.geekdo-images.com/1Luv_fbf44FJTsxUbPmdOw__itemheader/img/fINc-oaGVbC8fDZSv5RUDYWS2QE=/800x450/filters:quality(30):strip_icc()/pic3397112.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 8,
+            "duration": 1,
+            "players": 8,
+            "difficulty": 1,
+            "cost": 5
+        }
+    },
+    "azul": {
+        "name": "Azul",
+        "description": "Artfully embellish the walls of your palace by drafting the most beautiful tiles.",
+        "year": 2017,
+        "rating": 7.75,
+        "votes": 91380,
+        "duration": {
+            "min": 30,
+            "max": 45
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 8,
+        "weight": 1.7637,
+        "images": {
+            "default": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__mediacard/img/Iqqta1ITVG-iHjJSjMmLqzpevAA=/0x312:1500x1156/288x162/filters:strip_icc()/pic6973671.png",
+            "2x": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__mediacard@2x/img/PXlEtiqodkV60L0KRzHknt2i2f0=/0x312:1500x1156/576x324/filters:strip_icc()/pic6973671.png",
+            "banner": "https://cf.geekdo-images.com/zB_s21bFGCqUeMj0us7xwA__itemheader/img/LYjr4hIIiG1mCdnIiKnKiyjSVH8=/800x450/filters:quality(30):strip_icc()/pic3721303.png"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 4,
+            "duration": 0,
+            "players": 6,
+            "difficulty": 6,
+            "cost": 3
+        }
+    },
+    "race-for-the-galaxy": {
+        "name": "Race for the Galaxy",
+        "description": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
+        "year": 2007,
+        "rating": 7.74,
+        "votes": 55688,
+        "duration": {
+            "min": 30,
+            "max": 60
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 2.9907,
+        "images": {
+            "default": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__mediacard/img/d17uNo94bnmLY1fGT_30ZStW_Xs=/0x0:594x334/288x162/filters:strip_icc()/pic5261714.jpg",
+            "2x": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__mediacard@2x/img/F0NTPRhRj7rNycdX3AY3aPdDd58=/0x0:594x334/576x324/filters:strip_icc()/pic5261714.jpg",
+            "banner": "https://cf.geekdo-images.com/-XcEBd6P6dexsrIhWhmRKA__itemheader/img/jkWNOlWN6EUTTU7DdZaX2xvSsRA=/800x450/filters:quality(30):strip_icc()/pic982352.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 6,
+            "duration": 4,
+            "players": 4,
+            "difficulty": 5,
+            "cost": 0
+        }
+    },
+    "five-tribes-the-djinns-of-naqala": {
+        "name": "Five Tribes: The Djinns of Naqala",
+        "description": "Move assassins, elders & builders through Naqala to claim oases & control djinns.",
+        "year": 2014,
+        "rating": 7.77,
+        "votes": 41674,
+        "duration": {
+            "min": 40,
+            "max": 80
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 2.8442,
+        "images": {
+            "default": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__mediacard/img/TQM6qgKwvvT9p7cC1eP5hbK_VI4=/0x0:724x407/288x162/filters:strip_icc()/pic2055255.jpg",
+            "2x": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__mediacard@2x/img/eClnk7XrI5ifBHTvihuJqVP-5s4=/0x0:724x407/576x324/filters:strip_icc()/pic2055255.jpg",
+            "banner": "https://cf.geekdo-images.com/uKkX1V9RcAowxb2cVwuJOg__itemheader/img/o2uvnnqfcKNRj8OGZhh0Gq-XCgI=/800x450/filters:quality(30):strip_icc()/pic2207278.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 7,
+            "duration": 7,
+            "players": 2,
+            "difficulty": 3,
+            "cost": 10
+        }
+    },
+    "eclipse-new-dawn-for-the-galaxy": {
+        "name": "Eclipse: New Dawn for the Galaxy",
+        "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
+        "year": 2011,
+        "rating": 7.83,
+        "votes": 28437,
+        "duration": {
+            "min": 60,
+            "max": 180
+        },
+        "players": {
+            "min": 2,
+            "max": 6
+        },
+        "minage": 14,
+        "weight": 3.7042,
+        "images": {
+            "default": "https://cf.geekdo-images.com/cnFppsVNOSTJ-W3APQFuTg__mediacard/img/xwtp8zpYq7tuz4muAJ0wN9Nh7BM=/0x0:1964x1105/288x162/filters:strip_icc()/pic1974056.jpg",
+            "2x": "https://cf.geekdo-images.com/cnFppsVNOSTJ-W3APQFuTg__mediacard@2x/img/0l8z-NY87RfUdslR-_wtss7PrEE=/0x0:1964x1105/576x324/filters:strip_icc()/pic1974056.jpg",
+            "banner": "https://cf.geekdo-images.com/_OowMJ2rdonVw0OJaIhUiQ__itemheader/img/F-Ynzri2BwjHS8fTrVNLAQsVxcQ=/800x450/filters:quality(30):strip_icc()/pic1761503.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 7,
+            "duration": 1,
+            "players": 2,
+            "difficulty": 7,
+            "cost": 0
+        }
+    },
+    "clank-a-deck-building-adventure": {
+        "name": "Clank!: A Deck-Building Adventure",
+        "description": "Claim your treasures but don't attract the dragon in this deck-building dungeon race.",
+        "year": 2016,
+        "rating": 7.78,
+        "votes": 42591,
+        "duration": {
+            "min": 30,
+            "max": 60
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 2.2239,
+        "images": {
+            "default": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__mediacard/img/mfnlPUpjUswnDDtmj003t99NrRQ=/0x0:1497x842/288x162/filters:strip_icc()/pic4449526.jpg",
+            "2x": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__mediacard@2x/img/UPUePhP7ihF6QBSdR1iE5ocC5hQ=/0x0:1497x842/576x324/filters:strip_icc()/pic4449526.jpg",
+            "banner": "https://cf.geekdo-images.com/DiaI62T4Wnhr9VYjn-whYQ__itemheader/img/HfBQbLLVVVVw9I-7rkBgrM8DBKA=/800x450/filters:quality(30):strip_icc()/pic3127910.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 4,
+            "duration": 7,
+            "players": 7,
+            "difficulty": 1,
+            "cost": 7
+        }
+    },
+    "aeons-end": {
+        "name": "Aeon's End",
+        "description": "Mages must reach their full potential to defend humanity from terrible monstrosities.",
+        "year": 2016,
+        "rating": 7.9,
+        "votes": 20862,
+        "duration": {
+            "min": 60,
+            "max": 60
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 2.8115,
+        "images": {
+            "default": "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__mediacard/img/s5Alx3LGWRk9Gi0KwsZtSKDFaNU=/0x0:1600x900/288x162/filters:strip_icc()/pic3189350.jpg",
+            "2x": "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__mediacard@2x/img/Km02CiJTmw0Hs2PO3EpgZLjuFoU=/0x0:1600x900/576x324/filters:strip_icc()/pic3189350.jpg",
+            "banner": "https://cf.geekdo-images.com/tYw4rPZ1Fkv_i6STogkI5w__itemheader/img/-MptrPrHNss6MU5ZL18492fNUV4=/800x450/filters:quality(30):strip_icc()/pic2961894.jpg"
+        },
+        "score": {
+            "fun": 10,
+            "learning_curve": 9,
+            "duration": 2,
+            "players": 8,
+            "difficulty": 9,
+            "cost": 7
+        }
+    },
+    "fields-of-arle": {
+        "name": "Fields of Arle",
+        "description": "Construct dikes, drain bogs, harvest flax and tend to newborn animals in East Frisia.",
+        "year": 2014,
+        "rating": 8.03,
+        "votes": 11089,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 2
+        },
+        "minage": 13,
+        "weight": 3.8466,
+        "images": {
+            "default": "https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__mediacard/img/ShCFW5s-zVaDNgmYtMvuOAD54m8=/0x0:567x319/288x162/filters:strip_icc()/pic2225968.png",
+            "2x": "https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__mediacard@2x/img/VR25oKM6e_dKp6T4aBan987CEjE=/0x0:567x319/576x324/filters:strip_icc()/pic2225968.png",
+            "banner": "https://cf.geekdo-images.com/ICB4x36mG3q5mqxRs-MROQ__itemheader/img/mbzIZNT71cIes5RBMBFR1-ubG9Y=/800x450/filters:quality(30):strip_icc()/pic2741034.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 7,
+            "duration": 9,
+            "players": 5,
+            "difficulty": 8,
+            "cost": 1
+        }
+    },
+    "beyond-the-sun": {
+        "name": "Beyond the Sun",
+        "description": "Collectively develop a tech tree to fuel new discoveries and colonize space.",
+        "year": 2020,
+        "rating": 7.92,
+        "votes": 14731,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.123,
+        "images": {
+            "default": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard/img/joQwWfHLUgc2PgoSOLgPHwVGtWo=/0x0:4371x2459/288x162/filters:strip_icc()/pic5617866.jpg",
+            "2x": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard@2x/img/lQq_-XEqiMFUr37c6tShVxZNTAM=/0x0:4371x2459/576x324/filters:strip_icc()/pic5617866.jpg",
+            "banner": "https://cf.geekdo-images.com/7FQ2-N9MQ-iKcXKETrcTEg__itemheader/img/a96s23IR1cKE15KJ208obYiVJoc=/800x450/filters:quality(30):strip_icc()/pic5765601.jpg"
+        },
+        "score": {
+            "fun": 0,
+            "learning_curve": 9,
+            "duration": 3,
+            "players": 5,
+            "difficulty": 10,
+            "cost": 10
+        }
+    },
+    "teotihuacan-city-of-gods": {
+        "name": "Teotihuacan: City of Gods",
+        "description": "Use your worker dice to raise the legendary and breathtaking Pyramid of the Sun.",
+        "year": 2018,
+        "rating": 7.86,
+        "votes": 20035,
+        "duration": {
+            "min": 90,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.7774,
+        "images": {
+            "default": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard/img/KQPVoFcvfMeDzuqxqgPY4CTlzdk=/0x0:3425x1927/288x162/filters:strip_icc()/pic4583626.jpg",
+            "2x": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard@2x/img/WAYzAuoKT_XMBbMyYMSM7FTLdc8=/0x0:3425x1927/576x324/filters:strip_icc()/pic4583626.jpg",
+            "banner": "https://cf.geekdo-images.com/DxV6FjMSE-uKf8zU0gv3RA__itemheader/img/BlzR5DrYTdP-Ns3qOpIoUacC74g=/800x450/filters:quality(30):strip_icc()/pic4193669.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 1,
+            "duration": 4,
+            "players": 1,
+            "difficulty": 4,
+            "cost": 7
+        }
+    },
+    "sky-team": {
+        "name": "Sky Team",
+        "description": "Pilot and co-pilot work together to land planes.",
+        "year": 2023,
+        "rating": 8.19,
+        "votes": 8309,
+        "duration": {
+            "min": 15,
+            "max": 15
+        },
+        "players": {
+            "min": 2,
+            "max": 2
+        },
+        "minage": 12,
+        "weight": 2.0596,
+        "images": {
+            "default": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__mediacard/img/_35fpOlUi_N6Vv4n_6Ghd9J8yd4=/0x201:2176x1425/288x162/filters:strip_icc()/pic7398904.jpg",
+            "2x": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__mediacard@2x/img/ziY0n-Pmit-JFCSpveEBPkj_POU=/0x201:2176x1425/576x324/filters:strip_icc()/pic7398904.jpg",
+            "banner": "https://cf.geekdo-images.com/dUZKqBthY3oqJ5G4LeD5pA__itemheader/img/ydC7tQdMedZUc2ysh-JG3dru-Yo=/800x450/filters:quality(30):strip_icc()/pic7812598.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 3,
+            "duration": 4,
+            "players": 7,
+            "difficulty": 5,
+            "cost": 5
+        }
+    },
+    "lords-of-waterdeep": {
+        "name": "Lords of Waterdeep",
+        "description": "Deploy agents and hire adventurers to expand your control over the city of Waterdeep.",
+        "year": 2012,
+        "rating": 7.73,
+        "votes": 55799,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 2.4512,
+        "images": {
+            "default": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__mediacard/img/WHtHGvsrwGz9uSXgDJo25Db9jO0=/0x0:630x354/288x162/filters:strip_icc()/pic1116080.jpg",
+            "2x": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__mediacard@2x/img/sqt8Augx_CeTo5RGeRe_8aNJjJE=/0x0:630x354/576x324/filters:strip_icc()/pic1116080.jpg",
+            "banner": "https://cf.geekdo-images.com/BHVUge0kHa5yK1NcHCIAWw__itemheader/img/n8TJd5HJcwSiGdz8VYuOR5tk3Cg=/800x450/filters:quality(30):strip_icc()/pic1285846.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 4,
+            "duration": 4,
+            "players": 6,
+            "difficulty": 6,
+            "cost": 3
+        }
+    },
+    "through-the-ages-a-story-of-civilization": {
+        "name": "Through the Ages: A Story of Civilization",
+        "description": "Lead your civilization through strategic drafting of leaders, technologies, and more.",
+        "year": 2006,
+        "rating": 7.84,
+        "votes": 19410,
+        "duration": {
+            "min": 120,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 4.1767,
+        "images": {
+            "default": "https://cf.geekdo-images.com/3piN3YX4WmBRuIvbEG2Ygg__mediacard/img/BJcbf5XvkeMWJ-YFU0fwQoebsLE=/0x0:1000x563/288x162/filters:strip_icc()/pic236169.jpg",
+            "2x": "https://cf.geekdo-images.com/3piN3YX4WmBRuIvbEG2Ygg__mediacard@2x/img/3w4bzXN6M76xWkWebXxfT8ZVST8=/0x0:1000x563/576x324/filters:strip_icc()/pic236169.jpg",
+            "banner": "https://cf.geekdo-images.com/iuEkTBukDXfEAt5-x72PTQ__itemheader/img/xSxoqbVlEg08kleVdWaYieI7DBI=/800x450/filters:quality(30):strip_icc()/pic160912.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 5,
+            "duration": 3,
+            "players": 6,
+            "difficulty": 6,
+            "cost": 8
+        }
+    },
+    "dominant-species": {
+        "name": "Dominant Species",
+        "description": "With an ice age approaching, which animals will best propagate, migrate, and adapt?",
+        "year": 2010,
+        "rating": 7.82,
+        "votes": 21327,
+        "duration": {
+            "min": 120,
+            "max": 240
+        },
+        "players": {
+            "min": 2,
+            "max": 6
+        },
+        "minage": 14,
+        "weight": 4.0399,
+        "images": {
+            "default": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard/img/RUkeVewZv9zFVt0nOWkTbgzk2TE=/0x2:492x278/288x162/filters:strip_icc()/pic784193.jpg",
+            "2x": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard@2x/img/9S9of9II5UBs8rpakF-7g8NEWqc=/0x2:492x278/576x324/filters:strip_icc()/pic784193.jpg",
+            "banner": "https://cf.geekdo-images.com/_MnzcktXV81bLMElirIvTA__itemheader/img/TSxgxS5tCEImBlx-krKh2bHX1LU=/800x450/filters:quality(30):strip_icc()/pic2023669.jpg"
+        },
+        "score": {
+            "fun": 5,
+            "learning_curve": 7,
+            "duration": 9,
+            "players": 1,
+            "difficulty": 4,
+            "cost": 2
+        }
+    },
+    "el-grande": {
+        "name": "El Grande",
+        "description": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!",
+        "year": 1995,
+        "rating": 7.76,
+        "votes": 29161,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 5
+        },
+        "minage": 12,
+        "weight": 2.9693,
+        "images": {
+            "default": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__mediacard/img/syi-kjED3aTGiZ7EGhde-N_1ikc=/0x0:2000x1125/288x162/filters:strip_icc()/pic7906240.jpg",
+            "2x": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__mediacard@2x/img/za1lfl66vpCl2zhL1z5vmkAGmzU=/0x0:2000x1125/576x324/filters:strip_icc()/pic7906240.jpg",
+            "banner": "https://cf.geekdo-images.com/aI57KRYghs8WDVk-SXzZRA__itemheader/img/ubJOuLFlkMH0AJqii3F8vc8n60A=/800x450/filters:quality(30):strip_icc()/pic788277.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 1,
+            "duration": 7,
+            "players": 8,
+            "difficulty": 7,
+            "cost": 8
+        }
+    },
+    "the-voyages-of-marco-polo": {
+        "name": "The Voyages of Marco Polo",
+        "description": "Using unique abilities, fulfill contracts and reach your goals along the Silk Road.",
+        "year": 2015,
+        "rating": 7.78,
+        "votes": 24961,
+        "duration": {
+            "min": 40,
+            "max": 100
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 12,
+        "weight": 3.1799,
+        "images": {
+            "default": "https://cf.geekdo-images.com/n1G7_aWToLAAB7Mqt8iwyA__mediacard/img/c0SuczvRLcM1eR5JdDXmvafOTf4=/0x0:557x313/288x162/filters:strip_icc()/pic2461346.png",
+            "2x": "https://cf.geekdo-images.com/n1G7_aWToLAAB7Mqt8iwyA__mediacard@2x/img/kri06xjP1dJpwAOPtw5yrcrOQ14=/0x0:557x313/576x324/filters:strip_icc()/pic2461346.png",
+            "banner": "https://cf.geekdo-images.com/D9Fjzk_oljoJxLbNHE6ASA__itemheader/img/NBje16fAcD38TDQ8lFTilr_Pfs0=/800x450/filters:quality(30):strip_icc()/pic2480577.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 2,
+            "duration": 9,
+            "players": 8,
+            "difficulty": 9,
+            "cost": 1
+        }
+    },
+    "7-wonders": {
+        "name": "7 Wonders",
+        "description": "Draft cards to develop your ancient civilization and build its Wonder of the World.",
+        "year": 2010,
+        "rating": 7.68,
+        "votes": 105097,
+        "duration": {
+            "min": 30,
+            "max": 30
+        },
+        "players": {
+            "min": 2,
+            "max": 7
+        },
+        "minage": 10,
+        "weight": 2.3166,
+        "images": {
+            "default": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__mediacard/img/LSGanL8QnOzjHJop-vgVtZ-x6_o=/0x0:1440x810/288x162/filters:strip_icc()/pic7149798.jpg",
+            "2x": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__mediacard@2x/img/H92kg-qwO-U4wTzwdszEcLllf4M=/0x0:1440x810/576x324/filters:strip_icc()/pic7149798.jpg",
+            "banner": "https://cf.geekdo-images.com/Jrolw9KXQtjYYaZ2_L07iA__itemheader/img/umCbiQdtHdgDLx4F-6Rr1f74ww0=/800x450/filters:quality(30):strip_icc()/pic893619.jpg"
+        },
+        "score": {
+            "fun": 8,
+            "learning_curve": 3,
+            "duration": 3,
+            "players": 6,
+            "difficulty": 3,
+            "cost": 8
+        }
+    },
+    "robinson-crusoe-adventures-on-the-cursed-island": {
+        "name": "Robinson Crusoe: Adventures on the Cursed Island",
+        "description": "Work together — with friends or with Friday — to survive on a deserted island.",
+        "year": 2012,
+        "rating": 7.74,
+        "votes": 43635,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.82,
+        "images": {
+            "default": "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__mediacard/img/nwhvvlULBX4baaE9rHAAkAm5q20=/0x0:3468x1951/288x162/filters:strip_icc()/pic3165731.jpg",
+            "2x": "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__mediacard@2x/img/R-ZhmyWAF5a5oB-FCvnN4xyzZf8=/0x0:3468x1951/576x324/filters:strip_icc()/pic3165731.jpg",
+            "banner": "https://cf.geekdo-images.com/41PBhiK0CaWZJ0-rbAAPgA__itemheader/img/3bkIB7CPCgQrSEaPR0fk2miBhUk=/800x450/filters:quality(30):strip_icc()/pic1416691.jpg"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 1,
+            "duration": 9,
+            "players": 9,
+            "difficulty": 5,
+            "cost": 0
+        }
+    },
+    "the-search-for-planet-x": {
+        "name": "The Search for Planet X",
+        "description": "Plan, scan, and theorize to find a new planet at the edge of our solar system.",
+        "year": 2020,
+        "rating": 7.95,
+        "votes": 12474,
+        "duration": {
+            "min": 60,
+            "max": 75
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 13,
+        "weight": 2.414,
+        "images": {
+            "default": "https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__mediacard/img/WbMQVg4wDcrskh_ILgwXqkmCT_0=/0x36:800x486/288x162/filters:strip_icc()/pic5744928.jpg",
+            "2x": "https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__mediacard@2x/img/4A7yDccFFPXTfAHTPJutpeDIvnE=/0x36:800x486/576x324/filters:strip_icc()/pic5744928.jpg",
+            "banner": "https://cf.geekdo-images.com/d6KoJ69PA0wQwgolSH4oHA__itemheader/img/Q4mySjtsiQlKxiGebS5QLCjbnLU=/800x450/filters:quality(30):strip_icc()/pic5002914.jpg"
+        },
+        "score": {
+            "fun": 4,
+            "learning_curve": 0,
+            "duration": 6,
+            "players": 7,
+            "difficulty": 8,
+            "cost": 7
+        }
+    },
+    "age-of-innovation": {
+        "name": "Age of Innovation",
+        "description": "Terraform the world to expand your faction and create innovations on the way.",
+        "year": 2023,
+        "rating": 8.71,
+        "votes": 4117,
+        "duration": {
+            "min": 40,
+            "max": 200
+        },
+        "players": {
+            "min": 1,
+            "max": 5
+        },
+        "minage": 14,
+        "weight": 4.2319,
+        "images": {
+            "default": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__mediacard/img/_m_5yZf-MoKX3aAMoL1ec7Krlzc=/0x0:1435x807/288x162/filters:strip_icc()/pic7430993.jpg",
+            "2x": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__mediacard@2x/img/FPOTeVWJcVUxuxXBe7QVD4uRKoQ=/0x0:1435x807/576x324/filters:strip_icc()/pic7430993.jpg",
+            "banner": "https://cf.geekdo-images.com/m0l_EEUBL_gmXnVIyUnfbA__itemheader/img/Ool71zmjaehJe641v2xR7u4_5dU=/800x450/filters:quality(30):strip_icc()/pic7453352.jpg"
+        },
+        "score": {
+            "fun": 2,
+            "learning_curve": 8,
+            "duration": 1,
+            "players": 7,
+            "difficulty": 3,
+            "cost": 2
+        }
+    },
+    "concordia-venus": {
+        "name": "Concordia Venus",
+        "description": "Merchants build and trade throughout the Roman Empire to please the Gods.",
+        "year": 2018,
+        "rating": 8.29,
+        "votes": 5974,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 2,
+            "max": 6
+        },
+        "minage": 12,
+        "weight": 3.011,
+        "images": {
+            "default": "https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__mediacard/img/2r-MIsLjvpaa9n13yAEUOl1mmaA=/0x0:1671x940/288x162/filters:strip_icc()/pic4356580.jpg",
+            "2x": "https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__mediacard@2x/img/aEKPJWDftbNvoXhgng1LSMeR81A=/0x0:1671x940/576x324/filters:strip_icc()/pic4356580.jpg",
+            "banner": "https://cf.geekdo-images.com/By90s1Z-fwVXcoZkzdXgpw__itemheader/img/iGGFwTxzmZdDMmDv_gamiae24-4=/800x450/filters:quality(30):strip_icc()/pic4343647.jpg"
+        },
+        "score": {
+            "fun": 9,
+            "learning_curve": 5,
+            "duration": 7,
+            "players": 2,
+            "difficulty": 5,
+            "cost": 9
+        }
+    },
+    "tainted-grail-the-fall-of-avalon": {
+        "name": "Tainted Grail: The Fall of Avalon",
+        "description": "Exploration, combat, and diplomacy in a dark Arthurian realm.",
+        "year": 2019,
+        "rating": 8.09,
+        "votes": 12538,
+        "duration": {
+            "min": 60,
+            "max": 120
+        },
+        "players": {
+            "min": 1,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 3.3534,
+        "images": {
+            "default": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__mediacard/img/zbMpDzZ0C3sZHD1CcPRObyRGR9A=/0x0:765x430/288x162/filters:strip_icc()/pic4385726.jpg",
+            "2x": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__mediacard@2x/img/n7XMpj_yiIUhZza55xp5Z4Ljh-k=/0x0:765x430/576x324/filters:strip_icc()/pic4385726.jpg",
+            "banner": "https://cf.geekdo-images.com/idB23bSX7WvLwVGEYAAOoQ__itemheader/img/bdrum2vfmezFRTNGexaTFpF3OYs=/800x450/filters:quality(30):strip_icc()/pic4449341.jpg"
+        },
+        "score": {
+            "fun": 7,
+            "learning_curve": 8,
+            "duration": 4,
+            "players": 2,
+            "difficulty": 3,
+            "cost": 8
+        }
+    },
+    "decrypto": {
+        "name": "Decrypto",
+        "description": "Decipher your opponents' code before they decipher yours. Don't get caught.",
+        "year": 2018,
+        "rating": 7.77,
+        "votes": 22885,
+        "duration": {
+            "min": 15,
+            "max": 45
+        },
+        "players": {
+            "min": 3,
+            "max": 8
+        },
+        "minage": 12,
+        "weight": 1.8128,
+        "images": {
+            "default": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard/img/WKrwq2W6lUtSo7Oi6_C0xlV2QLs=/0x0:558x314/288x162/filters:strip_icc()/pic3759421.jpg",
+            "2x": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard@2x/img/-grqiICsr2alYcmu7UICV_ksIp0=/0x0:558x314/576x324/filters:strip_icc()/pic3759421.jpg",
+            "banner": "https://cf.geekdo-images.com/bGQoGiLpnp0Tq_DVfk5sNw__itemheader/img/gvOCuaAVz_swjtdriS6Tr9LKdeE=/800x450/filters:quality(30):strip_icc()/pic4012525.jpg"
+        },
+        "score": {
+            "fun": 3,
+            "learning_curve": 5,
+            "duration": 3,
+            "players": 5,
+            "difficulty": 6,
+            "cost": 6
+        }
+    },
+    "inis": {
+        "name": "Inis",
+        "description": "Claim the crown through merit and wisdom in this Celtic island struggle.",
+        "year": 2016,
+        "rating": 7.83,
+        "votes": 20410,
+        "duration": {
+            "min": 60,
+            "max": 90
+        },
+        "players": {
+            "min": 2,
+            "max": 4
+        },
+        "minage": 14,
+        "weight": 2.9465,
+        "images": {
+            "default": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__mediacard/img/aQHwhiJtV2CTQ6jLfdLJDs36b3g=/0x0:1500x844/288x162/filters:strip_icc()/pic4739757.jpg",
+            "2x": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__mediacard@2x/img/cN14bI00GHtuq79ACUvyOxOKtmA=/0x0:1500x844/576x324/filters:strip_icc()/pic4739757.jpg",
+            "banner": "https://cf.geekdo-images.com/MUv8mvugzK1rsFrcvGthsw__itemheader/img/2x6av6CDRH-7vus4x_0MJI3GUgM=/800x450/filters:quality(30):strip_icc()/pic3112623.jpg"
+        },
+        "score": {
+            "fun": 6,
+            "learning_curve": 6,
+            "duration": 7,
+            "players": 3,
+            "difficulty": 4,
+            "cost": 4
+        }
+    }
+}
