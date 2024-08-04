@@ -41,7 +41,7 @@ npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint
 - Then open the file `vite.config.js` and tell vite about the eslint plugin
 
   ```js
-  import eslint from "vite-plugin-eslint";
+  import eslint from 'vite-plugin-eslint';
 
   export default defineConfig({
     plugins: [react(), eslint()],
@@ -58,6 +58,57 @@ npm i react-router-dom
 
 ```bash
 npm i cheerio
+```
+
+## Install Tailwind CSS
+
+Since we are using Vite we followed the instructions located at [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
+
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+#### Configure your template paths
+
+Add the paths to all of your template files in your `tailwind.config.js` file.
+
+```js
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+```
+
+#### Add the Tailwind directives to your CSS
+
+Add the `@tailwind` directives for each of Tailwind’s layers to your `./src/index.css` file.
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+#### Install Tailwind CSS prettier extension
+
+A Prettier v3+ plugin for Tailwind CSS v3.0+ that automatically sorts classes based on our recommended class order. [Prettier Plugin Tailwind CSS](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+
+```bash
+npm install -D prettier prettier-plugin-tailwindcss
+```
+
+Then add the plugin to your Prettier configuration. See [Prettier Configuration](https://prettier.io/docs/en/configuration.html)
+
+```js
+// .prettierrc
+{
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
 ```
 
 ## Start your project
