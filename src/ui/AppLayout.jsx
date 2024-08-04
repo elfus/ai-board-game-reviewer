@@ -1,12 +1,17 @@
-import { Outlet } from "react-router-dom";
-import Header from "./Header";
-import Footer from "./Footer";
+import { Outlet } from 'react-router-dom';
+import Header from './Header';
+import Footer from './Footer';
 
 function AppLayout() {
   return (
-    <div>
+    <div className="grid h-screen grid-rows-[auto_1fr_auto]">
       <Header />
-      <Outlet />
+      {/* TODO: Fix the usage of class overflow-scroll */}
+      <div className="overflow-hidden">
+        <main className="mx-auto max-w-3xl">
+          <Outlet />
+        </main>
+      </div>
       <Footer />
     </div>
   );
