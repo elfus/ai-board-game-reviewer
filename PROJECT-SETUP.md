@@ -69,6 +69,12 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
+## Install PropType
+
+```bash
+npm i prop-types
+```
+
 #### Configure your template paths
 
 Add the paths to all of your template files in your `tailwind.config.js` file.
