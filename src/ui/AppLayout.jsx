@@ -8,7 +8,7 @@ function AppLayout() {
       <Header />
       {/* TODO: Fix the usage of class overflow-scroll */}
       <div className="overflow-hidden">
-        <main className="mx-auto max-w-3xl">
+        <main className="mx-auto">
           <Outlet />
         </main>
       </div>

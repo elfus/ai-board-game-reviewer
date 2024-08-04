@@ -1,13 +1,35 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from 'react-router-dom';
+// TODO: Use a fake server to get the json as if it were an endpoint
+import * as bgList from '../api/gameboard-list.json';
+import GameCard from './GameCard';
 
 function BoardGameList() {
+  console.log(typeof bgList, bgList);
   const navigate = useNavigate();
+  const gameList = [];
+  for (let game in bgList) {
+    // TODO: Fix this default game in the scrapper
+    if (game === 'default') continue;
+    gameList.push(bgList[game]);
+  }
   return (
-    <div>
-      This is the Board Game list
-      <p>We should display all board games we have scrapped in this screen</p>
+    <div className="auto h-screen w-screen overflow-auto border-b-2 px-96 py-4">
+      <h1 className="px-4 text-center text-xl font-semibold md:text-4xl">
+        Board Game List
+        <br />
+        <span className="text-xl text-amber-600">
+          <p className="my-2 italic">
+            Ratings based on the people&apos;s comments found on the internet.
+          </p>
+        </span>
+      </h1>
+      <div className="grid h-4/6 grid-cols-4 overflow-auto px-2 py-2">
+        {gameList.map((game) => (
+          <GameCard key={game.name} game={game} />
+        ))}
+      </div>
       <p>When the user clicks on a game we should redirect to /game/10;</p>
-      <button onClick={() => navigate("/game/10")}>Go to game 10</button>
+      <button onClick={() => navigate('/game/10')}>Go to game 10</button>
     </div>
   );
 }
