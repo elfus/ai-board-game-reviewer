@@ -2,8 +2,11 @@
 
 ## Start Vite project from scratch
 
-- `npm create vite`
-  Then I chose `React` as a framework and `JavaScript` as a variant and enter the requested information.
+```bash
+npm create vite
+```
+
+Then I chose `React` as a framework and `JavaScript` as a variant and enter the requested information.
 
 ## Cloning from github
 
@@ -16,15 +19,20 @@
 
 ## Install missing components and dependencies
 
-- `cd <project_name>`
-- `npm install`
+```bash
+cd <project_name>
+npm install
+```
 
 ## Install and configure ESLint for React apps
 
-- `npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint`
+```bash
+npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint
+```
+
 - Create the file `.eslintrc.json` in the root directory of the project.
   Inside this folder place the following content
-  ```
+  ```js
   {
       "extends" : "react-app"
   }
@@ -32,23 +40,31 @@
   This will tell `eslint` about all the react specific eslint rules.
 - Then open the file `vite.config.js` and tell vite about the eslint plugin
 
-  ```
-  import eslint from 'vite-plugin-eslint'
+  ```js
+  import eslint from "vite-plugin-eslint";
 
   export default defineConfig({
-    plugins: [react(), eslint()]
-  })
+    plugins: [react(), eslint()],
+  });
   ```
 
 ## Install REACT router
 
-- `npm i react-router-dom`
+```bash
+npm i react-router-dom
+```
+
+## Install Cheerio for scrapping the web
+
+```bash
+npm i cheerio
+```
 
 ## Start your project
 
 - Finally execute `npm run dev` you should get something like
 
-  ```
+  ```bash
   VITE v5.3.5  ready in 256 ms
 
   ➜  Local:   http://localhost:5173/
