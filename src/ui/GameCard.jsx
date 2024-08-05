@@ -4,7 +4,7 @@ function GameCard({ game }) {
   return (
     <div
       key={game.name}
-      className="w-82 relative m-4 h-56 rounded-xl bg-gray-200 px-2"
+      className="w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 transition-colors transition-opacity duration-300 hover:bg-stone-200 hover:opacity-70"
     >
       <img
         src={game.images.default}
