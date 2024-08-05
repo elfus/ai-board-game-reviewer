@@ -12,16 +12,17 @@ To start the server application run the following command in the project root di
 ```bash
 npm run dev
 ```
-## Scraper
 
-Clean previous result:
+## Scraper
+Run scrapper and leave data in `src/api/gameboard-list.json`.
 
 ```bash
-npm run scrap-update
+npm run scrap
 ```
 
-Clean previous result:
+## AI Score
+Calculates scores based on game data using [Vercel - AI SDK](https://sdk.vercel.ai/) and leaves them in `src/api/gameboard-list-scores.json`.
 
 ```bash
-npm run scrap-clean
+npm run score
 ```
