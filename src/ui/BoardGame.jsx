@@ -12,7 +12,6 @@ function BoardGame() {
   // Once we make endpoint requests this filtering can be
   // done by the server
   const [game] = bgList['games'].filter((currGame) => currGame.id === gameId);
-  console.log(`Game found`, game);
 
   return (
     <>

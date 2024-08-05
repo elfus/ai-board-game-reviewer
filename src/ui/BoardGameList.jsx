@@ -1,11 +1,8 @@
-import { useNavigate } from 'react-router-dom';
 // TODO: Use a fake server to get the json as if it were an endpoint
 import * as bgList from '../api/gameboard-list-scores.json';
 import GameCard from './GameCard';
 
 function BoardGameList() {
-  const navigate = useNavigate();
-
   return (
     <div className="auto h-screen w-screen overflow-auto border-b-2 px-96 py-4">
       <h1 className="px-4 text-center text-xl font-semibold md:text-4xl">
@@ -22,8 +19,6 @@ function BoardGameList() {
           <GameCard key={game.id_name} game={game} />
         ))}
       </div>
-      <p>When the user clicks on a game we should redirect to /game/10;</p>
-      <button onClick={() => navigate('/game/10')}>Go to game 10</button>
     </div>
   );
 }
