@@ -8,6 +8,8 @@ import Error from './ui/Error';
 import Home from './ui/Home';
 import BoardGameList from './ui/BoardGameList';
 import BoardGame from './ui/BoardGame';
+import { useGameboardList } from './stores/use-gameboard-list';
+import { useEffect } from 'react';
 
 const router = createBrowserRouter([
   {
@@ -31,6 +33,10 @@ const router = createBrowserRouter([
 ]);
 
 function App() {
+  const { fetchGames } = useGameboardList();
+  useEffect(() => {
+    fetchGames();
+  }, []);
   return <RouterProvider router={router} />;
 }
 
