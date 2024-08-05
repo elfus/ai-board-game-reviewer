@@ -20,6 +20,13 @@ Run scrapper and leave data in `src/api/gameboard-list.json`.
 npm run scrap
 ```
 
+## Comments
+Run fetch process for getting comments and prices and leave the data in `src/api/gameboard-list-comments.json`.
+
+```bash
+npm run comments
+```
+
 ## AI Score
 Calculates scores based on game data using [Vercel - AI SDK](https://sdk.vercel.ai/) and leaves them in `src/api/gameboard-list-scores.json`.
 

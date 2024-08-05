@@ -9,6 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "scrap": "node src/scripts/scrap.js > src/api/gameboard-list.json",
+    "comments": "node src/scripts/comments.js > src/api/gameboard-list-comments.json",
     "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json"
   },
   "dependencies": {
