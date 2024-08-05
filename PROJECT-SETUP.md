@@ -48,6 +48,14 @@ npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint
   });
   ```
 
+## Install JSON Server
+
+[json-server](https://www.npmjs.com/package/json-server)
+
+```bash
+npm i install json-server
+```
+
 ## Install REACT router
 
 ```bash

@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "scrap": "node src/scripts/scrap.js > src/api/gameboard-list.json",
     "comments": "node src/scripts/comments.js > src/api/gameboard-list-comments.json",
-    "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json"
+    "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json",
+    "server": "npx json-server src/api/gameboard-list.json"
   },
   "dependencies": {
     "ollama-ai-provider": "^0.11.0",
