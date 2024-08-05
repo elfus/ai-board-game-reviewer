@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 // making requests, but in the mean time, use the json itself
 import * as bgList from '../api/gameboard-list-scores.json';
 import GameCard from './GameCard';
+import Button from './Button';
 
 function BoardGame() {
   const params = useParams();
@@ -15,8 +16,13 @@ function BoardGame() {
 
   return (
     <>
-      <div className="w-1/2 translate-x-1/2">
+      <div className="relative w-1/2 translate-x-1/2">
         <GameCard game={game} type={'big'} />
+        <span className="absolute left-1/2 -translate-x-1/2">
+          <Button type="secondary" to="/list">
+            Go back
+          </Button>
+        </span>
       </div>
     </>
   );
