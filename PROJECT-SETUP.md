@@ -125,6 +125,12 @@ Then add the plugin to your Prettier configuration. See [Prettier Configuration]
 }
 ```
 
+## Start JSON Server
+
+```bash
+npm run server
+```
+
 ## Start your project
 
 - Finally execute `npm run dev` you should get something like
