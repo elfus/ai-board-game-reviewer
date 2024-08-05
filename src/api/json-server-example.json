@@ -1,0 +1,73 @@
+{
+  "count": [2],
+  "shortlist": [
+    { "id": 1, "id_name": "brass-birmingham" },
+    { "id": 2, "id_name": "pandemic-legacy-season-1" }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "id_name": "brass-birmingham",
+      "title": "Brass: Birmingham",
+      "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
+      "year": 2018,
+      "rating": 8.6,
+      "votes": 46622,
+      "duration": {
+        "min": 60,
+        "max": 120
+      },
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "minage": 14,
+      "weight": 3.8764,
+      "images": {
+        "default": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard/img/jRj9wl9q5_zv1Og0fi8vLqYsXGE=/0x226:1200x901/288x162/filters:strip_icc()/pic3490053.jpg",
+        "2x": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard@2x/img/3pW54SpsB2HIGKMbnvVH3GPN4NE=/0x226:1200x901/576x324/filters:strip_icc()/pic3490053.jpg",
+        "banner": "https://cf.geekdo-images.com/e2e0wdO8oVNzD0ZAhzi6MQ__itemheader/img/Zj1GBUN2m-z4zX2-QWn31fiKEE4=/800x450/filters:quality(30):strip_icc()/pic3509697.jpg"
+      },
+      "score": {
+        "fun": 0,
+        "learning_curve": 9,
+        "duration": 7,
+        "players": 8,
+        "difficulty": 6,
+        "cost": 1
+      }
+    },
+    {
+      "id": 2,
+      "id_name": "pandemic-legacy-season-1",
+      "title": "Pandemic Legacy: Season 1",
+      "description": "Mutating diseases are spreading around the world - can your team save humanity?",
+      "year": 2015,
+      "rating": 8.53,
+      "votes": 53719,
+      "duration": {
+        "min": 60,
+        "max": 60
+      },
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "minage": 13,
+      "weight": 2.8307,
+      "images": {
+        "default": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__mediacard/img/4Pq43wZTLmX1zFeY1RzebYs660I=/0x148:899x654/288x162/filters:strip_icc()/pic2452831.png",
+        "2x": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__mediacard@2x/img/ZGA2MbbQ4XCEUCa6itgKvH5zY0M=/0x148:899x654/576x324/filters:strip_icc()/pic2452831.png",
+        "banner": "https://cf.geekdo-images.com/lP-74qyuhrCisnXGqAIUBg__itemheader/img/q87vtjyl02FoB-GfowOH6UG29Ds=/800x450/filters:quality(30):strip_icc()/pic2733239.jpg"
+      },
+      "score": {
+        "fun": 9,
+        "learning_curve": 0,
+        "duration": 9,
+        "players": 9,
+        "difficulty": 3,
+        "cost": 1
+      }
+    }
+  ]
+}

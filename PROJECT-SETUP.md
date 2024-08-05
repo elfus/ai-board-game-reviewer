@@ -50,10 +50,12 @@ npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint
 
 ## Install JSON Server
 
-[json-server](https://www.npmjs.com/package/json-server)
+We will use json-server 0.17.4 as a quick way to simulate our API.
+
+[json-server](https://github.com/typicode/json-server/tree/v0)
 
 ```bash
-npm i install json-server
+npm install -D json-server@0.17.4
 ```
 
 ## Install REACT router
