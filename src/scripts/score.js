@@ -43,4 +43,4 @@ for(let game of gamelist.games){
     }
 }
 
-console.log(JSON.stringify(updatedGameList, null, 4))
+console.log(JSON.stringify(gamelist, null, 4))
