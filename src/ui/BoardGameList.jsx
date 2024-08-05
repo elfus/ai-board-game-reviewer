@@ -1,8 +1,8 @@
-// TODO: Use a fake server to get the json as if it were an endpoint
-import * as bgList from '../api/gameboard-list-scores.json';
+import { useGameboardList } from '../stores/use-gameboard-list';
 import GameCard from './GameCard';
 
 function BoardGameList() {
+  const { games } = useGameboardList();
   return (
     <div className="auto h-screen w-screen overflow-auto border-b-2 px-96 py-4">
       <h1 className="px-4 text-center text-xl font-semibold md:text-4xl">
@@ -15,7 +15,7 @@ function BoardGameList() {
         </span>
       </h1>
       <div className="grid h-5/6 grid-cols-4 overflow-auto px-2 py-2">
-        {bgList['games'].map((game) => (
+        {games.map((game) => (
           <GameCard key={game.id_name} game={game} />
         ))}
       </div>
