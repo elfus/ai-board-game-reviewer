@@ -14,7 +14,7 @@ function BoardGameList() {
           </p>
         </span>
       </h1>
-      <div className="grid h-4/6 grid-cols-4 overflow-auto px-2 py-2">
+      <div className="grid h-5/6 grid-cols-4 overflow-auto px-2 py-2">
         {bgList['games'].map((game) => (
           <GameCard key={game.id_name} game={game} />
         ))}
