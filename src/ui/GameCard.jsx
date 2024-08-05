@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import { useNavigate } from 'react-router-dom';
+import { sumScore } from '../stores/use-gameboard-list';
 
 function GameCard({ game }) {
   const navigate = useNavigate();
@@ -26,7 +27,7 @@ function GameCard({ game }) {
         className="absolute left-1/2 top-1/3 -my-2 -translate-x-1/2 -translate-y-1/3 rounded-xl px-2"
       />
       <span className="absolute bottom-1 left-1/2 -translate-x-1/2 transform text-center text-sm font-bold tracking-wider">
-        {game.title}
+        {game.title} ({sumScore(game.score)})
       </span>
     </div>
   );

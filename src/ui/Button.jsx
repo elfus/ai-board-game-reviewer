@@ -38,7 +38,7 @@ Button.propTypes = {
   disabled: PropTypes.string,
   to: PropTypes.string,
   type: PropTypes.string,
-  onClick: PropTypes.string,
+  onClick: PropTypes.func,
 };
 
 export default Button;
