@@ -23,6 +23,7 @@ npm run scrap
 ```
 
 ## Comments
+
 Run fetch process for getting comments and prices and leave the data in `src/api/gameboard-list-comments.json`.
 
 ```bash
@@ -46,35 +47,21 @@ Currently the format used by our scrapper will provide the following endpoints
 - Get the number of available board games
   `GET /count`
   _Response_
+
   ```bash
   curl http://localhost:3000/count
   [
     100
   ]
   ```
-- Get a short list of the board games containing the `id` and `id_name`
-  `GET /shortlist`
-  _Response_
-  ```bash
-  curl http://localhost:3000/shortlist
-  [
-    {
-        "id": 1,
-        "id_name": "brass-birmingham"
-    },
-    {
-        "id": 2,
-        "id_name": "pandemic-legacy-season-1"
-    }
-  ]
-  ```
+
 - Get a complete list of all board games with detailed attributes for each board game
-  `GET /all`
+  `GET /games`
 
   _Response_
 
   ```bash
-  curl http://localhost:3000/all
+  curl http://localhost:3000/games
   [
   {
       "id": 99,
@@ -120,19 +107,19 @@ Below are some endpoint requests doing basic filtering on our scrapped database.
 ###### Basic queries
 
 - Get game with a `id` equals to `56`
-  `GET /all?id=56`
+  `GET /games?id=56`
 - Get game with `id_name` equals to `inis`
-  `GET/all?id_name=inis`
+  `GET/games?id_name=inis`
 - Get game with `title` equals to `Gloomhaven`
-  `GET/all?id_name=Gloomhaven`
+  `GET/games?title=Gloomhaven`
 - Get all games released in `2016`
-  `GET/all?year=2016`
+  `GET/games?year=2016`
 
 ###### Advanced queries
 
 - Get all games with a duration at least 60 minutes
-  `GET/all?duration.min_gte=60`
+  `GET/games?duration.min_gte=60`
 - Get all games that require at least 3 players.
-  `GET/all?players.min_gte=3`
+  `GET/games?players.min_gte=3`
 - Get all games that have a fun score of at least 6
-  `GET/all?score.fun_gte=6`
+  `GET/games?score.fun_gte=6`
