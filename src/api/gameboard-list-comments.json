@@ -1,13 +1,14 @@
 {
     "games": [
         {
-            "id": "brass-birmingham",
+            "id": 1,
+            "id_name": "brass-birmingham",
             "objectId": "224517",
-            "name": "Brass: Birmingham",
+            "title": "Brass: Birmingham",
             "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
             "year": 2018,
             "rating": 8.6,
-            "votes": 46641,
+            "votes": 46661,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -17,14 +18,15 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.877,
+            "weight": 3.8775,
             "images": {
                 "default": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard/img/jRj9wl9q5_zv1Og0fi8vLqYsXGE=/0x226:1200x901/288x162/filters:strip_icc()/pic3490053.jpg",
                 "2x": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard@2x/img/3pW54SpsB2HIGKMbnvVH3GPN4NE=/0x226:1200x901/576x324/filters:strip_icc()/pic3490053.jpg",
                 "banner": "https://cf.geekdo-images.com/e2e0wdO8oVNzD0ZAhzi6MQ__itemheader/img/Zj1GBUN2m-z4zX2-QWn31fiKEE4=/800x450/filters:quality(30):strip_icc()/pic3509697.jpg"
             },
             "comments": [
-                "Kurz: \"Brass: Birmingham\" ist ein interaktives Netzwerk-/Aufbauspiel mit interessanter Markt-Mechanik. In etwa der Hälfte des Spiels wird der Großteil der gebauten Dinge wieder abgeräumt. Das bringt Spannung mit. Ich find es gut, sehe es aber NICHT als eines der allerbesten Spiele an.<br /><br />Langform:<br />Wir haben hier ein solides Spiel, bei dem ich verstehen kann, warum es den Leuten gefällt. Aber das beste Brettspiel? Ich glaube diese Leute haben z.B. noch kein \"Food Chain Magnate\" oder \"Mombasa\" gespielt.<br />Es gibt 2 Zeitalter die einerseits dafür sorgen, das man überlegen muss, was man wann baut und andererseits das man ggf. beim bauen blockiert wird.<br />Die Zeitalter, das es jeden \"BauOrt\" nur einmal gibt und das man die Rohstoffe der Anderen auch nutzen darf, machen das Spiel sehr interaktiv,  (\"Euro-Games sind ja üblicherweise eher Multiplayer-Solitär). Dieser hohe Grad an Interaktion kann aber auch anstrengend sein.<br />Außerdem verleitet dieser Mix zu Analysis-Paralysis.<br />Da jeder Gebäude-Platz nur 1x besteht, entsteht ein Wettstreit um Diese und den Verbindungen dazwischen.<br /><br />-es gibt eine gewisse Lernkurve<br />-es gibt mehrere Wege zum Ziel, scheinbar aber auch welche die etwas besser sind<br />-Die Kanal- und BahnÄra scheinen auch geschichtlich gut zu passen.<br />-interessanter Markt-Mechanismus<br /><br />\"Brass: Birmingham\" unterscheidet sich mit \"Brass: Lancashire\" (vor langer Zeit als \"Kohle\" erschienen) u.A. durch das Bier und die speziellen Märkte. Man könnte es als erweiterte Edition zu Lanceshire/\"Kohle\" sehen.<br />-&gt; \"Kohle\" sah übrigens überhaupt nicht ansprechend aus. Beide \"Brass\"-Editionen dagegen sehr.<br /><br />Unbedingt nochmal, aber nicht für meine eigene Sammlung.<br /><br /><br />(Ursprungs-Kommentar aus 02/2024:<br />Eine abgebrochene Partie, daher keine Bewertung.(nach erstem Zeitalter)<br />Es blieb mir im Gedächtnis, das es sehr interaktiv (fast schon aggressiv) ist. Und sehr verzahnt.)",
+                "P: [3-4] (4) Competitive",
+                "Kurz: \"Brass: Birmingham\" ist ein interaktives Netzwerk-/Aufbauspiel mit interessanter Markt-Mechanik. In etwa der Hälfte des Spiels wird der Großteil der gebauten Dinge wieder abgeräumt. Das sorgt für Spannung. Mir macht es Spaß. Ich sehe es aber NICHT, als eines der allerbesten Spiele an.<br /><br />Langform:<br />Wir haben hier ein solides Spiel, bei dem ich verstehen kann, warum es den Leuten gefällt. Aber das beste Brettspiel? Ich persönlich finde Spiele wie z.B. \"Food Chain Magnate\" oder \"Mombasa\" wesentlich besser. (m.M.n. ist auch \"Nukleum\" besser)<br />Es gibt 2 Zeitalter die einerseits dafür sorgen, das man überlegen muss, was man wann baut. Andererseits ist es etwas deprimierend, wenn ein großer Teil der gebauten Strukturen wieder weg geräumt wird.<br />Die beiden Zeitalter, das jeder \"BauOrt\" nur einmal existiert und das man die Rohstoffe der Anderen nutzen darf, machen das Spiel sehr interaktiv,  (\"Euro-Games sind ja üblicherweise eher Multiplayer-Solitär). Dieser hohe Grad an Interaktion kann aber auch anstrengend sein.<br />Außerdem verleitet dieser Mix zu Analysis-Paralysis.<br />Da jeder Gebäudeplatz nur 1x besteht, entsteht ein Wettstreit um Diese und den Verbindungen dazwischen.<br /><br />Nebeninfos:<br />-es gibt eine gewisse Lernkurve<br />-es gibt mehrere Wege zum Ziel, scheinbar aber auch welche die etwas besser sind<br />-Die Kanal- und BahnÄra scheinen auch geschichtlich gut zu passen.<br />-interessanter Markt-Mechanismus<br />-\"Brass: Birmingham\" unterscheidet sich mit \"Brass: Lancashire\" (vor langer Zeit als \"Kohle\" erschienen) u.A. durch das Bier und die speziellen Märkte. Man könnte es als erweiterte Edition zu Lanceshire/\"Kohle\" sehen.<br />-&gt; \"Kohle\" sah übrigens überhaupt nicht ansprechend aus. Die beiden \"Brass\"-Editionen dagegen sehr.<br /><br />Unbedingt nochmal, aber nicht für meine eigene Sammlung.<br /><br />(Ursprungs-Kommentar aus 02/2024:<br />Eine abgebrochene Partie, daher keine Bewertung.(nach erstem Zeitalter)<br />Es blieb mir im Gedächtnis, das es sehr interaktiv (fast schon aggressiv) ist. Und sehr verzahnt.)",
                 "Євро<br />К-сть гравців: 2-4<br />Складність: 3,88/5",
                 "<i><u><b>Base Game</b></u></i><br />● Deluxe with Iron Clays + extra Clays<br /><i><u><b>Sleeves:</b></u></i><br />● Arcane Tinmen Dragon Shield Sleeves Matte Clear (63x88mm)<br />.",
                 "2020",
@@ -37,19 +39,19 @@
                 "Sleeved with Sleeve Kings Standard (60micron)<br /><br /><a target='_blank' href=\"https://sleevekings.com/collections/catalog/products/sleeve-kings-card-game-card-sleeves-63-5x88mm-110-pack-60-microns-5\" rel=\"nofollow noreferrer noopener\">https://sleevekings.com/collections/catalog/products/sleeve-...</a>",
                 "The industrial theme and look of the game is not very appealing to me. It's a long game with a lot of things going on. Therefore, some players' considerations take some time.  <br />I prefer less \"heavy\" and less \"euro-style\" games that look more appealing and are easier to learn and master.<br />This one wasn't fun for me.",
                 "#전략 #빡빡한 #3인 #4인<br /><br />산업혁명 테마의 건조한 전략겜<br />운하시대와 철도시대를 아우르는 경영<br />다양한 방식으로 플레이 가능한 재미<br /><br />처음부터 재미를 느끼긴 어려움 주의",
-                "Deluxe spanish edition",
-                "Very deep strategy and tactics. It's quite unique in that you can use the resources of your competitors. <br /><br />Awesome component/art/production quality.<br /><br />Takes a few plays to learn all the details about the rules. The rules are fiddly and it's a bear to teach too. That's why I would only play it if there is a possibility to play it again with the same group soon thereafter.<br /><br />Works well for two players, imo."
+                "Deluxe spanish edition"
             ],
             "price": 13
         },
         {
-            "id": "pandemic-legacy-season-1",
+            "id": 2,
+            "id_name": "pandemic-legacy-season-1",
             "objectId": "161936",
-            "name": "Pandemic Legacy: Season 1",
+            "title": "Pandemic Legacy: Season 1",
             "description": "Mutating diseases are spreading around the world - can your team save humanity?",
             "year": 2015,
             "rating": 8.53,
-            "votes": 53725,
+            "votes": 53732,
             "duration": {
                 "min": 60,
                 "max": 60
@@ -85,13 +87,14 @@
             "price": 2.99
         },
         {
-            "id": "gloomhaven",
+            "id": 3,
+            "id_name": "gloomhaven",
             "objectId": "174430",
-            "name": "Gloomhaven",
+            "title": "Gloomhaven",
             "description": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
             "year": 2017,
             "rating": 8.59,
-            "votes": 62511,
+            "votes": 62521,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -108,6 +111,7 @@
                 "banner": "https://cf.geekdo-images.com/Wt-UZoeVFZG2a_aZX9tbHg__itemheader/img/25YfRO2lPmcZQzoRmlqssC6oUfA=/800x450/filters:quality(30):strip_icc()/pic2657094.png"
             },
             "comments": [
+                "DIFFICULTY: HARD<br /><br />MARKED FOR AUCTION",
                 "[SHELVE] Played 40+ times. Have stripped it to use in Frosthaven ",
                 "Every time I play this game, I leave wondering why I am not just playing a video game RPG instead. Games like Pillars of Eternity, Mass Effect, or the new Baldur's Gate 3 give me everything I like about Gloomhaven, including co-op in any CRPG, but with better story and characters, less bookkeeping, and WAY better setup time. When I see this game ranked this high on BGG, I genuinely assume that the people rating it just don’t play RPG videogames. Even the Steam digital version of Gloomhaven blows playing in paper out of the water. If you’re rating this game really high purely for the videogame adaptation, then you’re not rating the board game. You’re rating the Videogame.",
                 "Since Der Ubermolch owned it, we didn't play my copy, so I sold it.",
@@ -120,20 +124,20 @@
                 "The definitive epic board game experience. Would take the men in black mind eraser so I could discover this game again for the first time.",
                 "Closest I've got to a d&d experience in a game. Love it for that and not having to have a DM. Such a great experience and I like the gameplay too.<br /><br />Would play it more personally but it is too heavy for some of my party, it burns them out.",
                 "- 1-4 Player<br />- 60-120 min<br /><br />Misc:<br />- Sleeved<br />- Organizer<br />- Monster Stands/Health Dials<br />- Initiative Cards<br />- Monster Mod Deck Holder<br />- Monster Deck Holder<br />- Condition Clips<br />- Player Dashboards<br />- Character Class Boxes",
-                "DIFFICULTY: HARD",
                 "Steam Digital<br /><br />When it's good, it's very good, to the point where it feels wrong to rate it here. But I prefer the physical game and the setup and balance issues are hard to ignore. Hoping 2.0 improves a lot in these regards.",
                 "This is game is extremely repetitive dungeon crawler. The whole game is going to random dungeon and doing similar quest again and again. However; fighting mechanism and hand building is pretty neat. I hope it gets inspire by other games. Definitely; I would rather play PC games than this with zero setup and tears down."
             ],
             "price": 4.95
         },
         {
-            "id": "ark-nova",
+            "id": 4,
+            "id_name": "ark-nova",
             "objectId": "342942",
-            "name": "Ark Nova",
+            "title": "Ark Nova",
             "description": "Plan and build a modern, scientifically managed zoo to support conservation projects.",
             "year": 2021,
             "rating": 8.53,
-            "votes": 44465,
+            "votes": 44499,
             "duration": {
                 "min": 90,
                 "max": 150
@@ -143,13 +147,15 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.7645,
+            "weight": 3.7644,
             "images": {
                 "default": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__mediacard/img/VxCvketCpD0r4x0G6Qs8BAu-fUw=/0x2323:3543x4316/288x162/filters:strip_icc()/pic6293412.jpg",
                 "2x": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__mediacard@2x/img/g_woPLS8SwfZd4ES9hcyVUfHrs8=/0x2323:3543x4316/576x324/filters:strip_icc()/pic6293412.jpg",
                 "banner": "https://cf.geekdo-images.com/GvO8ZVAr_jUciRog9Lwhqg__itemheader/img/HvUiTHslbou-sI7VhvyGvTP7ehY=/800x450/filters:quality(30):strip_icc()/pic6428595.jpg"
             },
             "comments": [
+                "Flawless game with great replayability. Currently my top game by a long-shot.",
+                "vac24",
                 "P: [1-4] (4) Competitive",
                 "BGA's most popular game. Behind its cut appearance is a heavy game and a big table and endless and complex settings. Most animals are difficult to get, and you need to grab your desired card as soon as possible. Not recommended for non-geek to play.",
                 "2023",
@@ -162,20 +168,19 @@
                 "Fun mechanisms, but it goes a bit long. The end game scoring is more confusing than it should be in my opinion. I like the engine building and set collection aspects of it along with the interesting action selection mechanism. Shared card market and claimable public goals with diminishing returns provide some interaction to what would otherwise be a solitaire game. I would probably choose Earth, Terraforming Mars, or Underwater Cities over this one on a heavier game night, but I'm happy to own it and it may grow on me over time.",
                 "1 to 3, 4 is to long<br />Buy any and every expansion",
                 "Love the theme, the mechanics and how the game looks. A multiplayer game, especially with 3 takes a lot of time. The solo puzzle takes 27 turns, it is entertaining and plays in about an hour. <br /><br />Dutch rules summary: <a target='_blank' href=\"https://boardgamegeek.com/filepage/239335\" rel=\"nofollow noreferrer noopener\">https://boardgamegeek.com/filepage/239335</a><br /><br />English rules summary: <a target='_blank' href=\"https://boardgamegeek.com/filepage/232702/ark-nova-plain-and-simple-guide\" rel=\"nofollow noreferrer noopener\">https://boardgamegeek.com/filepage/232702/ark-nova-plain-and...</a>",
-                "Met 2",
-                "Świetnie się bawiłem. Gra w jakiś przedziwny sposób łączy ciężar i swoistą \"lekkość\" rozgrywki. Jest pieruńsko długa! Z tłumaczeniem zasad zajęła na dwie osoby ponad 3 godziny. Nie ma tutaj za grosz feldowskiej/lacerdowskiej elegancji, już po kilku ruchach z kart wyłania się  chaos - ale ten chaos ma w sobie coś przyjemnego i odprężającego.<br />To taka odwrotność Gaia Project / Ery Innowacji. Gramy raczej taktycznie, na bieżąco reagując na przewijające się przez stół karty.<br />Ark Nova jest śmiesznie tania. Dałem za to równe 200 zł i rozgrywka z pewnością jest warta tych pieniędzy.<br />Zmienne cele końcowe / projekty ochrony przyrody + dodatek powinny zapewnić sporą regrywalność, co najmniej na poziomie Zamków Burgundii. Gra (być może ze względu na tematykę) jest też znacznie przyjemniejsza niż porównywana do niej Terraformacja Marsa.<br />Interakcji między graczami jest tu tyle, co kot napłakał... jeszcze mniej niż we wspomnianej przed chwilą TM. Ark Nova być może przez to świetnie sprawdzi się solo.<br />Fajnie. Po prostu... fajnie. Chętnie do niej wrócę.",
-                "also nice gameplay, not sure I like it that much to keep a copy.<br /><br />Terraforming mars scratches the same itch"
+                "Met 2"
             ],
             "price": 50
         },
         {
-            "id": "twilight-imperium-fourth-edition",
+            "id": 5,
+            "id_name": "twilight-imperium-fourth-edition",
             "objectId": "233078",
-            "name": "Twilight Imperium: Fourth Edition",
+            "title": "Twilight Imperium: Fourth Edition",
             "description": "Build an intergalactic empire through trade, research, conquest and grand politics.",
             "year": 2017,
             "rating": 8.6,
-            "votes": 24072,
+            "votes": 24083,
             "duration": {
                 "min": 240,
                 "max": 480
@@ -185,7 +190,7 @@
                 "max": 6
             },
             "minage": 14,
-            "weight": 4.3172,
+            "weight": 4.3167,
             "images": {
                 "default": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__mediacard/img/ho6Zlrpju5aChmd5co6dlqffmS0=/0x0:5233x2944/288x162/filters:strip_icc()/pic3727516.jpg",
                 "2x": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__mediacard@2x/img/-aTjgZ8hIcw4XW-X7-sbB7MqTc8=/0x0:5233x2944/576x324/filters:strip_icc()/pic3727516.jpg",
@@ -211,13 +216,14 @@
             "price": 1.99
         },
         {
-            "id": "dune-imperium",
+            "id": 6,
+            "id_name": "dune-imperium",
             "objectId": "316554",
-            "name": "Dune: Imperium",
+            "title": "Dune: Imperium",
             "description": "Influence, intrigue, and combat in the universe of Dune.",
             "year": 2020,
             "rating": 8.44,
-            "votes": 46268,
+            "votes": 46294,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -227,13 +233,17 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.0488,
+            "weight": 3.0493,
             "images": {
                 "default": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__mediacard/img/lHok12fsliGKu-YKWMYIRv6MsMU=/0x0:600x338/288x162/filters:strip_icc()/pic5666597.jpg",
                 "2x": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__mediacard@2x/img/x2WpncO1LZNgk4GzzOq7u40cGj8=/0x0:600x338/576x324/filters:strip_icc()/pic5666597.jpg",
                 "banner": "https://cf.geekdo-images.com/kVNbdF7xYp1iZGGZPBRagg__itemheader/img/1O_9Tg_hn25q6oHXfrzG8yHBDms=/800x450/filters:quality(30):strip_icc()/pic5666628.png"
             },
             "comments": [
+                "Does everything well. I really enjoy that it is complex but doesn't require over-the-top adding of points or micromanagement. Cards are unique and fun but I enjoy other games that have all unique cards. It is hit or miss whether I am excited about its theme. Overall, this game is definitely worth your while.",
+                "digital edition plays, including Rise of Ix expansion.",
+                "I bought this game because of the interest in the movie, but after our first play my family played it 4 more times, which is not common for us. Great game play! Good theme! It really makes you feel like you're on a desert planet and you just need more water and spice.",
+                "holding onto this for a trade",
                 "2023",
                 "Was talked into trying three-player DI by a good-natured gamer.<br /><br /><u>What I expected vs. what I experienced:</u><br /><br />Conflict in multiple areas VS. Conflict in a single area (not a bad thing)<br /><br />A complicated ruleset VS. A straightforward system once the board spaces are understood (a nice surprise)<br /><br />Unexciting worker placement (my least favorite mechanic) VS. Unexciting worker placement driven by cards (warning: card hosage possible)<br /><br />A reasonable card market VS. A too-small market that can stall out<br /><br />Thematic Dune-y stuff VS. No idea, since I haven't read the books in 20+ years and my movie memories are missing<br /><br />4 rating (painful) VS. 5 rating (won't get a second play, but glad I tried it)",
                 "De mis favoritos",
@@ -244,22 +254,19 @@
                 "Excellent jeu qui mix deck building et placement d'ouvrier. Il présente une légère asymétrie<br />La thématique reste relative mais la tension est présente à chaque tour.<br />Un must have",
                 "This might be the best worker placement game I have ever played. The worker placement with deck building works so well in this game, that combined with the racing on tracks and competition on the battlefield takes interaction in a worker placement game to a whole new level.  I love this game.<br /><br />Update: I have grown to appreciate shorter and simpler games, as a result Dune has fallen to a 9 for me, but it is still an amazing game.",
                 "I use this purely as a teaching tool, to eventually graduate a player base to Dune Imperium - Uprising, which I personally consider the all around more fun game. Base Dune Imperium is so elegant on its design, though, that The Teach is very simple, and still earns a spot in my collection as a gateway game.",
-                "still not a fan of worker placement. too much resource conversion. all the different types of resources makes it feel unnecessarily convoluted. this leads to my overall opinion that the progression in this game is too subtle/slow. i dislike that the deckbuilding aspect was rather slow, with more mechanisms exchanging and gaining resources over drawing or trashing cards.<br /><br />edit 2024 january 31 - no interest in revisiting<br /><br />edit 2024 august 2 - forgettable",
-                "Rating 8 with base game, 9 with Rise of Ix. I did not care for Immortality, but I can play with it. <br /><br />Was rated 10, but somehow Uprising brought this down a notch. It is still great, but something felt missing after playing Uprising and I had to upgrade.",
-                "Fantastic game!",
-                "Dune Imperium is a really good game but now superceded by the superior Dune Uprising.",
-                "did not enjoy this. Just too many mechanics going on for a board game that wasn't satisfying"
+                "still not a fan of worker placement. too much resource conversion. all the different types of resources makes it feel unnecessarily convoluted. this leads to my overall opinion that the progression in this game is too subtle/slow. i dislike that the deckbuilding aspect was rather slow, with more mechanisms exchanging and gaining resources over drawing or trashing cards.<br /><br />edit 2024 january 31 - no interest in revisiting<br /><br />edit 2024 august 2 - forgettable"
             ],
             "price": 6.99
         },
         {
-            "id": "terraforming-mars",
+            "id": 7,
+            "id_name": "terraforming-mars",
             "objectId": "167791",
-            "name": "Terraforming Mars",
+            "title": "Terraforming Mars",
             "description": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
             "year": 2016,
             "rating": 8.36,
-            "votes": 99867,
+            "votes": 99894,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -269,13 +276,16 @@
                 "max": 5
             },
             "minage": 12,
-            "weight": 3.2626,
+            "weight": 3.2628,
             "images": {
                 "default": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__mediacard/img/IecPV_tfudPO-IeRhYZHO6KRHoc=/0x651:1500x1495/288x162/filters:strip_icc()/pic3536616.jpg",
                 "2x": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__mediacard@2x/img/-Uk0TnRLYk_wmQyJ5EXoUNKc1X4=/0x651:1500x1495/576x324/filters:strip_icc()/pic3536616.jpg",
                 "banner": "https://cf.geekdo-images.com/h4xbkoKIsRL6Mk0K_1g_VQ__itemheader/img/PhWOLZLJHy5FBwdN0gGIDs_NCb0=/800x450/filters:quality(30):strip_icc()/pic3540110.jpg"
             },
             "comments": [
+                "Awesome game, a lot of strategy",
+                "Truly an evergreen game. Instant classic. ",
+                "The hype from 2016, but a great game. Graphics are a bit on the medium side, but what it lacks in eye candy it has tons of in gameplay.<br /><br />Great to play solo also. <br /><br />I got a bit Race for the galaxy vibes from this in that you have to manage your hand, when all you want to do is play each card. <br /><br />Several ways to victory and great combo possibilities",
                 "One of the best cards-driven games. Nice settings and very high replayability",
                 "Wasn't sure about this one after something of a hyped launch back in 2016 and I don't rate the component quality, visual or physical, given the price point. But it hasn't fallen away in the interim.<br /><br />So we got it. And yep, it's good. More than good. <br /><br />What sets it apart seems to be, making choices on what projects you could do is cheap, but which projects you actually commit to requires work. This does two notable things, First it moves some of the analysis paralysis inherent to complex games into your downtime rather than your turn. So you can actually think a bit in the context of not feeling as much pressure of others waiting for you to act. Second it means you tend to not feel on any given turn that sense of turn stuckness endemic to games that path foresight learned from path dependent game knowledge elide [1]. You can always take on a new project or make incremental progress on one you have. And so, 'it will click on the fourth game', is not a problem Terraforming Mars presents its players or its teachers. Instead you'll get better at the game, rather than converge on a baseline adequacy needed to get better. Unsurprisingly—yet massively understated—these make the Terraforming Mars experience feel good. Quite good. From the point of view of player, and especially new player, engagement, that's a brilliant design achievement. Terraforming Mars deserves immense credit for opening up an expanse where newer gamers can access complexity with ease, and experienced gamers can access ease with complexity. <br /><br />----<br />[1] See also, the \"you can't possibly judge a game on its first play\" trope.<br /><br />2021",
                 "Got Ark Nova and decided to let this go as I didn't see a place for both in the collection and at the moment we prefer Ark Nova. Still a great game though.",
@@ -287,21 +297,19 @@
                 "Terraforming Mars is most compelling to me as a story, of watching the Mars surface incrementally develop over time as a result of your actions. The cards carry a lot of narrative behind them, and when you clean up the game, you can go through all the little but personal steps you took to help get it there. I think it's a game worth playing at least once just for that alone, and I would recommend it for that. <br /><br />Lots of people like the engine building or economic aspects. I personally seek more compelling player interaction in my games, so it's not a great fit for me myself.",
                 "Could be the best game I’ll ever play! So fundamentally fun!",
                 "Expansions Owned: Prelude, Prelude 2, Dual-layer boards, Turmoil promos, Venus Next, Season 2022 Promo Pack, Milestones & Awards, Automa, Hellas & Elysium",
-                "+ Big box with fancy terrain<br /><br />+ Hellas & Elysium<br />+ Venus Next<br />+ Prelude<br />+ Colonies<br />+ Turmoil - KS Promo version<br />+ Prelude 2 and KS promos<br />+ New tiles<br />+ Playmats (5 + 3)<br /><br /><br />+ Small Asteroid<br />+ Penguins<br />+ Self-Replicating Robots<br />+ Snow Algae<br />+ BGG Fan Corp. Promo Pack<br /><br />+ Paladin Sleeves",
-                "Spieler (Sweetspot): 1-5 (3)<br /><br />Erweiterungen:<br />- Aufruhr<br />- Hellas und Elysium<br />- Kolonien<br />- Nächster Halt: Venus<br />- Präludium<br /><br />Promos:<br />- 16 Psyche<br />- Asteroiden-Rechte<br />- Aufruhr Promos<br />- BigBox Promos<br />- Direct Heat Usage<br />- Kleiner Asteroid<br />- Pinguine<br />- Präludium 2022<br />- Schneealgen<br />- Season 2022 Set<br />- Stadtpark<br />- BGG Konzerne<br /><br />Zubehör:<br />- BigBox + 3d Tiles<br />- 1stPM: Tintin Rocket<br />- Doublelayer-Boards<br />- Metall-Würfel (orig.)<br />- Metallmünzen (Rule Benders)<br />- Raumfähren, Mondstationen, Rover<br /><br /><br />Sleeves:<br />- Docsmagic, 63.5x88, Premium",
-                "Better than Ark Nova! There I said it.",
-                "Truly one of my top of all time. The cards are all varied well and the gameplay never feels the same each time. There are small balance tweaks that are necessary such as nerfing Terractor, but overall it's very solid"
+                "+ Big box with fancy terrain<br /><br />+ Hellas & Elysium<br />+ Venus Next<br />+ Prelude<br />+ Colonies<br />+ Turmoil - KS Promo version<br />+ Prelude 2 and KS promos<br />+ New tiles<br />+ Playmats (5 + 3)<br /><br /><br />+ Small Asteroid<br />+ Penguins<br />+ Self-Replicating Robots<br />+ Snow Algae<br />+ BGG Fan Corp. Promo Pack<br /><br />+ Paladin Sleeves"
             ],
             "price": 7.5
         },
         {
-            "id": "war-of-the-ring-second-edition",
+            "id": 8,
+            "id_name": "war-of-the-ring-second-edition",
             "objectId": "115746",
-            "name": "War of the Ring: Second Edition",
+            "title": "War of the Ring: Second Edition",
             "description": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.",
             "year": 2011,
             "rating": 8.54,
-            "votes": 21577,
+            "votes": 21583,
             "duration": {
                 "min": 150,
                 "max": 180
@@ -318,6 +326,7 @@
                 "banner": "https://cf.geekdo-images.com/B43ORnwE4ZhwvlezIyncNw__itemheader/img/h1ljmJILmtF0Uh7iDY38496DCrU=/800x450/filters:quality(30):strip_icc()/pic1188123.jpg"
             },
             "comments": [
+                "Most epic two player game. Cannot be beat in terms of scale and story.",
                 "Reading the rules made this game seem like it was going to be epic, but it ended up just feeling dry and tedious.",
                 "2 copies: Second edition + Anniversary edition",
                 "100% climate of the LOTR. I love this!",
@@ -331,19 +340,19 @@
                 "A fascinating 2 player experience. Epic!",
                 "2 Players",
                 "this is the best game I ever played!",
-                "Long and complicated war game that I just couldn't manage to get through. The game essentially being 2 players didn't help either. It might be a decent book emulator, but as a game we didn't find it very enjoyable.",
-                "Over 20 games played. I love 2 player games, especially ones that are balanced asymmetric.<br /><br />Board - Beautiful, and big<br />Pieces - Detailed, and many of them<br />Game Mechanics - Balanced, but confusing at times<br />Interactions - Like your own little LOTR retelling<br /><br />Flawless execution of a beloved series<br /> "
+                "Long and complicated war game that I just couldn't manage to get through. The game essentially being 2 players didn't help either. It might be a decent book emulator, but as a game we didn't find it very enjoyable."
             ],
             "price": 79.82
         },
         {
-            "id": "star-wars-rebellion",
+            "id": 9,
+            "id_name": "star-wars-rebellion",
             "objectId": "187645",
-            "name": "Star Wars: Rebellion",
+            "title": "Star Wars: Rebellion",
             "description": "Strike from your hidden base as the Rebels—or find and destroy it as the Empire.",
             "year": 2016,
             "rating": 8.42,
-            "votes": 32723,
+            "votes": 32731,
             "duration": {
                 "min": 180,
                 "max": 240
@@ -360,6 +369,7 @@
                 "banner": "https://cf.geekdo-images.com/FT-LtXrAtxGfJ3JlDy3JNQ__itemheader/img/XfsY-CLv_1nz8EHJfAmAb021DZc=/800x450/filters:quality(30):strip_icc()/pic2961864.jpg"
             },
             "comments": [
+                "premium sleeved",
                 "Spectacular immersion and tension buildup. Takes a while before you see what the pivotal steps are. A grand rollercoaster of a Space Opera. My best game ever.",
                 "I usually prefer smaller, more intimate games with two players but this is too much fun. Really makes me go \"oh, hang on, I actually love Star Wars????\"",
                 "This is probably the best 2 player game I've played. I was the rebels and had a blast trying to hide from the empire. The game felt hopeless but felt like we turned the tide after blowing up the death star. Eventually our base was discovered and destroyed. Can't wait to play this one again!",
@@ -373,19 +383,19 @@
                 "If you love Star Wars this could be your big box asymmetrical game (for me that is Twilight Struggle or WotR or Polis depending upon the opponent).<br /><br />Likes:<br />+ Star Wars in a box<br />+ The Deathstar model<br />+ Asymmetry<br /><br />Dislikes:<br />- Just too long, I'm quick and it was set up and took 4-5 hours<br />- Combat system felt pointless<br />- Suffers from low replayability I've played once as Rebel, I could possibly play again as Empire but otherwise no.",
                 "great 2 player game for Peyton and I ",
                 "The best Star Wars experience in a box. Hide & seek strategies, but so well done, thematically.",
-                "One of the best two player games ever made. Epic with a cinematic feeling! Unfortunately, due to the length of the game, it is rarely on the table...",
-                "shEEEEEEEEEEEEEEsh! This game is an epic. The list of positives about this 2-player hide-and-seek are long. The meh aspects fall on some of the units and war cards. These are fixed by the expansion. The only negative is the length. Clear your Saturday and don't have kids."
+                "One of the best two player games ever made. Epic with a cinematic feeling! Unfortunately, due to the length of the game, it is rarely on the table..."
             ],
             "price": 2.75
         },
         {
-            "id": "gloomhaven-jaws-of-the-lion",
+            "id": 10,
+            "id_name": "gloomhaven-jaws-of-the-lion",
             "objectId": "291457",
-            "name": "Gloomhaven: Jaws of the Lion",
+            "title": "Gloomhaven: Jaws of the Lion",
             "description": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign.",
             "year": 2020,
             "rating": 8.43,
-            "votes": 34676,
+            "votes": 34692,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -395,7 +405,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.6414,
+            "weight": 3.6417,
             "images": {
                 "default": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__mediacard/img/pLv_SdUXyJQiQsiLkvd45pDSLwQ=/0x0:702x395/288x162/filters:strip_icc()/pic5055631.jpg",
                 "2x": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__mediacard@2x/img/NJCeGPUmJ7YQ-D1PYerKcApuCZY=/0x0:702x395/576x324/filters:strip_icc()/pic5055631.jpg",
@@ -421,13 +431,14 @@
             "price": 13.99
         },
         {
-            "id": "spirit-island",
+            "id": 11,
+            "id_name": "spirit-island",
             "objectId": "162886",
-            "name": "Spirit Island",
+            "title": "Spirit Island",
             "description": "Island Spirits join forces using elemental powers to defend their home from invaders.",
             "year": 2017,
             "rating": 8.34,
-            "votes": 52214,
+            "votes": 52235,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -437,13 +448,16 @@
                 "max": 4
             },
             "minage": 13,
-            "weight": 4.0681,
+            "weight": 4.068,
             "images": {
                 "default": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__mediacard/img/f6TPXLQRQP5Uv9lJ4BBhvgSPeBo=/0x0:1680x945/288x162/filters:strip_icc()/pic7013651.jpg",
                 "2x": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__mediacard@2x/img/a_D7LspxOtAxEWD7ArsxTXbpZ0c=/0x0:1680x945/576x324/filters:strip_icc()/pic7013651.jpg",
                 "banner": "https://cf.geekdo-images.com/fJBIMHUj2peahXuFRo4y5w__itemheader/img/8BnQJXjlmARCr_Clxkhk0PGUMDE=/800x450/filters:quality(30):strip_icc()/pic6468414.jpg"
             },
             "comments": [
+                "sleeved",
+                "Precio de compra: 70,83. Precio de venta: 47. Total: 23,83",
+                "It's good, just not my cup of tea. Primary issue I have with this game is how everyone is playing simultaneously. Slows the game down with how much conversation happens with what cards everyone should be playing and in what order to get the best results. ",
                 "Cooperative game where players take on the role of island spirits collaborating with natives to protect against colonization by leveraging spirit powers and those on cards through hand management.<br /><br /><a href=\"/microbadge/57190\"><img alt='Microbadge: I completed the 2024 challenge to play 10 games 10 times each' onmouseover=\"return overlib('I completed the 2024 challenge to play 10 games 10 times each', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_57190_0.png\"></a> <a  href=\"/geeklist/322186/bks-solo-10x10-in-2024-list\"   >BK's Solo 10x10 in 2024 List</a><br /><a href=\"/microbadge/55952\"><img alt='Microbadge: I completed the 2023 challenge to play 10 games 10 times each' onmouseover=\"return overlib('I completed the 2023 challenge to play 10 games 10 times each', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_55952_0.png\"></a> <a  href=\"/geeklist/305456/bks-solo-10x10-in-2023-list\"   >BK's Solo 10x10 in 2023 List</a><br /><br />{Solo win:loss::10:10}",
                 "Sleeved.",
                 "Very well designed game. Only played once and game play still is a bit foreign. Not interested in trying again.",
@@ -455,21 +469,19 @@
                 "WOW! I knew I would like this game but I fully expected that it would have no chance to meet up with the hype. I was wrong. This game is fantastic! I want to play this more and I even want to try it solo. The mechanics in this make it a really nice little puzzle and I now want to try all the different spirits. I already had the etsy playmat and now I picked up branch and claw and some new tokens to bling this out. I suspect this game is going to get a lot of plays and eventually get more expansions. This might land in my top 10. Actually, not \"might\". This WILL be in my top 10. It is that good!",
                 "(A)★★★／ファンタジー・拡大再生産・エリアマジョリティ・固有能力・ソロプレイ・タワーディフェンス",
                 "Solo<br />+ Spirit Island: Branch & Claw<br />+ Spirit Island: Jagged Earth",
-                "This was the absolute hardest game for me to learn when I first picked it up.  The rulebook just did not work well with my brain.  Plays great, just GREAT at 1-2 players, but anything above that and the time sink really hits this game a bit too hard.  ",
-                "Bad game. Super dry puzzle-solving procedural co-op that overstays its welcome and is thoroughly unfun and uninteresting. Way too complicated for its own good; needed a lot more development to simplify and streamline, and add more fun to the proceedings. Knizia's The Lord of the Rings is the gold standard and this doesn't come anywhere close to that experience.",
-                "Great design. If you are a solo or co-op player than this has to be on your list to try.<br />+ Lots of content, with heaps of different Spirits and levels to play against.  <br />++ Love the inversion of typical colonialist themes<br />++ Dual sided game boards (love it) and invaders/Dahan components<br />+ Great rulebook<br />– Dislike some of the card and Spirit board art.  I'm probably in the minority but this drags it down as you spend quite a bit of time looking at cards and character boards.<br />–The puzzle became a bit same-same.  Immersion wasn't deep enough for my solo experience.",
-                "Maybe the greatest co-op game ever"
+                "This was the absolute hardest game for me to learn when I first picked it up.  The rulebook just did not work well with my brain.  Plays great, just GREAT at 1-2 players, but anything above that and the time sink really hits this game a bit too hard.  "
             ],
             "price": 9.5
         },
         {
-            "id": "gaia-project",
+            "id": 12,
+            "id_name": "gaia-project",
             "objectId": "220308",
-            "name": "Gaia Project",
+            "title": "Gaia Project",
             "description": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
             "year": 2017,
             "rating": 8.37,
-            "votes": 27362,
+            "votes": 27368,
             "duration": {
                 "min": 60,
                 "max": 150
@@ -479,13 +491,14 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 4.3921,
+            "weight": 4.3925,
             "images": {
                 "default": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__mediacard/img/VovXeiCOwNe6_PAkSiTJNVbEkGs=/0x0:1864x1049/288x162/filters:strip_icc()/pic5375625.png",
                 "2x": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__mediacard@2x/img/7z6cl8c8Ksth6l_hMO-EEisnPW4=/0x0:1864x1049/576x324/filters:strip_icc()/pic5375625.png",
                 "banner": "https://cf.geekdo-images.com/pz4DG7MJX4gxHdFlRswlKg__itemheader/img/6OoMFNDVUkWod1meCjbQIGEUOpA=/800x450/filters:quality(30):strip_icc()/pic3409873.jpg"
             },
             "comments": [
+                "The game forever fated to be called 'Terra Mystica in space'. I like TM, but I find that bolting on a daft sci-fi theme and tweaking a few rules is cynical publishing at best. The current trend of designers 'improving' games for re-release is worrying and illustrates the narrowness of the market sometimes.",
                 "Great spin off from Terra Mystica genre. It's less cutthroat but more sophisticated, it's really a lot of development possibilities here. Very solid position.",
                 "Eurogame de construction d'empire à dimension Space opéra. Asymétrique et avec une très bonne rejouabilité. Les règles sont riches mais très assimilables.<br />Un must have.",
                 "Uwielbiam Gaia Project. Jasne, że w gruncie rzeczy jest to suchar. Ale nie szukam tutaj klimatu. Sama łamigłówka złożona z mechanik jest na tyle ciekawa, że mogę z czystym sumieniem powiedzieć: GP to jedno z moich ulubionych euro. Wymaga od gracza skupienia i strategii. Potrafi sparaliżować mnogością opcji.<br /><br />Ale jest po prostu totalnie miodną piaskownicą. I co najważniejsze - regrywalną.<br /><br />minusy:<br />- absolutnie nie wyobrażam sobie nauczenia Gaia Project 4 graczy, grania razem z nimi i jednoczesnego pilnowania, czy nie popełniają błędow i odpowiednie korzystają z umiejętności swoich frakcji; przeczuwam, że byłoby to traumatyczne doświadczenie;<br />-same umiejętności frakcji też mogłyby być gdzieś łopatologiczne opisane, tak, żeby znajdowały się pod ręką, a nie w instrukcji - zwłaszcza na początku zagląda się do tego dość często<br /><br />",
@@ -499,19 +512,19 @@
                 "Top 10",
                 "* PZ &gt;181 - the best<br />* PZ 161-180 - really great<br />* PZ 131-160 - very good<br />* PZ 100-130 - good<br />* PZ 60-99 - decent<br />* PZ ",
                 "Great game. The research track is really engaging and fun. terraforming the planets is a blast and the asymmetric factions really make it repayable.",
-                "1–4 Players<br />60–150 Min<br /><br />Herve Nivaux<br />Un de mes tops forever.<br />La rejouabilité de ce jeu est incroyable. Même des années après sa découverte, ce jeu me happe à chaque partie, autant en solo qu’en multi. Toutes les mécaniques sont parfaitement imbriquées, aucune lourdeur, le temps passe très vite malgré une durée de jeu avoisinant les 2 heures en solo, parfois 3, voire 4h en multi: que du plaisir !<br /><br />Steph Mezz<br />Principal contributeur<br />Herve Nivaux je joue en une heure une heure trente grand maxi en solo .",
-                "The same tight system as Terra Mystica with a new theme and a few improvements. The different parts of the game come together as a whole better in this game than in Terra Mystica. The plastic pieces fit the theme well and everything is very well produced.<br /><br />I love the puzzle this game offers in each round. The rules seem intimidating at first, but once you know how to play it it's really not that bad. The game even flows pretty good for the heavy decisions everyone has to make.<br /><br />It doesn't replace Terra Mystica for me, but it stands shoulder to shoulder with it."
+                "1–4 Players<br />60–150 Min<br /><br />Herve Nivaux<br />Un de mes tops forever.<br />La rejouabilité de ce jeu est incroyable. Même des années après sa découverte, ce jeu me happe à chaque partie, autant en solo qu’en multi. Toutes les mécaniques sont parfaitement imbriquées, aucune lourdeur, le temps passe très vite malgré une durée de jeu avoisinant les 2 heures en solo, parfois 3, voire 4h en multi: que du plaisir !<br /><br />Steph Mezz<br />Principal contributeur<br />Herve Nivaux je joue en une heure une heure trente grand maxi en solo ."
             ],
             "price": 47.99
         },
         {
-            "id": "twilight-struggle",
+            "id": 13,
+            "id_name": "twilight-struggle",
             "objectId": "12333",
-            "name": "Twilight Struggle",
+            "title": "Twilight Struggle",
             "description": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
             "year": 2005,
             "rating": 8.25,
-            "votes": 48978,
+            "votes": 48981,
             "duration": {
                 "min": 120,
                 "max": 180
@@ -521,7 +534,7 @@
                 "max": 2
             },
             "minage": 13,
-            "weight": 3.6085,
+            "weight": 3.6088,
             "images": {
                 "default": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__mediacard/img/B-FmcEJ1e5Uv4tMA_uHvR60TSZ8=/0x30:1900x1099/288x162/filters:strip_icc()/pic3530661.jpg",
                 "2x": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__mediacard@2x/img/W97R-44sRs6v54er8lHyzdKMpLc=/0x30:1900x1099/576x324/filters:strip_icc()/pic3530661.jpg",
@@ -547,13 +560,14 @@
             "price": 23.99
         },
         {
-            "id": "through-the-ages-a-new-story-of-civilization",
+            "id": 14,
+            "id_name": "through-the-ages-a-new-story-of-civilization",
             "objectId": "182028",
-            "name": "Through the Ages: A New Story of Civilization",
+            "title": "Through the Ages: A New Story of Civilization",
             "description": "Rewrite history as you build up your civilization in this epic card drafting game!",
             "year": 2015,
             "rating": 8.29,
-            "votes": 31818,
+            "votes": 31827,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -589,13 +603,14 @@
             "price": 15
         },
         {
-            "id": "great-western-trail",
+            "id": 15,
+            "id_name": "great-western-trail",
             "objectId": "193738",
-            "name": "Great Western Trail",
+            "title": "Great Western Trail",
             "description": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
             "year": 2016,
             "rating": 8.19,
-            "votes": 41055,
+            "votes": 41058,
             "duration": {
                 "min": 75,
                 "max": 150
@@ -631,13 +646,14 @@
             "price": 34
         },
         {
-            "id": "the-castles-of-burgundy",
+            "id": 16,
+            "id_name": "the-castles-of-burgundy",
             "objectId": "84876",
-            "name": "The Castles of Burgundy",
+            "title": "The Castles of Burgundy",
             "description": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
             "year": 2011,
             "rating": 8.14,
-            "votes": 62654,
+            "votes": 62672,
             "duration": {
                 "min": 30,
                 "max": 90
@@ -653,17 +669,34 @@
                 "2x": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__mediacard@2x/img/Yi1PGP3tsybz1idl5Jn_qiyWWVg=/0x3:310x177/576x324/filters:strip_icc()/pic1176894.jpg",
                 "banner": "https://cf.geekdo-images.com/i-BZcqb4DfZt47se7HI0DQ__itemheader/img/4nH-Obi7i3pkRkx9tWIO22yF4v0=/800x450/filters:quality(30):strip_icc()/pic2789337.jpg"
             },
-            "comments": [],
+            "comments": [
+                "Played it around fifteen times, mainly with three players, sometimes four players. The tile placement mechanism combined with dice roles and the scarcity of some of the more valuable tiles create a lot of tension and fierce competition among the players. At the same time you can choose different paths to victory in case another player is constantly grabbing the tiles you need, like trying to maintain the starting position in each round or to earn a lot of silver coins to buy additional tiles. The second best tile placement game I have played so far, after A Feast for Odin, and also compared with World Wonders and Planet Unknown. However, I am not a big fan of tile placement games in general, since most appear quite abstract and less thematic than other kinds of games. Furthermore, in Castles of Burgundy, you have to rearrange the whole setup four times during the game, which reduces the fun factor a little bit.<br /><br />Update: Changed my rating from 7 to 8 after having played CoB on BGA. Without the effort to set up the tiles again after each round, the game is much more enjoyable.",
+                "Classic.",
+                "w/ trade expansion from Notre Dame 10th Edition, 2nd (new hex tiles), 4th (monastery boards), and 5th (pleasure gardens) mini expansions",
+                "A really good game with lots of strategy and many paths to victory.  You have two things to do on your turn, but the decisions are ridiculously many.  <br /><br />the only thing about this game is it's so easy to forgot some rules.  Like  you get one money thing when you sell, or you forget to get a large of small token when covering all of one color.  Or it's super easy to forget to have only one building type on a city.  <br /><br /><br />2019:<br />In my top 50 : 4th  <br /><br /><br /><br />Verk : <br />Frank:  0<br />Me:",
+                "The quintessential theme-less beige euro point-salad that looks like crap on the table, but continues to be incredibly satisfying to play. The essence of this efficiency puzzle is managing the risk of an adverse dice roll not only through the use of workers but also by managing your player board in such a way as to ensure maximum optionality. There's nothing worse than rolling doubles of a die result that's far from the number you need, at the end of a phase when you don't have workers and there are few tiles remaining to pull from the central board and/or you are desperate to place a particular tile on your player board. At its core, this is a push-your-luck game and mitigating a lack of luck is crucial to avoid a frustrating game experience. While solid at all player counts (including GameRulesforOne's SoloPlay version, which is very good), CoB is best played with 4, since not all tiles become available at lower player counts. It can be very deflating to pursue a particular strategy that depends on acquiring specific tiles when those tiles never enter the game. While it can feel like multi-player solitaire at times, you need to be acutely aware of what other players are doing on their player boards. Player tension is also created by the fact that end-game points can be decisive no matter how far behind you fall on the points track.",
+                "Divertido.",
+                "Elegancki, typowy, suchy (BARDZO SUCHY) Feld. Nigdy nie odmówię partyjki. Bardzo miły (i bezbolesny, gładki, szybki!) powrót po kilku latach przerwy.<br /><br />Odprężające doświadczenie. Odpoczywam przy Zamkach Burgundii.<br /><br />Szybkie przygotowanie rozgrywki, wystarczy posortować i rozłożyć żetony na planszy.<br /><br />Rozegrane dziesiątki partii. Gra nigdy się nie zacięła ani nie zepsuła. Potrafi napsuć krwi, mimo pozornego braku interakcji. W \"zamkach\" da się zagrać potężne chamstwo, pozbawiające przeciwnika dzięsiątków punktów.<br /><br />Czasami zamki są \"zbyt lekkie\", bym miał na nie ochotę. Zwyczajnie często mam apetyt na nieco cięższą, bardziej złożoną grę.<br /><br />Niemniej, Zamki to klasa. Po prostu. Gra do \"masterowania\".",
+                "Meeple realty organizer included.",
+                "A great game in itself with some really clever mechanics. I can definitely see why it's such an appreciated classic. <br />It's light on the rules and offers a lot of variation thanks to the random nature of dice rolls, tile drafting and the various maps. <br /><br />What brings the score down for me is the poor graphic design. <br />It's not that intuitive and the colors are muddy. On my first game I felt confused about the \"yellow\" tiles, as they are actually light green in this version. And I don't really see myself learning what each building does by heart, so having to constantly consult the player aid is a bit of a bummer.",
+                "Multiplayer Games Best at Two - <a target='_blank' href=\"https://boardgamegeek.com/geeklist/339032/multiplayer-games-that-are-best-at-two\" rel=\"nofollow noreferrer noopener\">https://boardgamegeek.com/geeklist/339032/multiplayer-games-...</a>",
+                "BGA",
+                "I did not like this game. probably cause the map was soooo bland",
+                "德式中策",
+                "Ling",
+                "Not a fan of the art & checking rulebook multiple times during the game. But it's fun otherwise with interesting choices."
+            ],
             "price": 17
         },
         {
-            "id": "scythe",
+            "id": 17,
+            "id_name": "scythe",
             "objectId": "169786",
-            "name": "Scythe",
+            "title": "Scythe",
             "description": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe.",
             "year": 2016,
             "rating": 8.14,
-            "votes": 84090,
+            "votes": 84111,
             "duration": {
                 "min": 90,
                 "max": 115
@@ -673,7 +706,7 @@
                 "max": 5
             },
             "minage": 14,
-            "weight": 3.4441,
+            "weight": 3.4442,
             "images": {
                 "default": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__mediacard/img/Zrq8zWXxC3C_RQPSpPOouYi-o5o=/0x0:4259x2396/288x162/filters:strip_icc()/pic3163924.jpg",
                 "2x": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__mediacard@2x/img/VgiEm3GpgpX0y5LGbS02mt11XeQ=/0x0:4259x2396/576x324/filters:strip_icc()/pic3163924.jpg",
@@ -683,13 +716,14 @@
             "price": 15.6
         },
         {
-            "id": "eclipse-second-dawn-for-the-galaxy",
+            "id": 18,
+            "id_name": "eclipse-second-dawn-for-the-galaxy",
             "objectId": "246900",
-            "name": "Eclipse: Second Dawn for the Galaxy",
+            "title": "Eclipse: Second Dawn for the Galaxy",
             "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
             "year": 2020,
             "rating": 8.46,
-            "votes": 13823,
+            "votes": 13827,
             "duration": {
                 "min": 60,
                 "max": 200
@@ -709,13 +743,14 @@
             "price": 147.12
         },
         {
-            "id": "7-wonders-duel",
+            "id": 19,
+            "id_name": "7-wonders-duel",
             "objectId": "173346",
-            "name": "7 Wonders Duel",
+            "title": "7 Wonders Duel",
             "description": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
             "year": 2015,
-            "rating": 8.1,
-            "votes": 95377,
+            "rating": 8.09,
+            "votes": 95408,
             "duration": {
                 "min": 30,
                 "max": 30
@@ -725,7 +760,7 @@
                 "max": 2
             },
             "minage": 10,
-            "weight": 2.2283,
+            "weight": 2.2281,
             "images": {
                 "default": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__mediacard/img/OTmEfmtsErSd1otMsKfvjDMrNgo=/0x0:720x405/288x162/filters:strip_icc()/pic2576399.jpg",
                 "2x": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__mediacard@2x/img/-Y-w00_djtCCOHB6LTdTwqvAaOM=/0x0:720x405/576x324/filters:strip_icc()/pic2576399.jpg",
@@ -735,13 +770,14 @@
             "price": 9
         },
         {
-            "id": "brass-lancashire",
+            "id": 20,
+            "id_name": "brass-lancashire",
             "objectId": "28720",
-            "name": "Brass: Lancashire",
+            "title": "Brass: Lancashire",
             "description": "Test your economic mettle as you build and network in the Industrial Revolution.",
             "year": 2007,
             "rating": 8.19,
-            "votes": 25055,
+            "votes": 25057,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -761,13 +797,14 @@
             "price": 13
         },
         {
-            "id": "nemesis",
+            "id": 21,
+            "id_name": "nemesis",
             "objectId": "167355",
-            "name": "Nemesis",
+            "title": "Nemesis",
             "description": "Survive an alien-infested spaceship, but beware of other players and their agendas!",
             "year": 2018,
             "rating": 8.27,
-            "votes": 30920,
+            "votes": 30932,
             "duration": {
                 "min": 90,
                 "max": 180
@@ -787,13 +824,14 @@
             "price": 62.99
         },
         {
-            "id": "clank-legacy-acquisitions-incorporated",
+            "id": 22,
+            "id_name": "clank-legacy-acquisitions-incorporated",
             "objectId": "266507",
-            "name": "Clank! Legacy: Acquisitions Incorporated",
+            "title": "Clank! Legacy: Acquisitions Incorporated",
             "description": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\"",
             "year": 2019,
             "rating": 8.53,
-            "votes": 9527,
+            "votes": 9531,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -813,13 +851,14 @@
             "price": 10
         },
         {
-            "id": "a-feast-for-odin",
+            "id": 23,
+            "id_name": "a-feast-for-odin",
             "objectId": "177736",
-            "name": "A Feast for Odin",
+            "title": "A Feast for Odin",
             "description": "Puzzle together the life of a Viking village as you hunt, farm, craft, and explore.",
             "year": 2016,
             "rating": 8.17,
-            "votes": 28794,
+            "votes": 28804,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -839,13 +878,14 @@
             "price": 11.86
         },
         {
-            "id": "concordia",
+            "id": 24,
+            "id_name": "concordia",
             "objectId": "124361",
-            "name": "Concordia",
+            "title": "Concordia",
             "description": "Merchants build and trade throughout the Roman Empire to please the Gods.",
             "year": 2013,
             "rating": 8.09,
-            "votes": 40726,
+            "votes": 40730,
             "duration": {
                 "min": 100,
                 "max": 100
@@ -855,7 +895,7 @@
                 "max": 5
             },
             "minage": 13,
-            "weight": 2.9895,
+            "weight": 2.9889,
             "images": {
                 "default": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__mediacard/img/e3fgAzlM_WX6VD-UnJn2dFV-lDc=/0x0:3305x1859/288x162/filters:strip_icc()/pic3453267.jpg",
                 "2x": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__mediacard@2x/img/BIm4z2TvSgwRubi-EouDNVx_jeE=/0x0:3305x1859/576x324/filters:strip_icc()/pic3453267.jpg",
@@ -865,13 +905,14 @@
             "price": 30
         },
         {
-            "id": "great-western-trail-second-edition",
+            "id": 25,
+            "id_name": "great-western-trail-second-edition",
             "objectId": "341169",
-            "name": "Great Western Trail: Second Edition",
+            "title": "Great Western Trail: Second Edition",
             "description": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City.",
             "year": 2021,
             "rating": 8.34,
-            "votes": 12988,
+            "votes": 12993,
             "duration": {
                 "min": 75,
                 "max": 150
@@ -881,7 +922,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.7175,
+            "weight": 3.7189,
             "images": {
                 "default": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__mediacard/img/I6VXYNW418qjG-tHOEiVCMKbvvE=/0x0:1756x988/288x162/filters:strip_icc()/pic5988511.jpg",
                 "2x": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__mediacard@2x/img/RSjYUfXy6sKBo_VmBzK87lmXU98=/0x0:1756x988/576x324/filters:strip_icc()/pic5988511.jpg",
@@ -891,13 +932,14 @@
             "price": 34
         },
         {
-            "id": "arkham-horror-the-card-game",
+            "id": 26,
+            "id_name": "arkham-horror-the-card-game",
             "objectId": "205637",
-            "name": "Arkham Horror: The Card Game",
+            "title": "Arkham Horror: The Card Game",
             "description": "Investigate the horrors of Arkham while courting cosmic doom.",
             "year": 2016,
             "rating": 8.13,
-            "votes": 43368,
+            "votes": 43378,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -917,13 +959,14 @@
             "price": 9.68
         },
         {
-            "id": "frosthaven",
+            "id": 27,
+            "id_name": "frosthaven",
             "objectId": "295770",
-            "name": "Frosthaven",
+            "title": "Frosthaven",
             "description": "Adventure in the frozen north and build up your outpost throughout an epic campaign.",
             "year": 2022,
             "rating": 8.83,
-            "votes": 7142,
+            "votes": 7147,
             "duration": {
                 "min": 90,
                 "max": 180
@@ -943,13 +986,14 @@
             "price": 54.13
         },
         {
-            "id": "lost-ruins-of-arnak",
+            "id": 28,
+            "id_name": "lost-ruins-of-arnak",
             "objectId": "312484",
-            "name": "Lost Ruins of Arnak",
+            "title": "Lost Ruins of Arnak",
             "description": "Explore an island to find resources and discover the lost ruins of Arnak.",
             "year": 2020,
             "rating": 8.07,
-            "votes": 44801,
+            "votes": 44817,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -959,7 +1003,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 2.9201,
+            "weight": 2.9208,
             "images": {
                 "default": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__mediacard/img/ScBU7uekxKxiN0jgmFghGdalakA=/0x0:1387x780/288x162/filters:strip_icc()/pic5674958.jpg",
                 "2x": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__mediacard@2x/img/Z2p2aa17rmMlYEkkTJ1Ya5-xABU=/0x0:1387x780/576x324/filters:strip_icc()/pic5674958.jpg",
@@ -969,13 +1013,14 @@
             "price": 7.99
         },
         {
-            "id": "wingspan",
+            "id": 29,
+            "id_name": "wingspan",
             "objectId": "266192",
-            "name": "Wingspan",
+            "title": "Wingspan",
             "description": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
             "year": 2019,
             "rating": 8.04,
-            "votes": 94265,
+            "votes": 94314,
             "duration": {
                 "min": 40,
                 "max": 70
@@ -985,7 +1030,7 @@
                 "max": 5
             },
             "minage": 10,
-            "weight": 2.4632,
+            "weight": 2.4639,
             "images": {
                 "default": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__mediacard/img/zSNZvma0PPsb-qDO4ufTc-yU5hk=/0x766:1750x1750/288x162/filters:strip_icc()/pic4458123.jpg",
                 "2x": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__mediacard@2x/img/POit0SNyEkfUSt8c4kwzs3eZar8=/0x766:1750x1750/576x324/filters:strip_icc()/pic4458123.jpg",
@@ -995,13 +1040,14 @@
             "price": 3
         },
         {
-            "id": "terra-mystica",
+            "id": 30,
+            "id_name": "terra-mystica",
             "objectId": "120677",
-            "name": "Terra Mystica",
+            "title": "Terra Mystica",
             "description": "Play fantastical factions.  Expand your influence by terraforming and joining cults.",
             "year": 2012,
             "rating": 8.06,
-            "votes": 48168,
+            "votes": 48175,
             "duration": {
                 "min": 60,
                 "max": 150
@@ -1021,13 +1067,14 @@
             "price": 2.15
         },
         {
-            "id": "root",
+            "id": 31,
+            "id_name": "root",
             "objectId": "237182",
-            "name": "Root",
+            "title": "Root",
             "description": "Decide the fate of the forest as woodland factions fight for contrasting goals.",
             "year": 2018,
             "rating": 8.07,
-            "votes": 52058,
+            "votes": 52079,
             "duration": {
                 "min": 60,
                 "max": 90
@@ -1037,7 +1084,7 @@
                 "max": 4
             },
             "minage": 10,
-            "weight": 3.8074,
+            "weight": 3.8075,
             "images": {
                 "default": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__mediacard/img/9-BzH6ykxbnzpVRdgG0R-FscjoY=/0x132:2048x1284/288x162/filters:strip_icc()/pic4254509.jpg",
                 "2x": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__mediacard@2x/img/1cgjIfLMYuzf0fZgLDIObz_ajdk=/0x132:2048x1284/576x324/filters:strip_icc()/pic4254509.jpg",
@@ -1047,13 +1094,14 @@
             "price": 14.95
         },
         {
-            "id": "orleans",
+            "id": 32,
+            "id_name": "orleans",
             "objectId": "164928",
-            "name": "Orléans",
+            "title": "Orléans",
             "description": "Craftsmen, scholars & monks can help you reign supreme—but who will turn up to help?",
             "year": 2014,
             "rating": 8.06,
-            "votes": 31563,
+            "votes": 31570,
             "duration": {
                 "min": 90,
                 "max": 90
@@ -1073,13 +1121,14 @@
             "price": 38.47
         },
         {
-            "id": "too-many-bones",
+            "id": 33,
+            "id_name": "too-many-bones",
             "objectId": "192135",
-            "name": "Too Many Bones",
+            "title": "Too Many Bones",
             "description": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown.",
             "year": 2017,
             "rating": 8.34,
-            "votes": 13600,
+            "votes": 13608,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1099,13 +1148,14 @@
             "price": 130.35
         },
         {
-            "id": "mage-knight-board-game",
+            "id": 34,
+            "id_name": "mage-knight-board-game",
             "objectId": "96848",
-            "name": "Mage Knight Board Game",
+            "title": "Mage Knight Board Game",
             "description": "Build your hero’s spells, abilities, and artifacts as you explore & conquer cities.",
             "year": 2011,
             "rating": 8.08,
-            "votes": 33415,
+            "votes": 33419,
             "duration": {
                 "min": 60,
                 "max": 240
@@ -1125,13 +1175,14 @@
             "price": 2.15
         },
         {
-            "id": "barrage",
+            "id": 35,
+            "id_name": "barrage",
             "objectId": "251247",
-            "name": "Barrage",
+            "title": "Barrage",
             "description": "Nations vie for hydroelectric dominance in a dystopia where water is power.",
             "year": 2019,
             "rating": 8.16,
-            "votes": 17926,
+            "votes": 17931,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1151,13 +1202,14 @@
             "price": 65.44
         },
         {
-            "id": "everdell",
+            "id": 36,
+            "id_name": "everdell",
             "objectId": "199792",
-            "name": "Everdell",
+            "title": "Everdell",
             "description": "Gather resources to develop a harmonious village of woodland critters and structures.",
             "year": 2018,
             "rating": 8.02,
-            "votes": 55433,
+            "votes": 55469,
             "duration": {
                 "min": 40,
                 "max": 80
@@ -1167,7 +1219,7 @@
                 "max": 4
             },
             "minage": 10,
-            "weight": 2.8285,
+            "weight": 2.8287,
             "images": {
                 "default": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__mediacard/img/e3ilyrm_j3WOSeT6aoPyzvs1Xg4=/0x12:1600x912/288x162/filters:strip_icc()/pic3918905.png",
                 "2x": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__mediacard@2x/img/t9NZv63tVuxk-Lrfe1Yk_RQM_L0=/0x12:1600x912/576x324/filters:strip_icc()/pic3918905.png",
@@ -1177,13 +1229,14 @@
             "price": 13.8
         },
         {
-            "id": "the-crew-mission-deep-sea",
+            "id": 37,
+            "id_name": "the-crew-mission-deep-sea",
             "objectId": "324856",
-            "name": "The Crew: Mission Deep Sea",
+            "title": "The Crew: Mission Deep Sea",
             "description": "Dive into the deep sea in this co-operative trick-taking game with variable missions.",
             "year": 2021,
             "rating": 8.14,
-            "votes": 18026,
+            "votes": 18038,
             "duration": {
                 "min": 20,
                 "max": 20
@@ -1203,13 +1256,14 @@
             "price": 9
         },
         {
-            "id": "viticulture-essential-edition",
+            "id": 38,
+            "id_name": "viticulture-essential-edition",
             "objectId": "183394",
-            "name": "Viticulture Essential Edition",
+            "title": "Viticulture Essential Edition",
             "description": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
             "year": 2015,
             "rating": 7.99,
-            "votes": 49055,
+            "votes": 49074,
             "duration": {
                 "min": 45,
                 "max": 90
@@ -1225,33 +1279,18 @@
                 "2x": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__mediacard@2x/img/_kkxsPzGMgcgCcMkgW8lJybDVL4=/0x0:3150x1772/576x324/filters:strip_icc()/pic6500949.jpg",
                 "banner": "https://cf.geekdo-images.com/RoaYFIGB5bg-B-9tqExLHA__itemheader/img/nab38socfzbn5KBcZf-HCP4WD5g=/800x450/filters:quality(30):strip_icc()/pic3025835.jpg"
             },
-            "comments": [
-                "Євро<br />К-сть гравців: 1-6<br />Складність: 2,89/5",
-                "Love this game. My wife likes wine. So it resonates well with her.<br /><br />+Highly Thematic<br />+Aesthetics<br />+Gameplay time is on point<br />+High Replayability<br /><br />Requires a bit of time to teach",
-                "Metal coins<br /><br />Aftermarket: Levity Games sticker kit; Meeple Source player tokens; Smonex board game insert",
-                "The rules are borne by the theme, making this board game likewise accessible and immersive, and both a challenging puzzle and a lot of fun to play, with different paths to victory. Needless to say that the production quality is very nice. Pretty much for one game only, right? Must-have!",
-                "the birth of some other more complicated games. this one is a bit confusing at first. some cards are too OP while others are meh",
-                "One play. Gave it to my brother for his birthday. Solid WP game with a fun theme",
-                "3D Insert<br />Gamegenic Sleeves 66 x 91 ",
-                "Fairly straight forward worker placement with half the spots open during summer and the other half open during winter to add a neat decision element to the game. This one takes a fair bit of planning ahead. The 1-player \"automa\" system is well designed for single player mode. Neat worker placement game. Recommended. Also, consider getting metal coins to replace the cardboard if you wanna bling it out.",
-                "I have to give this game a 7 because it feels almost not fully thought out. Many structures in this game are just entirely useless (yoke, wine tasting, windmill) and are not nearly worth the cost. <br /><br />The win-con in this game tends to be drawing as many visitor cards as you can to find the ones that save you workers and money.",
-                "Love the theme and the grande worker. Not a fan of the card play in this game.<br />English summary: <a target='_blank' href=\"https://boardgamegeek.com/filepage/197997/viticulture-essential-edition-rules-brief\" rel=\"nofollow noreferrer noopener\">https://boardgamegeek.com/filepage/197997/viticulture-essent...</a>",
-                "its a good workerplacemente game and it has fantastic theme. Also everyone can play it immediately. But the options of vary the strategies is a bit small, and the draw luck decides who gets the win-priority",
-                "Nothing wrong with the game. I just enjoy Agricola, Everdell and Architects of West Kingdom a lot more so I have no desire to play this.",
-                "Android",
-                "This game was bought for me and the wife to play as i built her from beyond simple card games and we love it! Excellent choices and plays so well at 2 players. The theme and components are wonderful.",
-                "One of the best worker placement games, Easy to learn, and has a lot of replayability. Recommended for someone who wants more than a family game. Really good option to get for the first strategy game."
-            ],
+            "comments": [],
             "price": 10
         },
         {
-            "id": "heat-pedal-to-the-metal",
+            "id": 39,
+            "id_name": "heat-pedal-to-the-metal",
             "objectId": "366013",
-            "name": "Heat: Pedal to the Metal",
+            "title": "Heat: Pedal to the Metal",
             "description": "Manage your race car's speed to keep from overheating.",
             "year": 2022,
             "rating": 8.07,
-            "votes": 23968,
+            "votes": 24002,
             "duration": {
                 "min": 30,
                 "max": 60
@@ -1261,23 +1300,40 @@
                 "max": 6
             },
             "minage": 10,
-            "weight": 2.2009,
+            "weight": 2.2,
             "images": {
                 "default": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard/img/u-knslA6rSjeKxZcm0GoNg6dwXk=/0x0:1316x740/288x162/filters:strip_icc()/pic6940449.png",
                 "2x": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard@2x/img/gIGJPnyrTDmDd7c6BBHZR86-ULc=/0x0:1316x740/576x324/filters:strip_icc()/pic6940449.png",
                 "banner": "https://cf.geekdo-images.com/oLY-unxhNEiGlvNgt73LLA__itemheader/img/Ri4bpwJtbrhWOl2MYpTm3479xrY=/800x450/filters:quality(30):strip_icc()/pic6940454.png"
             },
-            "comments": [],
+            "comments": [
+                "An easy-to-learn racing game with a fun mix of push-your-luck, hand management, deck management, and trying to predict your opponents.  You use clever card play and position-jockeying with your opponents in order to make your car race as fast as possible without overheating. The player vs. player racing aspect is what will drive the push-your-luck to exciting limits, so it's great that this one plays up to 7 players!",
+                "Brand-new mechanism makes we all excited about this hit. It makes sense that it soon become the top 50 in BGG because of its new, simple, easy, straight and fun.",
+                "Didn't seem very fluid. Will have to try it again to get a better take, but first reactions is I want to like it more than I do.",
+                "Wow. Such a great game. ",
+                "Oh dear oh dear. I expected great things from the hype.<br /><br />Second worst race game I have ever played and I like race games! Far too light and random - once again proving hype can convince many people that they are playing a good game.<br /><br />As someone else commented, the game itself has shallow decision making (pretty much boils down to \"slow down before curves, speed up on straights, hope for good draws\") and lacks any excitement or interaction that others claim is available. And the wee cars themselves are an awful production issue - nasty is the word I would use for them - they should have been much nicer to use.<br /><br />From the 6 max (on the board) not being underlined (I thought it was a 9) to poor colour choice for inside lane there are so many niggles that spoilt this game for me,  including the two automated cars in the game I played. For example,  even with a hand of 7 cards, the luck is enormous - you slow down in a corner but if you don't have any heat cards in hand that you can discard from hand, well too bad. <br /><br />I would sell it but it is so poor I would not wish the game on any one else!",
+                "Cool game.  With all the extra cards I feel like this is a game without a sunset in it.  Will be replayable for a long time.",
+                "Karol ma. Sprzedane ",
+                "This game is SO exciting! The races often are very close and strategy is deep when applying the addons included in the box. Weather conditions also expand the game in a great way. The amount of content in the box definitely justifies the price.",
+                "#테마 #패밀리 #덱빌딩 #레이싱 #4인 #5인 #6인<br /><br />후끈후끈한 레이싱 게임",
+                "Superfun racing game! If playing with fewer than 6 players, use the excellent Legends module.<br /><br />D",
+                "I love how the theme and mechanisms work together. Very clever, well put together game. But a bit too repetitive for my taste.",
+                "3p, took 60 minutes including explanation<br /><br />Didn't make want to play another round immediately, but definitely interested to play more and see how drafting, upgrades, weather etc work",
+                "Que decepción de juego y que decepción en general que una buena campaña publicitaria haga que un producto tan mediocre acabe subiendo tanto en la bgg. Y lo malo es que te das cuenta de la fuerza que tienen los creadores de contenido en toda esta trama. Imparcialidad nula. ¿Queréis un buen juego de CARRERAS? Jugar a cualquier otro. Mi valoración es de 3 y no de 0 por el trabajo del arte gráfico del juego. Lo único que salvo. <br />Pole Position, Race Formula 90, Fórmula D, Rallyman, Snow Tails.....cualquier otro de estos pobres huérfanos de publicidad le dan mil vueltas a este Heat",
+                "德式轻策",
+                "Theme: Racey, Sporty- Very Good (2/2)<br />Mechs: Deck builder, hand management, push your luck, solo - Good (2/3)<br />Ease of play/Gameplay: Ballsache to teach newbies, despite how easy it seems/ Gameplay boils down to how you draw your hand of movement cards, game almost plays itself. No better than Downforce (easier to teach). Automobiles, Formula D, and Flamme Rouge are far better options  - Just bearable (1/3)<br />Game time/set up: 60 to 75mins (depends on how many laps/tournaments you play) - OK (1/2)"
+            ],
             "price": 7.59
         },
         {
-            "id": "food-chain-magnate",
+            "id": 40,
+            "id_name": "food-chain-magnate",
             "objectId": "175914",
-            "name": "Food Chain Magnate",
+            "title": "Food Chain Magnate",
             "description": "Strategically hire and manage your workforce to outcompete rival fast food chains.",
             "year": 2015,
             "rating": 8.06,
-            "votes": 20588,
+            "votes": 20594,
             "duration": {
                 "min": 120,
                 "max": 240
@@ -1297,13 +1353,14 @@
             "price": 90
         },
         {
-            "id": "marvel-champions-the-card-game",
+            "id": 41,
+            "id_name": "marvel-champions-the-card-game",
             "objectId": "285774",
-            "name": "Marvel Champions: The Card Game",
+            "title": "Marvel Champions: The Card Game",
             "description": "Battle Marvel villains with unique teams of iconic heroes in this LCG.",
             "year": 2019,
             "rating": 8.12,
-            "votes": 23879,
+            "votes": 23886,
             "duration": {
                 "min": 45,
                 "max": 90
@@ -1313,23 +1370,24 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 2.9358,
+            "weight": 2.9359,
             "images": {
                 "default": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__mediacard/img/rfGEKi-GwAo7umFSBZXNK15DWTc=/0x0:1726x971/288x162/filters:strip_icc()/pic4900321.jpg",
                 "2x": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__mediacard@2x/img/O1uAi_hZjhFpTpIXWA-ndP0N9P8=/0x0:1726x971/576x324/filters:strip_icc()/pic4900321.jpg",
                 "banner": "https://cf.geekdo-images.com/47Cpu_vBqzrPG8ltpiU1_w__itemheader/img/ylOe2Qt2IMJki3q3U08UlRErt-U=/800x450/filters:quality(30):strip_icc()/pic5060277.jpg"
             },
             "comments": [],
-            "price": 30
+            "price": 27
         },
         {
-            "id": "pax-pamir-second-edition",
+            "id": 42,
+            "id_name": "pax-pamir-second-edition",
             "objectId": "256960",
-            "name": "Pax Pamir: Second Edition",
+            "title": "Pax Pamir: Second Edition",
             "description": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan.",
             "year": 2019,
             "rating": 8.19,
-            "votes": 14296,
+            "votes": 14304,
             "duration": {
                 "min": 45,
                 "max": 120
@@ -1349,13 +1407,14 @@
             "price": 68.99
         },
         {
-            "id": "underwater-cities",
+            "id": 43,
+            "id_name": "underwater-cities",
             "objectId": "247763",
-            "name": "Underwater Cities",
+            "title": "Underwater Cities",
             "description": "Develop future cities on the seafloor through politics, production, and science.",
             "year": 2018,
             "rating": 8.06,
-            "votes": 19815,
+            "votes": 19822,
             "duration": {
                 "min": 80,
                 "max": 150
@@ -1375,13 +1434,14 @@
             "price": 34.99
         },
         {
-            "id": "puerto-rico",
+            "id": 44,
+            "id_name": "puerto-rico",
             "objectId": "3076",
-            "name": "Puerto Rico",
+            "title": "Puerto Rico",
             "description": "Ship goods, construct buildings, and choose roles that benefit you more than others.",
             "year": 2002,
             "rating": 7.92,
-            "votes": 71164,
+            "votes": 71175,
             "duration": {
                 "min": 90,
                 "max": 150
@@ -1401,13 +1461,14 @@
             "price": 2.99
         },
         {
-            "id": "crokinole",
+            "id": 45,
+            "id_name": "crokinole",
             "objectId": "521",
-            "name": "Crokinole",
+            "title": "Crokinole",
             "description": "Flick discs and make trick shots in this traditional Canadian dexterity game!",
             "year": 1876,
             "rating": 8.04,
-            "votes": 18189,
+            "votes": 18194,
             "duration": {
                 "min": 30,
                 "max": 30
@@ -1427,13 +1488,14 @@
             "price": 79.99
         },
         {
-            "id": "cascadia",
+            "id": 46,
+            "id_name": "cascadia",
             "objectId": "295947",
-            "name": "Cascadia",
+            "title": "Cascadia",
             "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
             "year": 2021,
             "rating": 7.95,
-            "votes": 39618,
+            "votes": 39644,
             "duration": {
                 "min": 30,
                 "max": 45
@@ -1443,7 +1505,7 @@
                 "max": 4
             },
             "minage": 10,
-            "weight": 1.8504,
+            "weight": 1.8507,
             "images": {
                 "default": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard/img/i84Rg_1papUEEM6J-rfUmqyRtBU=/0x0:1200x675/288x162/filters:strip_icc()/pic5100691.jpg",
                 "2x": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard@2x/img/lVEuGQqJKyZNeXYcebc9AdH1oL0=/0x0:1200x675/576x324/filters:strip_icc()/pic5100691.jpg",
@@ -1453,9 +1515,10 @@
             "price": 8.99
         },
         {
-            "id": "kanban-ev",
+            "id": 47,
+            "id_name": "kanban-ev",
             "objectId": "284378",
-            "name": "Kanban EV",
+            "title": "Kanban EV",
             "description": "EV-factory workers optimize and innovate to stand out at the big board meeting.",
             "year": 2020,
             "rating": 8.42,
@@ -1479,13 +1542,14 @@
             "price": 121.49
         },
         {
-            "id": "caverna-the-cave-farmers",
+            "id": 48,
+            "id_name": "caverna-the-cave-farmers",
             "objectId": "102794",
-            "name": "Caverna: The Cave Farmers",
+            "title": "Caverna: The Cave Farmers",
             "description": "From a simple cave, expand your dwarven home through mining, agriculture, and more.",
             "year": 2013,
             "rating": 7.95,
-            "votes": 34942,
+            "votes": 34944,
             "duration": {
                 "min": 30,
                 "max": 210
@@ -1505,13 +1569,14 @@
             "price": 44.95
         },
         {
-            "id": "anachrony",
+            "id": 49,
+            "id_name": "anachrony",
             "objectId": "185343",
-            "name": "Anachrony",
+            "title": "Anachrony",
             "description": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm.",
             "year": 2017,
             "rating": 8.07,
-            "votes": 18804,
+            "votes": 18808,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1531,13 +1596,14 @@
             "price": 60
         },
         {
-            "id": "blood-rage",
+            "id": 50,
+            "id_name": "blood-rage",
             "objectId": "170216",
-            "name": "Blood Rage",
+            "title": "Blood Rage",
             "description": "Ragnarök has come! Secure your place in Valhalla in epic Viking battles.",
             "year": 2015,
             "rating": 7.93,
-            "votes": 47397,
+            "votes": 47406,
             "duration": {
                 "min": 60,
                 "max": 90
@@ -1557,13 +1623,14 @@
             "price": 5.99
         },
         {
-            "id": "on-mars",
+            "id": 51,
+            "id_name": "on-mars",
             "objectId": "184267",
-            "name": "On Mars",
+            "title": "On Mars",
             "description": "Be a part of the first Martian colony, striving to be the best contributor.",
             "year": 2020,
             "rating": 8.19,
-            "votes": 12756,
+            "votes": 12759,
             "duration": {
                 "min": 90,
                 "max": 150
@@ -1573,7 +1640,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 4.6732,
+            "weight": 4.673,
             "images": {
                 "default": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__mediacard/img/HpLNqxiMRXd_59LmchxLXRSCVDc=/0x1083:2015x2216/288x162/filters:strip_icc()/pic4357658.jpg",
                 "2x": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__mediacard@2x/img/_NbShk7dMsDztwxA1jU2AA1mRgY=/0x1083:2015x2216/576x324/filters:strip_icc()/pic4357658.jpg",
@@ -1583,13 +1650,14 @@
             "price": 112.49
         },
         {
-            "id": "pandemic-legacy-season-0",
+            "id": 52,
+            "id_name": "pandemic-legacy-season-0",
             "objectId": "314040",
-            "name": "Pandemic Legacy: Season 0",
+            "title": "Pandemic Legacy: Season 0",
             "description": "Work together during the Cold War to prevent a Soviet bio-threat.",
             "year": 2020,
             "rating": 8.39,
-            "votes": 7759,
+            "votes": 7763,
             "duration": {
                 "min": 45,
                 "max": 60
@@ -1609,13 +1677,14 @@
             "price": 10.23
         },
         {
-            "id": "agricola",
+            "id": 53,
+            "id_name": "agricola",
             "objectId": "31260",
-            "name": "Agricola",
+            "title": "Agricola",
             "description": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!",
             "year": 2007,
             "rating": 7.87,
-            "votes": 72990,
+            "votes": 72995,
             "duration": {
                 "min": 30,
                 "max": 150
@@ -1632,16 +1701,17 @@
                 "banner": "https://cf.geekdo-images.com/WeiIMQijn7O5lyooPXvoWQ__itemheader/img/UNQyvC9fxp5D74csa6r1hZyJ5Ws=/800x450/filters:quality(30):strip_icc()/pic326297.jpg"
             },
             "comments": [],
-            "price": 20
+            "price": 19.99
         },
         {
-            "id": "sleeping-gods",
+            "id": 54,
+            "id_name": "sleeping-gods",
             "objectId": "255984",
-            "name": "Sleeping Gods",
+            "title": "Sleeping Gods",
             "description": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea.",
             "year": 2021,
             "rating": 8.21,
-            "votes": 12277,
+            "votes": 12290,
             "duration": {
                 "min": 60,
                 "max": 1200
@@ -1651,7 +1721,7 @@
                 "max": 4
             },
             "minage": 13,
-            "weight": 3.2387,
+            "weight": 3.2405,
             "images": {
                 "default": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__mediacard/img/P8_XyCxhp6H1BucgBO7W9Y-0OuY=/0x0:3000x1688/288x162/filters:strip_icc()/pic5975244.png",
                 "2x": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__mediacard@2x/img/PxWZhjPqmMV8vpXX3vyKhCJxfU4=/0x0:3000x1688/576x324/filters:strip_icc()/pic5975244.png",
@@ -1661,13 +1731,14 @@
             "price": 63.17
         },
         {
-            "id": "pandemic-legacy-season-2",
+            "id": 55,
+            "id_name": "pandemic-legacy-season-2",
             "objectId": "221107",
-            "name": "Pandemic Legacy: Season 2",
+            "title": "Pandemic Legacy: Season 2",
             "description": "The world is a mystery after a devastating pandemic—where will your team go?",
             "year": 2017,
             "rating": 8.03,
-            "votes": 16968,
+            "votes": 16970,
             "duration": {
                 "min": 60,
                 "max": 60
@@ -1687,13 +1758,14 @@
             "price": 2.99
         },
         {
-            "id": "lisboa",
+            "id": 56,
+            "id_name": "lisboa",
             "objectId": "161533",
-            "name": "Lisboa",
+            "title": "Lisboa",
             "description": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755.",
             "year": 2017,
             "rating": 8.19,
-            "votes": 11223,
+            "votes": 11224,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1703,7 +1775,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 4.5831,
+            "weight": 4.5835,
             "images": {
                 "default": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__mediacard/img/fVbPY3r5cO6eXSWUjKAcoPk8hIU=/0x947:3000x2635/288x162/filters:strip_icc()/pic3209553.jpg",
                 "2x": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__mediacard@2x/img/cSjINzPfoYOcNgkD3bHVfXx1YGc=/0x947:3000x2635/576x324/filters:strip_icc()/pic3209553.jpg",
@@ -1713,13 +1785,14 @@
             "price": 28.99
         },
         {
-            "id": "cthulhu-death-may-die",
+            "id": 57,
+            "id_name": "cthulhu-death-may-die",
             "objectId": "253344",
-            "name": "Cthulhu: Death May Die",
+            "title": "Cthulhu: Death May Die",
             "description": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker.",
             "year": 2019,
             "rating": 8.19,
-            "votes": 12679,
+            "votes": 12686,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -1739,13 +1812,14 @@
             "price": 1.5
         },
         {
-            "id": "mansions-of-madness-second-edition",
+            "id": 58,
+            "id_name": "mansions-of-madness-second-edition",
             "objectId": "205059",
-            "name": "Mansions of Madness: Second Edition",
+            "title": "Mansions of Madness: Second Edition",
             "description": "Unravel mysteries in Arkham with your investigative team in this app-guided game.",
             "year": 2016,
             "rating": 7.95,
-            "votes": 36613,
+            "votes": 36620,
             "duration": {
                 "min": 120,
                 "max": 180
@@ -1765,13 +1839,14 @@
             "price": 24.99
         },
         {
-            "id": "obsession",
+            "id": 59,
+            "id_name": "obsession",
             "objectId": "231733",
-            "name": "Obsession",
+            "title": "Obsession",
             "description": "Renovate an estate, manage servants, and pursue romance in Victorian England.",
             "year": 2018,
             "rating": 8.14,
-            "votes": 12750,
+            "votes": 12758,
             "duration": {
                 "min": 30,
                 "max": 90
@@ -1791,13 +1866,14 @@
             "price": 37.78
         },
         {
-            "id": "tzolkin-the-mayan-calendar",
+            "id": 60,
+            "id_name": "tzolkin-the-mayan-calendar",
             "objectId": "126163",
-            "name": "Tzolk'in: The Mayan Calendar",
+            "title": "Tzolk'in: The Mayan Calendar",
             "description": "Lead your people, build monuments and make offerings to earn the favour of the gods.",
             "year": 2012,
             "rating": 7.86,
-            "votes": 39499,
+            "votes": 39505,
             "duration": {
                 "min": 90,
                 "max": 90
@@ -1817,13 +1893,14 @@
             "price": 26.73
         },
         {
-            "id": "power-grid",
+            "id": 61,
+            "id_name": "power-grid",
             "objectId": "2651",
-            "name": "Power Grid",
+            "title": "Power Grid",
             "description": "Bid, network, and manage resources in a race to supply the most cities with power.",
             "year": 2004,
             "rating": 7.81,
-            "votes": 65686,
+            "votes": 65693,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -1833,7 +1910,7 @@
                 "max": 6
             },
             "minage": 12,
-            "weight": 3.2532,
+            "weight": 3.2531,
             "images": {
                 "default": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__mediacard/img/mJoMnV7rJjBizVWyNmJxNq5Q4-c=/0x0:1000x563/288x162/filters:strip_icc()/pic4459753.jpg",
                 "2x": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__mediacard@2x/img/T1r5q1D-sdrPCLYw17dfB3kdD84=/0x0:1000x563/576x324/filters:strip_icc()/pic4459753.jpg",
@@ -1843,13 +1920,14 @@
             "price": 17.99
         },
         {
-            "id": "maracaibo",
+            "id": 62,
+            "id_name": "maracaibo",
             "objectId": "276025",
-            "name": "Maracaibo",
+            "title": "Maracaibo",
             "description": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean.",
             "year": 2019,
             "rating": 8.02,
-            "votes": 16479,
+            "votes": 16484,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1869,13 +1947,14 @@
             "price": 9.99
         },
         {
-            "id": "grand-austria-hotel",
+            "id": 63,
+            "id_name": "grand-austria-hotel",
             "objectId": "182874",
-            "name": "Grand Austria Hotel",
+            "title": "Grand Austria Hotel",
             "description": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age.",
             "year": 2015,
             "rating": 7.95,
-            "votes": 21178,
+            "votes": 21185,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1891,33 +1970,18 @@
                 "2x": "https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__mediacard@2x/img/8JpMr4cHxF3les7SIUe0TwP8SYg=/0x0:1819x1023/576x324/filters:strip_icc()/pic6966955.jpg",
                 "banner": "https://cf.geekdo-images.com/ZKFxtkBORoGCu9dOis6n0A__itemheader/img/zMGeRyn9MyoJWvWtKpDjp_o6Twc=/800x450/filters:quality(30):strip_icc()/pic2649933.jpg"
             },
-            "comments": [
-                "Excellent 2 and 3 player game, where the inside out turn order makes the downtime a bit high for 4.<br /><br />The game is masterclass on luck management—card lane order of guest arrivals is random, dice rolling is random, bonus scoring is random-at-start, but you get the agency you need to make each of just 14 turns  optimal under the circumstances, and you can reason about what to do over multiple turns, including being ready to handle the periodic scoring rounds. It has a feel of a late 90s early 00s game in its production and art style, and this might be one reason it flies slightly under the radar, as well as being effectively a 2-3 player game. It gets one single and more than slight ding for an almost unreadable, albeit thematic, font choice for the worker cards' titles.  It's a great pity it has not seen an expansion cycle, other than a one and done kickstarter, since its internal structure had plenty of ways to support add-ons. <br /><br />All told, a sharp, absorbing, tight game: one of the best dice drafters ever made, and a strong candidate for best 'post-gateway-euro' of the 2010s.<br /><br />2015",
-                "Great strategy game. Charming theme. Challenging to combo resources, staff, guest, room patterns. Lots to love and explore! Dutch summary: <a target='_blank' href=\"https://boardgamegeek.com/filepage/213680\" rel=\"nofollow noreferrer noopener\">https://boardgamegeek.com/filepage/213680</a>",
-                "its okay. But wasn't hitting table enough. bit overrated again",
-                "2500р<br />Супер!<br />+ 3900 за комплект улучшений к игре и дополнению<br />+ 300 доставка<br />+ 3501 за дополнение",
-                "When things are going well, this is my favorite dice placement euro, but it's still just far too lucky for my taste. The dice make it really hard to plan rounds ahead, so you have to rely on the staff cards to create any kind of strategy. Problem is, I don't think the staff cards are very well balanced and obtaining them is just luck of the draw. Interesting game, but it's not what I am looking for in a euro.",
-                "Solid Euro that can be prone to some AP and getting bogged down. Okay theme, and there are lots of choices to make with how dice market presents itself. Very swingy staff cards, though.",
-                "(D&C own)<br />2-4 players",
-                "A solid Euro mechanically with good variability and replayability. The hotel theme is captured well and I bought the upgraded dishes and drinks components from Etsy to add to the thematic immersion. Refreshingly optimal at 2 players as downtime would be too much with 3-4. <br /><br />My typical grievances with this genre apply here, namely the distinct lack of direct player interaction and dense iconography. The game also lacks elegance with stodgy tracks and layers that I think makes the game take a little more than it gives. <br />",
-                "Rating after two plays. i liked this, it is tight. Played solo, the bot deck is very easy to manage but a nuisance (as it should). Can’t wait to play this with two.<br /><br />Includes:<br />Grand Austria Hotel: Let's Waltz! (2021)",
-                "Good midweight modern euro. There's a fixed number of turns so it always feels like there's not a lot of time to do everything. Curious to see if it will still be interesting to play after the learning curve has been climbed. Concerned about the balance of the staff cards as well since there doesn't really seem to be a mechanism to check a player that draws a better hand.",
-                "This is such a great game that pulls so many levers of gaming joy! There are so many factors to consider, yet, the mechanisms to employ those are so varied and enjoyable.",
-                "玩得最多嘅德策游戏",
-                "2016",
-                "*Tried it and too dry, long and prone to creating AP for my taste, much prefer Viticulture<br />*Highly rated at 2-3 players, especially 2 players<br />*Playtime at 2-3 works but can drag on at higher play counts if people think too long<br />*Traditional Euro game Victory points <br />*Has weight at 3.08, too much <br />*Sold it because it's too heavy for now and don't have the time for longer play sessions right now",
-                "Extremely tight and crunchy, but looks and feels very sandboxy. So you just want to explore the game and in the blink of an eye, you're finishing round 4. Plays really fast and easy to explain. A keeper for sure!"
-            ],
+            "comments": [],
             "price": 51.49
         },
         {
-            "id": "the-quacks-of-quedlinburg",
+            "id": 64,
+            "id_name": "the-quacks-of-quedlinburg",
             "objectId": "244521",
-            "name": "The Quacks of Quedlinburg",
+            "title": "The Quacks of Quedlinburg",
             "description": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
             "year": 2018,
             "rating": 7.82,
-            "votes": 50256,
+            "votes": 50274,
             "duration": {
                 "min": 45,
                 "max": 45
@@ -1937,13 +2001,14 @@
             "price": 25.96
         },
         {
-            "id": "clans-of-caledonia",
+            "id": 65,
+            "id_name": "clans-of-caledonia",
             "objectId": "216132",
-            "name": "Clans of Caledonia",
+            "title": "Clans of Caledonia",
             "description": "Lead your unique Scottish clan to economic might via production, trade, and export.",
             "year": 2017,
             "rating": 7.94,
-            "votes": 20503,
+            "votes": 20505,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1963,13 +2028,14 @@
             "price": 99.99
         },
         {
-            "id": "oathsworn-into-the-deepwood",
+            "id": 66,
+            "id_name": "oathsworn-into-the-deepwood",
             "objectId": "251661",
-            "name": "Oathsworn: Into the Deepwood",
+            "title": "Oathsworn: Into the Deepwood",
             "description": "Fight for humanity's survival against unnatural horrors and the Deepwood itself.",
             "year": 2022,
             "rating": 8.97,
-            "votes": 4870,
+            "votes": 4875,
             "duration": {
                 "min": 30,
                 "max": 90
@@ -1989,13 +2055,14 @@
             "price": 35
         },
         {
-            "id": "le-havre",
+            "id": 67,
+            "id_name": "le-havre",
             "objectId": "35677",
-            "name": "Le Havre",
+            "title": "Le Havre",
             "description": "Establish a supply chain by collecting resources, building industries, and shipping.",
             "year": 2008,
             "rating": 7.85,
-            "votes": 31818,
+            "votes": 31825,
             "duration": {
                 "min": 30,
                 "max": 150
@@ -2015,13 +2082,14 @@
             "price": 50
         },
         {
-            "id": "paladins-of-the-west-kingdom",
+            "id": 68,
+            "id_name": "paladins-of-the-west-kingdom",
             "objectId": "266810",
-            "name": "Paladins of the West Kingdom",
+            "title": "Paladins of the West Kingdom",
             "description": "Invaders are coming from everywhere.  Keep the faith and defend your homeland.",
             "year": 2019,
             "rating": 7.98,
-            "votes": 17978,
+            "votes": 17984,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -2037,17 +2105,34 @@
                 "2x": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__mediacard@2x/img/kogRK-YSLJNmENS6958qUfrjjE0=/0x288:2718x1816/576x324/filters:strip_icc()/pic4462987.png",
                 "banner": "https://cf.geekdo-images.com/E2xvQZSyO5Q4ugDn8Wf8HQ__itemheader/img/2sPhNIFtOBsJVRZ1vdPkut9ekWs=/800x450/filters:quality(30):strip_icc()/pic4547332.jpg"
             },
-            "comments": [],
+            "comments": [
+                "Upgrades:<br />Card Sleeves<br />Metal Coins",
+                "Pat 2/3<br />Louise 1/3<br />Jean 0/3<br /><br />Pat 34<br />Louise 26<br />Jean 20",
+                "1-3p",
+                "5500<br />+ Город корон<br />+ промо<br />+ БигБокс<br />+ Стикеры (750)",
+                "A deep worker placement game that's easier to learn than it looks. Like most Garphill games, I found this to be a breeze despite the brain-crunching decisions involved. Many routes to victory. Great solo mode, although it lacks variable opponents. ",
+                "The Paladin (paladinsleeves.com) sleeves (RAGNAR) are amazing for this and other Kingdom series games. Though it took several weeks for them to arrive and I never heard anything from the seller, so keep that in mind.",
+                "Takes a half hour longer than it should. We always want it to just be over by then.",
+                "Sleeved with Paladin Ragnar and Mayday Premium Mini-Euro sleeves<br /><br /><a target='_blank' href=\"https://paladinsleeves.com/product/ragnar/\" rel=\"nofollow noreferrer noopener\">https://paladinsleeves.com/product/ragnar/</a><br /><br /><a target='_blank' href=\"https://www.maydaygames.com/products/mini-euro-card-sleeves\" rel=\"nofollow noreferrer noopener\">https://www.maydaygames.com/products/mini-euro-card-sleeves</a><br /><br />Need 40 wooden provisions",
+                "ยังไม่ได้เล่น",
+                "This is exactly what I expected from a Garphill Games offering - a meaty worker placement game that's extremely well produced, packed with high quality components and gorgeous card artwork, with an imposing table presence, and seriously challenging game play. But be warned, this beauty is a true beast! It thoroughly deserves its daunting BGG Complexity rating, and is most definitely not for the casual gamer - there's so many moving parts here, and accurately keeping on top of it all takes strong attention to detail.<br />I'm happy to say that I deliberately bought my copy for solo play (as I wanted a few more solo game options; especially ones that looked a little more challenging), and so far, it has not disappointed. There's so many choices on offer each turn that this becomes a seriously head-scratching puzzle, and the AI system is very manageable, working really well to push you all the way more often than not.<br />I'm just sad that I doubt that anyone in my regular gaming group will ever agree to play such a crunchy, main course Euro game, so that I can experience this gem the way it was meant to be played - in multi-player mode. Still, it's their loss, and definitely my gain.<br /><br />My rating of this chunky bad boy only seems to go up even higher, the more that I get to play it, and indulge in it. I'm glad that I've added the highest rated \"West Kingdoms\" game from Garphill to my collection. Have you?<br /><br />Solo Game Play Stats :-<br />My Highest Solo Scores: 103 on Standard mode (on 20/11/23, 11/12/23 & 22/02/24)<br />My Win/Loss Solo Record: <br />3:0 on Easy mode<br />2:0 on Mild mode<br />25:9 on Standard mode (as of 26/05/24)",
+                "Enjoy this game but i'm not very good at it.  Mostly play with base game until I get better, not very good when adding in expansion.",
+                "23Aug-&gt;Good Euro but not enough interaction. Solo was too fiddly.<br />Worker placement engine builder with the paladin deck.  Nothing you haven't seen before but it is done well and ties together nicely in a heads down package.  I like both the art and gameplay here over Architects.<br />± Solo was good but too fiddly.",
+                "3.72<br />1-3<br />Best at 2<br />120 (1,320)<br />#17",
+                "Keep",
+                "At the start of each of seven rounds, players draw three cards. Each has it's own ability that focuses on making a specific action cheaper or more effective, and comes with two workers. Then in turn order players draft a card that comes with four additional workers. The workers come in a variety of different colors. Once this is done players take their actions one at a time clockwise by laying workers of the correct colors into the action spaces of their boards.<br /><br />Some actions on your board collect resources, others give you steps on one of three scoring tracks, and at times they also come with a bonus reward. There is an action space that places a building onto a worker space making that action cheaper in further rounds, and a space that lets you pays some resources to clear the workers from an action, allowing you to resolve it twice in that round. To further build your engine, there is a belt of purchasable cards that provide additional bonuses when you resolve a specific action in the future.<br /><br />The game has a number of random elements that are a little troublesome. Money is very tight in the game. When you take a wild-colored (represented as purple) worker, you also take a purple card. The back of the purple card has 0, 1 or 2 free dollars on it. These dollars pull from a separate bank, which when depleted refills and then punishes the player with the most purple cards. A player who lucks into getting mostly $2 vs a player who badlucks into getting mostly $0 has a substantial advantage. Additionally, there's an action where you build wall cards at the top of your board. These too come with random rewards, that might help you a lot in your chosen path, or might just wind up a waste of your precious few workers. Another big advantage comes to the player who draws the helper card that reduces the cost of the building that substitutes the worker on your board by half in the first round.<br /><br />Add to this the way the belts of faceup cards work. Each round you refill the two card displays. One is full of cards that can be taken to improve your engine, but they can also be discarded for a one-time bonus. First come first serve. The cards don't appear to repeat as well, so it's easy to miss out on an effect you need because someone else wants the one time benefit for punting them. It works the same with the second display of cards, but those have a mix of one time bonuses at the top, and bonus scoring criteria at the bottom.<br /><br />Mild randomness frustrations aside, the game is enjoyable overall. I like working a personal management board, and it reminds me a lot of Orleans, minus the bag building, plus a little more randomness. This is a game where you need to laser focus on your goals, since workers and money are in short supply, and the rewards for track bumps only come at the very end of the tracks. In that way it's mildly disappointing since it seems like there is a lot of cool stuff to do but really you pick one or two goals at the start of the game and then just push as hard as you can in that straight line. Aside from beating each other to cards, there's very little player interaction."
+            ],
             "price": 34.95
         },
         {
-            "id": "the-gallerist",
+            "id": 69,
+            "id_name": "the-gallerist",
             "objectId": "125153",
-            "name": "The Gallerist",
+            "title": "The Gallerist",
             "description": "Amass a fortune, and stake your reputation by operating a lucrative art gallery.",
             "year": 2015,
             "rating": 8.02,
-            "votes": 14731,
+            "votes": 14735,
             "duration": {
                 "min": 60,
                 "max": 150
@@ -2067,13 +2152,14 @@
             "price": 107.99
         },
         {
-            "id": "star-wars-imperial-assault",
+            "id": 70,
+            "id_name": "star-wars-imperial-assault",
             "objectId": "164153",
-            "name": "Star Wars: Imperial Assault",
+            "title": "Star Wars: Imperial Assault",
             "description": "Play as Rebel or Imperial forces to fulfill mission objectives.",
             "year": 2014,
             "rating": 7.96,
-            "votes": 24708,
+            "votes": 24710,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2093,13 +2179,14 @@
             "price": 2.99
         },
         {
-            "id": "hegemony-lead-your-class-to-victory",
+            "id": 71,
+            "id_name": "hegemony-lead-your-class-to-victory",
             "objectId": "321608",
-            "name": "Hegemony: Lead Your Class to Victory",
+            "title": "Hegemony: Lead Your Class to Victory",
             "description": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game.",
             "year": 2023,
             "rating": 8.47,
-            "votes": 6718,
+            "votes": 6728,
             "duration": {
                 "min": 90,
                 "max": 180
@@ -2119,9 +2206,10 @@
             "price": 76.8
         },
         {
-            "id": "mechs-vs-minions",
+            "id": 72,
+            "id_name": "mechs-vs-minions",
             "objectId": "209010",
-            "name": "Mechs vs. Minions",
+            "title": "Mechs vs. Minions",
             "description": "Cooperatively program and pilot your mechs to defeat an army of marauding minions.",
             "year": 2016,
             "rating": 7.97,
@@ -2145,13 +2233,14 @@
             "price": 499.99
         },
         {
-            "id": "android-netrunner",
+            "id": 73,
+            "id_name": "android-netrunner",
             "objectId": "124742",
-            "name": "Android: Netrunner",
+            "title": "Android: Netrunner",
             "description": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse.",
             "year": 2012,
             "rating": 7.88,
-            "votes": 30190,
+            "votes": 30193,
             "duration": {
                 "min": 45,
                 "max": 45
@@ -2171,13 +2260,14 @@
             "price": 25.99
         },
         {
-            "id": "the-crew-the-quest-for-planet-nine",
+            "id": 74,
+            "id_name": "the-crew-the-quest-for-planet-nine",
             "objectId": "284083",
-            "name": "The Crew: The Quest for Planet Nine",
+            "title": "The Crew: The Quest for Planet Nine",
             "description": "Go on many planet-discovering space missions in this cooperative trick-taking game.",
             "year": 2019,
             "rating": 7.8,
-            "votes": 42020,
+            "votes": 42034,
             "duration": {
                 "min": 20,
                 "max": 20
@@ -2197,13 +2287,14 @@
             "price": 4.5
         },
         {
-            "id": "dune-imperium-uprising",
+            "id": 75,
+            "id_name": "dune-imperium-uprising",
             "objectId": "397598",
-            "name": "Dune: Imperium – Uprising",
+            "title": "Dune: Imperium – Uprising",
             "description": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
             "year": 2023,
             "rating": 8.73,
-            "votes": 4976,
+            "votes": 5010,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2213,7 +2304,7 @@
                 "max": 6
             },
             "minage": 13,
-            "weight": 3.4375,
+            "weight": 3.4481,
             "images": {
                 "default": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard/img/WvAdTbLWcsnMjjfvwiEXqbeagLQ=/0x0:3539x1991/288x162/filters:strip_icc()/pic7664424.jpg",
                 "2x": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard@2x/img/CMvL0xoF9CXGLha6rctkKeAxm4M=/0x0:3539x1991/576x324/filters:strip_icc()/pic7664424.jpg",
@@ -2223,9 +2314,10 @@
             "price": 49.99
         },
         {
-            "id": "kingdom-death-monster",
+            "id": 76,
+            "id_name": "kingdom-death-monster",
             "objectId": "55690",
-            "name": "Kingdom Death: Monster",
+            "title": "Kingdom Death: Monster",
             "description": "Try to survive in a nightmarish world that lies under eternal darkness.",
             "year": 2015,
             "rating": 8.49,
@@ -2249,13 +2341,14 @@
             "price": 29.95
         },
         {
-            "id": "agricola-revised-edition",
+            "id": 77,
+            "id_name": "agricola-revised-edition",
             "objectId": "200680",
-            "name": "Agricola (Revised Edition)",
+            "title": "Agricola (Revised Edition)",
             "description": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game.",
             "year": 2016,
             "rating": 7.96,
-            "votes": 18058,
+            "votes": 18070,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -2265,23 +2358,24 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.4504,
+            "weight": 3.4513,
             "images": {
                 "default": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__mediacard/img/Xd5FEpKtUPdBYXuUQZENrrO66G0=/0x0:1435x807/288x162/filters:strip_icc()/pic8093340.jpg",
                 "2x": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__mediacard@2x/img/wktG-44fLaquUHUcaSCBUq9zeWs=/0x0:1435x807/576x324/filters:strip_icc()/pic8093340.jpg",
                 "banner": "https://cf.geekdo-images.com/1Luv_fbf44FJTsxUbPmdOw__itemheader/img/fINc-oaGVbC8fDZSv5RUDYWS2QE=/800x450/filters:quality(30):strip_icc()/pic3397112.jpg"
             },
             "comments": [],
-            "price": 29.95
+            "price": 24
         },
         {
-            "id": "azul",
+            "id": 78,
+            "id_name": "azul",
             "objectId": "230802",
-            "name": "Azul",
+            "title": "Azul",
             "description": "Artfully embellish the walls of your palace by drafting the most beautiful tiles.",
             "year": 2017,
             "rating": 7.75,
-            "votes": 91397,
+            "votes": 91426,
             "duration": {
                 "min": 30,
                 "max": 45
@@ -2301,13 +2395,14 @@
             "price": 4.99
         },
         {
-            "id": "race-for-the-galaxy",
+            "id": 79,
+            "id_name": "race-for-the-galaxy",
             "objectId": "28143",
-            "name": "Race for the Galaxy",
+            "title": "Race for the Galaxy",
             "description": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
             "year": 2007,
             "rating": 7.74,
-            "votes": 55695,
+            "votes": 55700,
             "duration": {
                 "min": 30,
                 "max": 60
@@ -2327,13 +2422,14 @@
             "price": 14.95
         },
         {
-            "id": "five-tribes-the-djinns-of-naqala",
+            "id": 80,
+            "id_name": "five-tribes-the-djinns-of-naqala",
             "objectId": "157354",
-            "name": "Five Tribes: The Djinns of Naqala",
+            "title": "Five Tribes: The Djinns of Naqala",
             "description": "Move assassins, elders & builders through Naqala to claim oases & control djinns.",
             "year": 2014,
             "rating": 7.77,
-            "votes": 41680,
+            "votes": 41688,
             "duration": {
                 "min": 40,
                 "max": 80
@@ -2353,9 +2449,10 @@
             "price": 32
         },
         {
-            "id": "eclipse-new-dawn-for-the-galaxy",
+            "id": 81,
+            "id_name": "eclipse-new-dawn-for-the-galaxy",
             "objectId": "72125",
-            "name": "Eclipse: New Dawn for the Galaxy",
+            "title": "Eclipse: New Dawn for the Galaxy",
             "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
             "year": 2011,
             "rating": 7.83,
@@ -2379,13 +2476,14 @@
             "price": 29.99
         },
         {
-            "id": "clank-a-deck-building-adventure",
+            "id": 82,
+            "id_name": "clank-a-deck-building-adventure",
             "objectId": "201808",
-            "name": "Clank!: A Deck-Building Adventure",
+            "title": "Clank!: A Deck-Building Adventure",
             "description": "Claim your treasures but don't attract the dragon in this deck-building dungeon race.",
             "year": 2016,
             "rating": 7.78,
-            "votes": 42600,
+            "votes": 42613,
             "duration": {
                 "min": 30,
                 "max": 60
@@ -2405,13 +2503,14 @@
             "price": 6.39
         },
         {
-            "id": "aeons-end",
+            "id": 83,
+            "id_name": "aeons-end",
             "objectId": "191189",
-            "name": "Aeon's End",
+            "title": "Aeon's End",
             "description": "Mages must reach their full potential to defend humanity from terrible monstrosities.",
             "year": 2016,
             "rating": 7.9,
-            "votes": 20871,
+            "votes": 20879,
             "duration": {
                 "min": 60,
                 "max": 60
@@ -2421,7 +2520,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 2.8118,
+            "weight": 2.8121,
             "images": {
                 "default": "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__mediacard/img/s5Alx3LGWRk9Gi0KwsZtSKDFaNU=/0x0:1600x900/288x162/filters:strip_icc()/pic3189350.jpg",
                 "2x": "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__mediacard@2x/img/Km02CiJTmw0Hs2PO3EpgZLjuFoU=/0x0:1600x900/576x324/filters:strip_icc()/pic3189350.jpg",
@@ -2431,13 +2530,14 @@
             "price": 34.99
         },
         {
-            "id": "fields-of-arle",
+            "id": 84,
+            "id_name": "fields-of-arle",
             "objectId": "159675",
-            "name": "Fields of Arle",
+            "title": "Fields of Arle",
             "description": "Construct dikes, drain bogs, harvest flax and tend to newborn animals in East Frisia.",
             "year": 2014,
             "rating": 8.03,
-            "votes": 11090,
+            "votes": 11091,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2457,65 +2557,14 @@
             "price": 50.01
         },
         {
-            "id": "beyond-the-sun",
-            "objectId": "317985",
-            "name": "Beyond the Sun",
-            "description": "Collectively develop a tech tree to fuel new discoveries and colonize space.",
-            "year": 2020,
-            "rating": 7.92,
-            "votes": 14737,
-            "duration": {
-                "min": 60,
-                "max": 120
-            },
-            "players": {
-                "min": 2,
-                "max": 4
-            },
-            "minage": 14,
-            "weight": 3.123,
-            "images": {
-                "default": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard/img/joQwWfHLUgc2PgoSOLgPHwVGtWo=/0x0:4371x2459/288x162/filters:strip_icc()/pic5617866.jpg",
-                "2x": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard@2x/img/lQq_-XEqiMFUr37c6tShVxZNTAM=/0x0:4371x2459/576x324/filters:strip_icc()/pic5617866.jpg",
-                "banner": "https://cf.geekdo-images.com/7FQ2-N9MQ-iKcXKETrcTEg__itemheader/img/a96s23IR1cKE15KJ208obYiVJoc=/800x450/filters:quality(30):strip_icc()/pic5765601.jpg"
-            },
-            "comments": [],
-            "price": 39.98
-        },
-        {
-            "id": "teotihuacan-city-of-gods",
-            "objectId": "229853",
-            "name": "Teotihuacan: City of Gods",
-            "description": "Use your worker dice to raise the legendary and breathtaking Pyramid of the Sun.",
-            "year": 2018,
-            "rating": 7.86,
-            "votes": 20040,
-            "duration": {
-                "min": 90,
-                "max": 120
-            },
-            "players": {
-                "min": 1,
-                "max": 4
-            },
-            "minage": 14,
-            "weight": 3.7774,
-            "images": {
-                "default": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard/img/KQPVoFcvfMeDzuqxqgPY4CTlzdk=/0x0:3425x1927/288x162/filters:strip_icc()/pic4583626.jpg",
-                "2x": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard@2x/img/WAYzAuoKT_XMBbMyYMSM7FTLdc8=/0x0:3425x1927/576x324/filters:strip_icc()/pic4583626.jpg",
-                "banner": "https://cf.geekdo-images.com/DxV6FjMSE-uKf8zU0gv3RA__itemheader/img/BlzR5DrYTdP-Ns3qOpIoUacC74g=/800x450/filters:quality(30):strip_icc()/pic4193669.jpg"
-            },
-            "comments": [],
-            "price": 29.98
-        },
-        {
-            "id": "sky-team",
+            "id": 85,
+            "id_name": "sky-team",
             "objectId": "373106",
-            "name": "Sky Team",
+            "title": "Sky Team",
             "description": "Pilot and co-pilot work together to land planes.",
             "year": 2023,
             "rating": 8.19,
-            "votes": 8345,
+            "votes": 8383,
             "duration": {
                 "min": 15,
                 "max": 15
@@ -2535,13 +2584,68 @@
             "price": 32.76
         },
         {
-            "id": "lords-of-waterdeep",
+            "id": 86,
+            "id_name": "beyond-the-sun",
+            "objectId": "317985",
+            "title": "Beyond the Sun",
+            "description": "Collectively develop a tech tree to fuel new discoveries and colonize space.",
+            "year": 2020,
+            "rating": 7.92,
+            "votes": 14747,
+            "duration": {
+                "min": 60,
+                "max": 120
+            },
+            "players": {
+                "min": 2,
+                "max": 4
+            },
+            "minage": 14,
+            "weight": 3.123,
+            "images": {
+                "default": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard/img/joQwWfHLUgc2PgoSOLgPHwVGtWo=/0x0:4371x2459/288x162/filters:strip_icc()/pic5617866.jpg",
+                "2x": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard@2x/img/lQq_-XEqiMFUr37c6tShVxZNTAM=/0x0:4371x2459/576x324/filters:strip_icc()/pic5617866.jpg",
+                "banner": "https://cf.geekdo-images.com/7FQ2-N9MQ-iKcXKETrcTEg__itemheader/img/a96s23IR1cKE15KJ208obYiVJoc=/800x450/filters:quality(30):strip_icc()/pic5765601.jpg"
+            },
+            "comments": [],
+            "price": 39.98
+        },
+        {
+            "id": 87,
+            "id_name": "teotihuacan-city-of-gods",
+            "objectId": "229853",
+            "title": "Teotihuacan: City of Gods",
+            "description": "Use your worker dice to raise the legendary and breathtaking Pyramid of the Sun.",
+            "year": 2018,
+            "rating": 7.86,
+            "votes": 20044,
+            "duration": {
+                "min": 90,
+                "max": 120
+            },
+            "players": {
+                "min": 1,
+                "max": 4
+            },
+            "minage": 14,
+            "weight": 3.7776,
+            "images": {
+                "default": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard/img/KQPVoFcvfMeDzuqxqgPY4CTlzdk=/0x0:3425x1927/288x162/filters:strip_icc()/pic4583626.jpg",
+                "2x": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard@2x/img/WAYzAuoKT_XMBbMyYMSM7FTLdc8=/0x0:3425x1927/576x324/filters:strip_icc()/pic4583626.jpg",
+                "banner": "https://cf.geekdo-images.com/DxV6FjMSE-uKf8zU0gv3RA__itemheader/img/BlzR5DrYTdP-Ns3qOpIoUacC74g=/800x450/filters:quality(30):strip_icc()/pic4193669.jpg"
+            },
+            "comments": [],
+            "price": 29.98
+        },
+        {
+            "id": 88,
+            "id_name": "lords-of-waterdeep",
             "objectId": "110327",
-            "name": "Lords of Waterdeep",
+            "title": "Lords of Waterdeep",
             "description": "Deploy agents and hire adventurers to expand your control over the city of Waterdeep.",
             "year": 2012,
             "rating": 7.73,
-            "votes": 55805,
+            "votes": 55814,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2557,33 +2661,18 @@
                 "2x": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__mediacard@2x/img/sqt8Augx_CeTo5RGeRe_8aNJjJE=/0x0:630x354/576x324/filters:strip_icc()/pic1116080.jpg",
                 "banner": "https://cf.geekdo-images.com/BHVUge0kHa5yK1NcHCIAWw__itemheader/img/n8TJd5HJcwSiGdz8VYuOR5tk3Cg=/800x450/filters:quality(30):strip_icc()/pic1285846.jpg"
             },
-            "comments": [
-                "played tournament 1/5/17.  20 entered, led my game until last round, got 3rd with 136 points.  Anna and Nick were knocked out in their first round games as well.  played tournament 11/16/17.  15 entered, led my game until the last round again, took second with 104 points but lost to Brandon and failed to make the final.  Anna and Nick got 3rd in their respective games. played tournament 11/8/18.  15 entered. Anna, Nick and I were all knocked out first round.  Nick had 110 in his round and I had 95, but both placed 2nd, Anna took an early lead but was last.",
-                "Includes:<br />* Lords of Waterdeep - Scoundrels of Skullport<br /><br />Would never play LoW without Skullport. Skullport and Undermountain add interesting and powerful location to the board, usually shaping the course of the game or at least influencing plays. Corruption, however, is the best mechanic, adding powerful but costly options. 6th player game can be too long.",
-                "Gifted",
-                "With expansions, this goes from a good game to a great game. The more I play it, the more I appreciate how good it is. Game length was just right and their were good choices. I always felt like I had a strategy yet this was simple enough in concept that it was definitely not a heavy game. I had low expectations for some reason despite the positive hype this game gets but I was pleasantly surprised. I really enjoy the idea about the harbor giving you a free re-deploy action as well as the ability to create buildings that you own and get bonuses for when others go there. Definitely play with expansions though, if you can. This game is neat in that it has so many choices that you really want to do but you cannot do them all. Definitely exceeded my expectations.",
-                "Great workerplacement game.",
-                "I quite liked this but wasn't being played enough so let it go",
-                "was fun for a while, then got bored of it",
-                "My friend owns this and I own Dune Imperium. We both love both!",
-                "It's delightful. My family understood it immediately. I wouldn't play the game with any more than 4 players if you're playing with the expansion. If you're not, I would play with no more than 3 players. High player counts causes the game to take longer and reduces the number of agents each player gets. 3-4 agents per player (before round 5) feels like the sweet spot.",
-                "in Expansion box",
-                "Expansions / Promos / Extras:<br />+ <a href=\"https://boardgamegeek.com/boardgame/134342/lords-waterdeep-scoundrels-skullport\" target=\"_blank\" class=\"postlink\" rel=\"nofollow noreferrer noopener\">Lords of Waterdeep: Scoundrels of Skullport</a>",
-                "With custom meeples for the different classes.",
-                "1 Card Sleeves<br />6 Metal Coins <br />17 Special Tokens: Buildings<br />19 Special Tokens: The Lords<br />29 Containers for Pieces<br />33 Special Organizer Multiple Use",
-                "+ Simple, enjoyable.<br />- Most action spaces are very similar, only distinguished by what color cubes are needed for particular quests; the game is a bit boring/dry because of that.",
-                "(D&C and C&C own)<br />2-5 players (6 Players with expansion) "
-            ],
+            "comments": [],
             "price": 9.95
         },
         {
-            "id": "through-the-ages-a-story-of-civilization",
+            "id": 89,
+            "id_name": "through-the-ages-a-story-of-civilization",
             "objectId": "25613",
-            "name": "Through the Ages: A Story of Civilization",
+            "title": "Through the Ages: A Story of Civilization",
             "description": "Lead your civilization through strategic drafting of leaders, technologies, and more.",
             "year": 2006,
             "rating": 7.84,
-            "votes": 19414,
+            "votes": 19415,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -2603,13 +2692,14 @@
             "price": 15
         },
         {
-            "id": "dominant-species",
+            "id": 90,
+            "id_name": "dominant-species",
             "objectId": "62219",
-            "name": "Dominant Species",
+            "title": "Dominant Species",
             "description": "With an ice age approaching, which animals will best propagate, migrate, and adapt?",
             "year": 2010,
             "rating": 7.82,
-            "votes": 21331,
+            "votes": 21334,
             "duration": {
                 "min": 120,
                 "max": 240
@@ -2619,7 +2709,7 @@
                 "max": 6
             },
             "minage": 14,
-            "weight": 4.0399,
+            "weight": 4.0405,
             "images": {
                 "default": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard/img/RUkeVewZv9zFVt0nOWkTbgzk2TE=/0x2:492x278/288x162/filters:strip_icc()/pic784193.jpg",
                 "2x": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard@2x/img/9S9of9II5UBs8rpakF-7g8NEWqc=/0x2:492x278/576x324/filters:strip_icc()/pic784193.jpg",
@@ -2629,13 +2719,14 @@
             "price": 35
         },
         {
-            "id": "el-grande",
+            "id": 91,
+            "id_name": "el-grande",
             "objectId": "93",
-            "name": "El Grande",
+            "title": "El Grande",
             "description": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!",
             "year": 1995,
             "rating": 7.76,
-            "votes": 29167,
+            "votes": 29175,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2655,13 +2746,14 @@
             "price": 6.01
         },
         {
-            "id": "the-voyages-of-marco-polo",
+            "id": 92,
+            "id_name": "the-voyages-of-marco-polo",
             "objectId": "171623",
-            "name": "The Voyages of Marco Polo",
+            "title": "The Voyages of Marco Polo",
             "description": "Using unique abilities, fulfill contracts and reach your goals along the Silk Road.",
             "year": 2015,
             "rating": 7.78,
-            "votes": 24963,
+            "votes": 24964,
             "duration": {
                 "min": 40,
                 "max": 100
@@ -2681,13 +2773,14 @@
             "price": 45.87
         },
         {
-            "id": "7-wonders",
+            "id": 93,
+            "id_name": "7-wonders",
             "objectId": "68448",
-            "name": "7 Wonders",
+            "title": "7 Wonders",
             "description": "Draft cards to develop your ancient civilization and build its Wonder of the World.",
             "year": 2010,
             "rating": 7.68,
-            "votes": 105108,
+            "votes": 105115,
             "duration": {
                 "min": 30,
                 "max": 30
@@ -2707,13 +2800,14 @@
             "price": 2.99
         },
         {
-            "id": "robinson-crusoe-adventures-on-the-cursed-island",
+            "id": 94,
+            "id_name": "robinson-crusoe-adventures-on-the-cursed-island",
             "objectId": "121921",
-            "name": "Robinson Crusoe: Adventures on the Cursed Island",
+            "title": "Robinson Crusoe: Adventures on the Cursed Island",
             "description": "Work together — with friends or with Friday — to survive on a deserted island.",
             "year": 2012,
             "rating": 7.74,
-            "votes": 43639,
+            "votes": 43645,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2723,7 +2817,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.82,
+            "weight": 3.8201,
             "images": {
                 "default": "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__mediacard/img/nwhvvlULBX4baaE9rHAAkAm5q20=/0x0:3468x1951/288x162/filters:strip_icc()/pic3165731.jpg",
                 "2x": "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__mediacard@2x/img/R-ZhmyWAF5a5oB-FCvnN4xyzZf8=/0x0:3468x1951/576x324/filters:strip_icc()/pic3165731.jpg",
@@ -2733,13 +2827,14 @@
             "price": 8.96
         },
         {
-            "id": "the-search-for-planet-x",
+            "id": 95,
+            "id_name": "the-search-for-planet-x",
             "objectId": "279537",
-            "name": "The Search for Planet X",
+            "title": "The Search for Planet X",
             "description": "Plan, scan, and theorize to find a new planet at the edge of our solar system.",
             "year": 2020,
             "rating": 7.95,
-            "votes": 12476,
+            "votes": 12486,
             "duration": {
                 "min": 60,
                 "max": 75
@@ -2759,13 +2854,14 @@
             "price": 24
         },
         {
-            "id": "age-of-innovation",
+            "id": 96,
+            "id_name": "age-of-innovation",
             "objectId": "383179",
-            "name": "Age of Innovation",
+            "title": "Age of Innovation",
             "description": "Terraform the world to expand your faction and create innovations on the way.",
             "year": 2023,
             "rating": 8.7,
-            "votes": 4124,
+            "votes": 4138,
             "duration": {
                 "min": 40,
                 "max": 200
@@ -2775,7 +2871,7 @@
                 "max": 5
             },
             "minage": 14,
-            "weight": 4.2319,
+            "weight": 4.2347,
             "images": {
                 "default": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__mediacard/img/_m_5yZf-MoKX3aAMoL1ec7Krlzc=/0x0:1435x807/288x162/filters:strip_icc()/pic7430993.jpg",
                 "2x": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__mediacard@2x/img/FPOTeVWJcVUxuxXBe7QVD4uRKoQ=/0x0:1435x807/576x324/filters:strip_icc()/pic7430993.jpg",
@@ -2785,13 +2881,14 @@
             "price": 75
         },
         {
-            "id": "concordia-venus",
+            "id": 97,
+            "id_name": "concordia-venus",
             "objectId": "256916",
-            "name": "Concordia Venus",
+            "title": "Concordia Venus",
             "description": "Merchants build and trade throughout the Roman Empire to please the Gods.",
             "year": 2018,
             "rating": 8.29,
-            "votes": 5976,
+            "votes": 5978,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2807,17 +2904,34 @@
                 "2x": "https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__mediacard@2x/img/aEKPJWDftbNvoXhgng1LSMeR81A=/0x0:1671x940/576x324/filters:strip_icc()/pic4356580.jpg",
                 "banner": "https://cf.geekdo-images.com/By90s1Z-fwVXcoZkzdXgpw__itemheader/img/iGGFwTxzmZdDMmDv_gamiae24-4=/800x450/filters:quality(30):strip_icc()/pic4343647.jpg"
             },
-            "comments": [],
+            "comments": [
+                "The new cards can open the game up a lot but the team game is really slow.",
+                "In collection: 2020 March<br />Why did I buy it: Looking for a high depth to complexity ratio and this one was coming up all the time (Chicago Express came up often as well).<br /><br />Only played two 2-player games but I love this game. My wife finds it way too long (our 2-player games take 2-2.5h) and it melts her brain. She has too many possibilities during her turn and she doesn't know what she should do. I love planning 2-3 turns in advance and seeing my plan come through, it's super satisfying. If it were easier to hit the table it would probably be a 10 for me.<br /><br />Played a first 3 player game and it was a lot of fun.<br /><br />Played at 6 players with 4 new players and that was a bad idea, even with shortened game length.<br /><br />Currently playing express version with my wife and she loves it. We play with less houses and less cards and can get it done in 1h (excluding setup).",
+                "10/26/23: Really a fan of this game though only played once at non-2p count. But has really nice mechanics, a good amount of player interaction, and a clever, slightly-orthogonal way of scoring. 9.<br /><br />7/29/24: After a few more plays, it seems like the game takes 30 minutes longer than it needs to. And I can’t shake the feeling that the game feels a little boring. But that could just be lack of familiarity. 8.",
+                "A classic for a reason. The multi-layered card use is probably my favorite aspect. ",
+                "A medium-weight strategy game<br />+ Every decision involves great strategic depth and changes the game's dynamics<br />+ This edition includes everything needed for an elevated game experience<br />+ The artwork offers a vintage feel<br />- The complex scoring system is not straightforward for new players to strategize effectively",
+                "Really solid game as concordia. Great for 4 player",
+                "Tim",
+                "Maps (\"Ideal\" Players):<br />  - Balearica (3)<br />  - Corsica (2)<br />  - Cyprus (5-6)<br />  - Gallia (3)<br />  - Hellas (3-4)<br />  - Imperium (5-6)<br />  - Ionium (4-5)<br />  - Ionium -Italy (2)<br />  - Italia (4)",
+                "I didn't expect to love this game as much as I do, much less make it one of my solo gaming regulars.",
+                "I also have 8 plays of original Concordia, yet I find that the addition of the Venus cards add nicely to this game. The solo/cooperative expansion is quite good, too. Concordia is just brilliant, and it's tempting to collect all the maps (because I did at one point). Now I'm content to just fit it what I can in one box. <br /><br />+Venus - (Hellas/Ionium)<br />+Venus - (Imperium/Cyprus)<br />+Venus expansion - Balearica / Italia+<br />+Salsa expansion - (Byzantium / Hispania)<br />+Solitaria<br />",
+                "2-6 player competitive<br />deckbuilding economy euro",
+                "This is a good game—but not great. There are better games that will tick the same boxes like Age of Industry. The game is too long for the play, and the board design with all of its curved line connections does not promote quick or easy computation.<br /><br />That said, the cards being both VP as well as action cards is a remarkably interesting combined-use mechanic, but not sure if that's enough to warrant us keeping it",
+                "The game and the mechanics are great. I just hope the map or the distinction of the provinces would be made a little better.",
+                "Very good and interesting game with very few luck factor. The gameplay is elegant and smooth.<br />But much longer than the indicated time playing (3,5 hours for an individual 4-player game, or 4 hours with 6 players).<br />I enjoy it very much.<br />Try also the fish market expansion (released with Balearica map), it is an excellent addition to the game.<br />Base game = 9/10.<br />I play with the fish market and salsa expansion and it is no problem a 10/10.<br />One of my top 5 favorites.",
+                "Venus introduces some nice tweaks to the original formula. I'd generally choose the new configuration but am also still happy to play the classic, so it's great that Venus includes both options - and the team mode is a fantastic addition that's quite fun for experienced players.<br /><br />(plays logged under original Concordia base game)"
+            ],
             "price": 32.76
         },
         {
-            "id": "tainted-grail-the-fall-of-avalon",
+            "id": 98,
+            "id_name": "tainted-grail-the-fall-of-avalon",
             "objectId": "264220",
-            "name": "Tainted Grail: The Fall of Avalon",
+            "title": "Tainted Grail: The Fall of Avalon",
             "description": "Exploration, combat, and diplomacy in a dark Arthurian realm.",
             "year": 2019,
             "rating": 8.09,
-            "votes": 12542,
+            "votes": 12545,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2837,13 +2951,14 @@
             "price": 4.99
         },
         {
-            "id": "decrypto",
+            "id": 99,
+            "id_name": "decrypto",
             "objectId": "225694",
-            "name": "Decrypto",
+            "title": "Decrypto",
             "description": "Decipher your opponents' code before they decipher yours. Don't get caught.",
             "year": 2018,
             "rating": 7.77,
-            "votes": 22887,
+            "votes": 22900,
             "duration": {
                 "min": 15,
                 "max": 45
@@ -2863,13 +2978,14 @@
             "price": 5.99
         },
         {
-            "id": "inis",
+            "id": 100,
+            "id_name": "inis",
             "objectId": "155821",
-            "name": "Inis",
+            "title": "Inis",
             "description": "Claim the crown through merit and wisdom in this Celtic island struggle.",
             "year": 2016,
             "rating": 7.83,
-            "votes": 20414,
+            "votes": 20419,
             "duration": {
                 "min": 60,
                 "max": 90
@@ -2888,5 +3004,8 @@
             "comments": [],
             "price": 44.99
         }
+    ],
+    "count": [
+        100
     ]
 }

@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "scrap": "node src/scripts/scrap.js > src/api/gameboard-list.json",
     "comments": "node src/scripts/comments.js > src/api/gameboard-list-comments.json",
-    "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json"
+    "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json",
+    "server": "npx json-server src/api/gameboard-list.json"
   },
   "dependencies": {
     "ollama-ai-provider": "^0.11.0",
@@ -31,6 +32,7 @@
     "eslint-plugin-react": "^7.34.3",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
+    "json-server": "^0.17.4",
     "postcss": "^8.4.40",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5",

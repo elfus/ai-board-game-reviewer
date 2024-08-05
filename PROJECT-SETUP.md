@@ -48,6 +48,16 @@ npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint
   });
   ```
 
+## Install JSON Server
+
+We will use json-server 0.17.4 as a quick way to simulate our API.
+
+[json-server](https://github.com/typicode/json-server/tree/v0)
+
+```bash
+npm install -D json-server@0.17.4
+```
+
 ## Install REACT router
 
 ```bash
@@ -115,6 +125,12 @@ Then add the plugin to your Prettier configuration. See [Prettier Configuration]
 {
   "plugins": ["prettier-plugin-tailwindcss"]
 }
+```
+
+## Start JSON Server
+
+```bash
+npm run server
 ```
 
 ## Start your project
