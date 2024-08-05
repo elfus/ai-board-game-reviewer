@@ -1,10 +1,20 @@
 import PropTypes from 'prop-types';
+import { useNavigate } from 'react-router-dom';
 
 function GameCard({ game }) {
+  const navigate = useNavigate();
+
+  function handleClick(gameId) {
+    const currentPage = window.location.href.split('/').at(-1);
+    if (currentPage !== 'list') return;
+    navigate(`/game/${gameId}`);
+  }
+
   return (
     <div
       key={game.name}
       className="w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 transition-colors transition-opacity duration-300 hover:bg-stone-200 hover:opacity-70"
+      onClick={() => handleClick(game.id)}
     >
       <img
         src={game.images.default}
