@@ -3,17 +3,21 @@ import { useNavigate } from 'react-router-dom';
 
 function GameCard({ game }) {
   const navigate = useNavigate();
+  const insideList = window.location.href.split('/').at(-1) === 'list';
 
   function handleClick(gameId) {
-    const currentPage = window.location.href.split('/').at(-1);
-    if (currentPage !== 'list') return;
+    if (!insideList) return;
     navigate(`/game/${gameId}`);
   }
+
+  const overEffect = insideList
+    ? 'transition-colors transition-opacity duration-300 hover:bg-stone-200 hover:opacity-70'
+    : '';
 
   return (
     <div
       key={game.name}
-      className="w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 transition-colors transition-opacity duration-300 hover:bg-stone-200 hover:opacity-70"
+      className={`w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 ${overEffect}`}
       onClick={() => handleClick(game.id)}
     >
       <img
