@@ -1,6 +1,6 @@
 import { create } from 'zustand';
 
-const BASE_API_URL = `http://${window.location.hostname}:3000`;
+const BASE_API_URL = `http://${window.location.hostname}`;
 
 function sumScore(score, rating) {
   const scoreKeys = Object.keys(score);
