@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="400" height="400" version="1.1" viewBox="0 0 400 400">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="none" stroke-width="40">
+  <path d="m360 200v66.274s0 35.147-29.289 64.436-64.437 29.289-64.437 29.289l-66.274-1e-5" stroke="#00FFFF"/>
+  <path d="m200 360h-66.274s-35.147 0-64.436-29.289-29.289-64.437-29.289-64.437v-66.274" stroke="#FFD23C"/>
+  <path d="m40 200v-66.274s0-35.147 29.289-64.436 64.437-29.289 64.437-29.289h66.274" stroke="#00FFFF"/>
+  <path d="m200 40h66.274s35.147 0 64.436 29.289 29.289 64.437 29.289 64.437v66.274" stroke="#FFD23C"/>
+  <path d="M 180,180 60,60" stroke="#00FFFF"/>
+  <path d="m220 220 120 120" stroke="#00FFFF"/>
+  <path d="m220 180 120-120" stroke="#FFD23C"/>
+  <path d="m180 220-120 120" stroke="#FFD23C"/>
+ </g>
+</svg>

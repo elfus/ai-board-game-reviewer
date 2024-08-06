@@ -3,6 +3,7 @@ import { useGameboardList } from '../stores/use-gameboard-list';
 import GameCard from './GameCard';
 import Button from './Button';
 import SearchBoardGame from '../features/boardgame/SearchBoardGame';
+import { Title } from './Title';
 
 function BoardGameList() {
   const { ranked, desc, toggleDescending } = useGameboardList();
@@ -17,19 +18,27 @@ function BoardGameList() {
     return games;
   }, [ranked, desc]);
 
-  return (
-    <div className="auto h-screen w-screen overflow-auto border-b-2 px-96 py-4">
-      <span className="flex justify-between">
-        <SearchBoardGame />
-        <Button type="secondary" onClick={handleClick}>
-          Score {desc ? 'Sorted descending' : 'Sorted ascending'}
-        </Button>
-      </span>
+  // TODO: Wire up the search feature
+  const filters = (<span className="flex justify-between items-center">
+    <SearchBoardGame />
+    <Button type="secondary" onClick={handleClick}>
+      Score {desc ? 'Sorted descending' : 'Sorted ascending'}
+    </Button>
+  </span>)
+  filters;
 
-      <div className="mt-28 grid h-4/6 grid-cols-4 overflow-auto px-2 py-2">
+  return (
+    <div className="flex flex-col items-center justify-center">
+      <Title />
+      <div className="w-10/12 flex flex-wrap items-center justify-center overflow-y-scroll max-h-screen pb-96">
         {currGames.map((game) => (
-          <GameCard key={game.id_name} game={game} />
+          <GameCard key={game.id_name} game={game} className="" />
         ))}
+        <div className='p-10'>
+          <Button type="primary" to="/">
+            Go back to the top 3
+          </Button>
+        </div>
       </div>
     </div>
   );
