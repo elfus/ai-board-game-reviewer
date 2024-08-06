@@ -3,9 +3,10 @@ import { create } from 'zustand';
 const BASE_API_URL = 'http://localhost:3000';
 
 export function sumScore(score) {
-  const propertyCount = Object.keys(score).length;
+  const scoreKeys = Object.keys(score);
+  const propertyCount = scoreKeys.length;
   let sum = 0;
-  for (const property of Object.keys(score)) {
+  for (const property of scoreKeys) {
     sum += score[property];
   }
   return (sum / propertyCount).toFixed(2);
@@ -13,16 +14,18 @@ export function sumScore(score) {
 
 export const useGameboardList = create((set) => ({
   games: [],
-  rankedDesc: [],
+  ranked: [],
+  desc: false,
   fetchGames: async () =>
     set({
       games: await fetch(`${BASE_API_URL}/games`).then((res) => res.json()),
     }),
-  getRankedDescending: async () => {
+  rankDescending: async () => {
     set((state) => ({
-      rankedDesc: state.games
+      ranked: state.games
         .slice()
         .sort((a, b) => sumScore(b.score) - sumScore(a.score)),
     }));
   },
+  toggleDescending: () => set((state)=>({ desc: !state.desc })),
 }));

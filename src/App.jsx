@@ -33,10 +33,14 @@ const router = createBrowserRouter([
 ]);
 
 function App() {
-  const { fetchGames } = useGameboardList();
+  const { games, fetchGames, rankDescending } = useGameboardList();
   useEffect(() => {
     fetchGames();
   }, []);
+  useEffect(() => {
+    rankDescending();
+  }, [games]);
+
   return <RouterProvider router={router} />;
 }
 
