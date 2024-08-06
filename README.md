@@ -2,21 +2,51 @@
 
 ## Description
 
-This app is a board game reviewer which reads reviews, comments, questions and opinions scrapped from the internet then are processed with the Vercel AI SDK to calculate an overall rating based on the comments.
+AI Board Game Reviewer reads reviews, comments, questions and opinions scrapped from the internet then are processed with the Vercel AI SDK to calculate an overall rating based on the comments.
+
+AI Board Game Reviewer was designed in two main components:
+
+- AI Scrapper
+  - The scrapper is meant to be run asynchronously.
+  - The scrapper uses the Vercel SDK to rate each board game.
+  - The final output of the scrapper is `gameboard-list-scores.json`
+- Web page
+  - Our web page will consume the data in `gameboard-list-scores.json` via `json-server` and present the ratings to the user.
 
 ## How to run
 
-### UI
+In order to run locally you need to run the following steps:
 
-To start the server application run the following command in the project root directory.
+1. Scrap and analyze data with Vercel SDK to generate the final `gameboard-list-scores.json` file.
 
-```bash
-npm run dev
-```
+   - We have included a `gameboard-list-scores.json` so you can skip this step.
+   - If you want to run the scrapper along with the vercel sdk follow this steps.
+
+   ```bash
+   npm run scrap    # Scrap initial board game data
+   npm run comments # Scrap people's comments on the board games
+   npm run score    # Use the Vercel SDK to rate scrapped board games
+   ```
+
+2. Start the `json-server` with
+
+   ```bash
+   npm run server
+   ```
+
+3. Start the web application
+
+   ```bash
+   npm run dev
+   ```
+
+The following sections provide more details on what each of the components do.
+
+You can start testing the application now or continue reading if you want more details.
 
 ## Scraper
 
-Run scrapper and leave data in `src/api/gameboard-list.json`.
+Run scrapper, this will leave data in `src/api/gameboard-list.json`.
 
 ```bash
 npm run scrap
@@ -123,3 +153,11 @@ Below are some endpoint requests doing basic filtering on our scrapped database.
   `GET/games?players.min_gte=3`
 - Get all games that have a fun score of at least 6
   `GET/games?score.fun_gte=6`
+
+## UI
+
+To start the server application run the following command in the project root directory.
+
+```bash
+npm run dev
+```
