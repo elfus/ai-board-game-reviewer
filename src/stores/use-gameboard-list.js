@@ -1,7 +1,6 @@
 import { create } from 'zustand';
 
-const BASE_API_URL = `https://${window.location.hostname}`;
-//const BASE_API_URL = `http://${window.location.hostname}:3000`;
+const BASE_API_URL = import.meta.env.BGG_API_URL ?? `http://${window.location.hostname}:3000`;
 
 function sumScore(score, rating) {
   const scoreKeys = Object.keys(score);
