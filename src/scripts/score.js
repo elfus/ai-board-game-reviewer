@@ -18,8 +18,8 @@ for(let game of gamelist.games){
                 cost: z.number(),
             }),
             temperature: 0.5,
-            prompt: `Give me scores between 0 and 10 for ONLY the following categories (being 0 the worst score and 10 the best score): fun, learning_curve, duration, players, difficulty, cost.
-                Default to 0 if you don't rely on the answer of any of the categories.
+            prompt: `Give me scores between 1 and 10 for ONLY the following categories (being 0 the worst score and 10 the best score): fun, learning_curve, duration, players, difficulty, cost.
+                Default to 1 if you don't rely on the answer of any of the categories.
                 Include score for all the categories even if you don't rely on the answer of any of the categories.
                 What are the scores for the game: "${game.name}"?, 
                 Considering the duration is: ${game.duration.min}, 
@@ -33,12 +33,12 @@ for(let game of gamelist.games){
         game.score = object
     }catch(e){
         game.score = {
-            fun: 0,
-            learning_curve: 0,
-            duration: 0,
-            players: 0,
-            difficulty: 0,
-            cost: 0,
+            fun: 1,
+            learning_curve: 1,
+            duration: 1,
+            players: 1,
+            difficulty: 1,
+            cost: 1,
         }
     }
 }

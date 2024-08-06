@@ -2,7 +2,7 @@
 export const Title = ()=>{
     return (
         <h1 className="my-10 px-4 text-2xl font-semibold md:text-5xl text-white text-center">
-            The AI Game Board Reviewer
+            The AI Board Game  Reviewer
             <br />
             <span className="text-xl text-teal-400">
                 <p className="my-4 italic">
