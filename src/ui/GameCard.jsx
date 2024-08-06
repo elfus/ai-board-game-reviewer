@@ -1,34 +1,45 @@
 import PropTypes from 'prop-types';
 import { useNavigate } from 'react-router-dom';
-import { sumScore } from '../stores/use-gameboard-list';
 
 function GameCard({ className, game }) {
   const navigate = useNavigate();
-  const insideList = window.location.href.split('/').at(-1) === 'list';
+  const split = window.location.href.split('/');
+  const isHover = split.at(-1) === 'list' && false;
 
   function handleClick(gameId) {
-    if (!insideList) return;
+    if (!isHover) return;
     navigate(`/game/${gameId}`);
   }
 
-  const overEffect = insideList
-    ? 'transition-colors transition-opacity duration-300 hover:bg-stone-200 hover:opacity-70'
+  const overEffect = isHover
+    ? 'cursor-pointer transition-colors transition-opacity duration-300 hover:bg-stone-200 hover:opacity-70'
     : '';
 
   return (
     <div
       key={game.name}
-      className={`${className} w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 ${overEffect}`}
+      className={`${className} flex flex-col bg-black text-white font-bold justify-between items-center w-72 h-40 m-2 relative rounded-2xl overflow-hidden ${overEffect}`}
       onClick={() => handleClick(game.id)}
     >
       <img
         src={game.images.default}
         alt={game.name}
-        className="absolute left-1/2 top-1/3 -my-2 -translate-x-1/2 -translate-y-1/3 rounded-xl px-2"
+        className="absolute opacity-60 left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-0"
       />
-      <span className="absolute bottom-1 left-1/2 -translate-x-1/2 transform text-center text-sm font-bold tracking-wider">
-        {game.title} ({sumScore(game.score)})
+      <div className="z-10 w-full flex justify-between items-start">
+        <span className='p-2 underline'>{game.rank}</span>
+        <span className='p-2'>{game.overall.toFixed(1)}</span>
+      </div>
+      <span className="z-10 font-mono text-center">
+        {game.title}
       </span>
+      <span className="z-10 text-sm">
+        {game.votes.toLocaleString()} votes
+      </span>
+      <div className="z-10 w-full flex justify-between items-start">
+        <span className='p-2'>{game.players.min} - {game.players.max} P</span>
+        <span className='p-2'>${game.price}</span>
+      </div>
     </div>
   );
 }
