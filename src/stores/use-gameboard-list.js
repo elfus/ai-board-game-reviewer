@@ -15,11 +15,16 @@ export function sumScore(score) {
 export const useGameboardList = create((set) => ({
   games: [],
   ranked: [],
+  top: [],
   desc: false,
-  fetchGames: async () =>
+  fetchGames: async () =>{
+    const allGames = await fetch(`${BASE_API_URL}/games`).then((res) => res.json());
+    const onlyRatedGames = allGames.filter((game) => Object.values(game.score).every((score) => score > 0));
     set({
-      games: await fetch(`${BASE_API_URL}/games`).then((res) => res.json()),
-    }),
+      games: onlyRatedGames,
+      top: onlyRatedGames.slice().sort((a, b) => sumScore(b.score) - sumScore(a.score)).slice(0, 3),
+    })
+  },
   rankDescending: async () => {
     set((state) => ({
       ranked: state.games
