@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { useNavigate } from 'react-router-dom';
 import { sumScore } from '../stores/use-gameboard-list';
 
-function GameCard({ game }) {
+function GameCard({ className, game }) {
   const navigate = useNavigate();
   const insideList = window.location.href.split('/').at(-1) === 'list';
 
@@ -18,7 +18,7 @@ function GameCard({ game }) {
   return (
     <div
       key={game.name}
-      className={`w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 ${overEffect}`}
+      className={`${className} w-82 relative m-4 h-56 rounded-xl bg-stone-300 px-2 ${overEffect}`}
       onClick={() => handleClick(game.id)}
     >
       <img
@@ -35,6 +35,7 @@ function GameCard({ game }) {
 
 GameCard.propTypes = {
   game: PropTypes.object.isRequired,
+  className: PropTypes.string,
 };
 
 export default GameCard;
