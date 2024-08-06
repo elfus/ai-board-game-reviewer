@@ -40,7 +40,7 @@ In order to run locally you need to run the following steps:
    npm run dev
    ```
 
-<img src="src/assets/how-to-run.png" width="50%"/>
+<img src="src/assets/how-to-run.png" />
 
 The following sections provide more details on what each of the components do.
 
@@ -172,9 +172,9 @@ npm run dev
 
 ### Top 3 (Daily)
 
-<img src="src/assets/top-3.png" width="50%"/>
+<img src="src/assets/top-3.png" />
 
 
 ### Full List (Daily Top ~100)
 
-<img src="src/assets/top-100.png" width="50%"/>
+<img src="src/assets/top-100.png" />
