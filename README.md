@@ -13,7 +13,7 @@ AI Board Game Reviewer was designed in two main components:
 - Web page
   - Our web page will consume the data in `gameboard-list-scores.json` via `json-server` and present the ratings to the user.
 
-## How to run
+## How to run locally
 
 In order to run locally you need to run the following steps:
 
@@ -40,11 +40,15 @@ In order to run locally you need to run the following steps:
    npm run dev
    ```
 
+<img src="src/assets/how-to-run.png" width="50%"/>
+
 The following sections provide more details on what each of the components do.
 
 You can start testing the application now or continue reading if you want more details.
 
-## Scraper
+### 1. Scripts
+
+### Scraper
 
 Run scrapper, this will leave data in `src/api/gameboard-list.json`.
 
@@ -52,7 +56,7 @@ Run scrapper, this will leave data in `src/api/gameboard-list.json`.
 npm run scrap
 ```
 
-## Comments
+#### Comments
 
 Run fetch process for getting comments and prices and leave the data in `src/api/gameboard-list-comments.json`.
 
@@ -60,15 +64,16 @@ Run fetch process for getting comments and prices and leave the data in `src/api
 npm run comments
 ```
 
-## AI Score
+#### AI Score
 
 Calculates scores based on game data using [Vercel - AI SDK](https://sdk.vercel.ai/) and leaves them in `src/api/gameboard-list-scores.json`.
 
 ```bash
 npm run score
 ```
+### 2. API
 
-## json-server
+##### Server
 
 The `json-server` will provide several endpoints based on the json file provided.
 
@@ -112,17 +117,17 @@ Currently the format used by our scrapper will provide the following endpoints
       "minage": 12,
       "weight": 1.8128,
       "images": {
-      "default": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard/img/WKrwq2W6lUtSo7Oi6_C0xlV2QLs=/0x0:558x314/288x162/filters:strip_icc()/pic3759421.jpg",
-      "2x": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard@2x/img/-grqiICsr2alYcmu7UICV_ksIp0=/0x0:558x314/576x324/filters:strip_icc()/pic3759421.jpg",
-      "banner": "https://cf.geekdo-images.com/bGQoGiLpnp0Tq_DVfk5sNw__itemheader/img/gvOCuaAVz_swjtdriS6Tr9LKdeE=/800x450/filters:quality(30):strip_icc()/pic4012525.jpg"
+        "default": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard/img/WKrwq2W6lUtSo7Oi6_C0xlV2QLs=/0x0:558x314/288x162/filters:strip_icc()/pic3759421.jpg",
+        "2x": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard@2x/img/-grqiICsr2alYcmu7UICV_ksIp0=/0x0:558x314/576x324/filters:strip_icc()/pic3759421.jpg",
+        "banner": "https://cf.geekdo-images.com/bGQoGiLpnp0Tq_DVfk5sNw__itemheader/img/gvOCuaAVz_swjtdriS6Tr9LKdeE=/800x450/filters:quality(30):strip_icc()/pic4012525.jpg"
       },
       "score": {
-      "fun": 3,
-      "learning_curve": 5,
-      "duration": 3,
-      "players": 5,
-      "difficulty": 6,
-      "cost": 6
+        "fun": 3,
+        "learning_curve": 5,
+        "duration": 3,
+        "players": 5,
+        "difficulty": 6,
+        "cost": 6
       }
   }
   ]
@@ -154,10 +159,22 @@ Below are some endpoint requests doing basic filtering on our scrapped database.
 - Get all games that have a fun score of at least 6
   `GET/games?score.fun_gte=6`
 
-## UI
+### 3. UI
 
 To start the server application run the following command in the project root directory.
 
 ```bash
 npm run dev
 ```
+
+
+## Screenshots
+
+### Top 3 (Daily)
+
+<img src="src/assets/top-3.png" width="50%"/>
+
+
+### Full List (Daily Top ~100)
+
+<img src="src/assets/top-100.png" width="50%"/>
