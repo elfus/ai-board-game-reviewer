@@ -1,26 +1,21 @@
-import { useEffect, useState } from 'react';
+import { useMemo } from 'react';
 import { useGameboardList } from '../stores/use-gameboard-list';
 import GameCard from './GameCard';
 import Button from './Button';
 
 function BoardGameList() {
-  const { rankedDesc, getRankedDescending } = useGameboardList();
-  const [desc, setDescending] = useState(true);
-
-  useEffect(() => {
-    getRankedDescending();
-  }, [getRankedDescending]);
+  const { ranked, desc, toggleDescending } = useGameboardList();
 
   function handleClick() {
-    setDescending((d) => !d);
+    toggleDescending()
   }
 
-  let currGames = rankedDesc.slice();
-  if (!desc) {
-    currGames = [];
-    for (let i = rankedDesc.length - 1; i >= 0; i--)
-      currGames.push(rankedDesc[i]);
-  }
+  const currGames = useMemo(() => {
+    let games = ranked.slice();
+    if (!desc) return games.reverse();
+    return games;
+  }, [ranked, desc]);
+
   return (
     <div className="auto h-screen w-screen overflow-auto border-b-2 px-96 py-4">
       <h1 className="px-4 text-center text-xl font-semibold md:text-4xl">
