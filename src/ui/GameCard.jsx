@@ -42,7 +42,7 @@ function GameCard({ className, game }) {
         <span className='p-2 underline'>{game.rank}</span>
         <span className='p-2'>{game.overall.toFixed(1)}</span>
       </div>
-      <div className="hidden group-hover:grid z-10 w-full grid-cols-4 justify-even p-1 items-start text-left text-sm">
+      <div className="hidden group-hover:grid z-10 w-full grid-cols-4 justify-even p-1 items-start text-left text-xs">
         <span className='p-2 underline'>Overview</span>
         <span className='p-2'>{getEmoji(game.overall)} {game.overall.toFixed(1)}</span>
         <span className='p-2 underline'>BGG Score</span>
