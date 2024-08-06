@@ -45,7 +45,7 @@ function GameCard({ className, game }) {
       <div className="hidden group-hover:grid z-10 w-full grid-cols-4 justify-even p-1 items-start text-left text-xs">
         <span className='p-2 underline'>Overview</span>
         <span className='p-2'>{getEmoji(game.overall)} {game.overall.toFixed(1)}</span>
-        <span className='p-2 underline'>BGG Score</span>
+        <span className='p-2 underline text-cyan-400 hover:text-cyan-500'><a href={`https://boardgamegeek.com/boardgame/${game.objectId}/${game.id_name}/ratings?pageid=1&rated=1&comment=1`} target='_blank'>BGG Score</a></span>
         <span className='p-2'>{getEmoji(game.rating)} {game.rating.toFixed(1)}</span>
         <span className='p-2 underline'>Fun</span>
         <span className='p-2'>{getEmoji(game.score.fun)} {game.score.fun.toFixed(1)}</span>
