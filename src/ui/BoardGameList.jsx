@@ -1,27 +1,27 @@
-import { useMemo } from 'react';
-import { useGameboardList } from '../stores/use-gameboard-list';
 import GameCard from './GameCard';
 import Button from './Button';
 import SearchBoardGame from '../features/boardgame/SearchBoardGame';
 import { Title } from './Title';
-import { useBoardGameList } from '../features/boardgame/useBoardGameList';
+import { useBoardGameRanked } from '../features/boardgame/useBoardGameList';
+import { useMemo, useState } from 'react';
 
 function BoardGameList() {
-  const { ranked, desc, toggleDescending } = useGameboardList();
-  const { isLoading, boardGameList } = useBoardGameList();
+  const { desc, toggleDescending } = useState(true);
+  const { isLoading, boardGameRanked } = useBoardGameRanked();
 
   function handleClick() {
-    toggleDescending();
+    toggleDescending((d) => !d);
   }
 
   const currGames = useMemo(() => {
-    let games = ranked.slice();
+    if (!boardGameRanked) return [];
+    let games = boardGameRanked.slice();
     if (!desc) return games.reverse();
     return games;
-  }, [ranked, desc]);
+  }, [boardGameRanked, desc]);
 
+  // TODO: Return a nice LOADING SPINNER component
   if (isLoading) return null;
-  console.log(boardGameList);
 
   // TODO: Wire up the search feature
   const filters = (
