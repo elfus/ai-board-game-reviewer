@@ -7,6 +7,7 @@ import { useQuery } from '@tanstack/react-query';
 import {
   getBoardGameList,
   getBoardGamesRanked,
+  getTopThree,
 } from '../../services/jsonServer/apiBoardGameList';
 
 export function useBoardGameList() {
@@ -25,4 +26,13 @@ export function useBoardGameRanked() {
   });
 
   return { isLoading, boardGameRanked };
+}
+
+export function useTopThree() {
+  const { isLoading, data: topThree } = useQuery({
+    queryKey: ['topthree'],
+    queryFn: getTopThree,
+  });
+
+  return { isLoading, topThree };
 }

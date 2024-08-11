@@ -1,28 +1,26 @@
-import { useGameboardList } from '../stores/use-gameboard-list';
+import { useTopThree } from '../features/boardgame/useBoardGameList';
 import Button from './Button';
 import GameCard from './GameCard';
 import { Title } from './Title';
 
 function Home() {
-  const { top } = useGameboardList();
+  const { isLoading, topThree } = useTopThree();
 
   return (
-    <div className="my-10 px-4 text-center h-screen overflow-y-auto pb-60">
+    <div className="my-10 h-screen overflow-y-auto px-4 pb-60 text-center">
       <Title />
-      <span className="flex justify-center w-full text-8xl mt-10">
-        👑
-      </span>
-      <span className="flex justify-center w-full underline text-3xl text-amber-300 font-extrabold font-sans py-10">
+      <span className="mt-10 flex w-full justify-center text-8xl">👑</span>
+      <span className="flex w-full justify-center py-10 font-sans text-3xl font-extrabold text-amber-300 underline">
         Top 3 Board Games
       </span>
-      <span className="flex justify-center w-full text-5xl mb-10">
-      🥇 &nbsp; 🥈  &nbsp; 🥉
+      <span className="mb-10 flex w-full justify-center text-5xl">
+        🥇 &nbsp; 🥈 &nbsp; 🥉
       </span>
-      <div className="flex justify-center items-center w-full mb-12">
-        <div className='flex flex-wrap justify-center items-center'>
-          {top.map((game) => (
-            <GameCard key={game.id_name} game={game} />
-          ))}
+      <div className="mb-12 flex w-full items-center justify-center">
+        <div className="flex flex-wrap items-center justify-center">
+          {/* TODO: Add a nice LOADING SPINNER component */}
+          {!isLoading &&
+            topThree.map((game) => <GameCard key={game.id_name} game={game} />)}
         </div>
       </div>
       <Button type="primary" to="/list">
