@@ -85,6 +85,13 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
+## Install REACT Query and REACT Query development tools
+
+```bash
+npm install @tanstack/react-query
+npm install -D @tanstack/react-query-development
+```
+
 ## Install PropType
 
 ```bash

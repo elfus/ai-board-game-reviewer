@@ -1,40 +1,47 @@
-import { useMemo } from 'react';
-import { useGameboardList } from '../stores/use-gameboard-list';
 import GameCard from './GameCard';
 import Button from './Button';
 import SearchBoardGame from '../features/boardgame/SearchBoardGame';
 import { Title } from './Title';
+import { useBoardGameRanked } from '../features/boardgame/useBoardGameList';
+import { useMemo, useState } from 'react';
 
 function BoardGameList() {
-  const { ranked, desc, toggleDescending } = useGameboardList();
+  const { desc, toggleDescending } = useState(true);
+  const { isLoading, boardGameRanked } = useBoardGameRanked();
 
   function handleClick() {
-    toggleDescending()
+    toggleDescending((d) => !d);
   }
 
   const currGames = useMemo(() => {
-    let games = ranked.slice();
+    if (!boardGameRanked) return [];
+    let games = boardGameRanked.slice();
     if (!desc) return games.reverse();
     return games;
-  }, [ranked, desc]);
+  }, [boardGameRanked, desc]);
+
+  // TODO: Return a nice LOADING SPINNER component
+  if (isLoading) return null;
 
   // TODO: Wire up the search feature
-  const filters = (<span className="flex justify-between items-center">
-    <SearchBoardGame />
-    <Button type="secondary" onClick={handleClick}>
-      Score {desc ? 'Sorted descending' : 'Sorted ascending'}
-    </Button>
-  </span>)
+  const filters = (
+    <span className="flex items-center justify-between">
+      <SearchBoardGame />
+      <Button type="secondary" onClick={handleClick}>
+        Score {desc ? 'Sorted descending' : 'Sorted ascending'}
+      </Button>
+    </span>
+  );
   filters;
 
   return (
     <div className="flex flex-col items-center justify-center">
       <Title />
-      <div className="w-10/12 flex flex-wrap items-center justify-center overflow-y-scroll max-h-screen pb-96">
+      <div className="flex max-h-screen w-10/12 flex-wrap items-center justify-center overflow-y-scroll pb-96">
         {currGames.map((game) => (
           <GameCard key={game.id_name} game={game} className="" />
         ))}
-        <div className='p-10'>
+        <div className="p-10">
           <Button type="primary" to="/">
             Go back to the top 3
           </Button>
