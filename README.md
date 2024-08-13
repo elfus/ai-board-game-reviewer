@@ -13,6 +13,10 @@ AI Board Game Reviewer was designed in two main components:
 - Web page
   - Our web page will consume the data in `gameboard-list-scores.json` via `json-server` and present the ratings to the user.
 
+## Live demo with StackBlitz
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/elfus/ai-board-game-reviewer)
+
 ## How to run locally
 
 In order to run locally you need to run the following steps:
