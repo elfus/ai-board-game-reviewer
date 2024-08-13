@@ -58,12 +58,6 @@ We will use json-server 0.17.4 as a quick way to simulate our API.
 npm install -D json-server@0.17.4
 ```
 
-## Install Zustand
-
-```bash
-npm install zustand
-```
-
 ## Install REACT router
 
 ```bash
@@ -90,6 +84,13 @@ npx tailwindcss init -p
 ```bash
 npm install @tanstack/react-query
 npm install -D @tanstack/react-query-development
+```
+
+## Install Husky
+
+```bash
+npm run --save-dev husky
+npx husky init
 ```
 
 ## Install PropType
