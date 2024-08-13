@@ -12,7 +12,8 @@
     "comments": "node src/scripts/comments.js > src/api/gameboard-list-comments.json",
     "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json",
     "server": "npx json-server src/api/gameboard-list-scores.json",
-    "prepare": "husky"
+    "prepare": "husky",
+    "project": "concurrently --kill-others \"npm run server\" \"npm run dev\""
   },
   "dependencies": {
     "@tanstack/react-query": "^5.51.23",
@@ -30,6 +31,7 @@
     "ai": "^3.3.0",
     "autoprefixer": "^10.4.20",
     "cheerio": "^1.0.0-rc.12",
+    "concurrently": "^8.2.2",
     "eslint": "^8.57.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-react": "^7.34.3",
