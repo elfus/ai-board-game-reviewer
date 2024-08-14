@@ -37,7 +37,7 @@ function BoardGameList() {
   return (
     <div className="flex flex-col items-center justify-center">
       <Title />
-      <div className="flex max-h-screen w-10/12 flex-wrap items-center justify-center overflow-y-scroll pb-96">
+      <div className="flex w-10/12 flex-wrap items-center justify-center">
         {currGames.map((game) => (
           <GameCard key={game.id_name} game={game} className="" />
         ))}

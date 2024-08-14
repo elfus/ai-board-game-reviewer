@@ -7,7 +7,7 @@ function Home() {
   const { isLoading, topThree } = useTopThree();
 
   return (
-    <div className="my-10 h-screen overflow-y-auto px-4 pb-60 text-center">
+    <div className="my-4 px-4 text-center">
       <Title />
       <span className="mt-10 flex w-full justify-center text-8xl">👑</span>
       <span className="flex w-full justify-center py-10 font-sans text-3xl font-extrabold text-amber-300 underline">

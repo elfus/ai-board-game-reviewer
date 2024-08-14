@@ -18,16 +18,14 @@ function AppLayout() {
           autoPlay={true}
           muted={true}
           loop={true}
-          className="absolute left-0 top-0 z-0 w-screen opacity-75 blur-3xl"
+          className="absolute left-0 top-0 z-0 h-screen w-screen opacity-75 blur-3xl"
         >
           <source src="./BG.mov" type="video/mp4" />
         </video>
         <Header className="z-10" />
         {/* TODO: Fix the usage of class overflow-scroll */}
-        <div className="z-10 overflow-hidden">
-          <main className="mx-auto">
-            <Outlet />
-          </main>
+        <div className="z-10 overflow-auto">
+          <Outlet />
         </div>
         <Footer />
       </div>
