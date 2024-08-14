@@ -6,7 +6,7 @@ import { useBoardGameRanked } from '../features/boardgame/useBoardGameList';
 import { useMemo, useState } from 'react';
 
 function BoardGameList() {
-  const { desc, toggleDescending } = useState(true);
+  const { desc, toggleDescending } = useState(false);
   const { isLoading, boardGameRanked } = useBoardGameRanked();
 
   function handleClick() {
@@ -16,7 +16,7 @@ function BoardGameList() {
   const currGames = useMemo(() => {
     if (!boardGameRanked) return [];
     let games = boardGameRanked.slice();
-    if (!desc) return games.reverse();
+    if (desc) return games.reverse();
     return games;
   }, [boardGameRanked, desc]);
 
