@@ -1,12 +1,11 @@
 import { BASE_API_URL } from '../apiConstants';
 
-function sumScore(score, rating) {
-  const scoreKeys = Object.keys(score);
-  const propertyCount = scoreKeys.length + 1;
-  let sum = rating;
-  for (const property of scoreKeys) {
-    sum += score[property];
-  }
+function sumScore(score) {
+  let sum = 0;
+  sum += score['difficulty'];
+  sum += score['learning_curve'];
+  sum += score['fun'];
+  const propertyCount = 3;
   return Number((sum / propertyCount).toFixed(2));
 }
 
