@@ -35,7 +35,7 @@ function Button({ children, disabled, to, type, onClick }) {
 
 Button.propTypes = {
   children: PropTypes.node,
-  disabled: PropTypes.string,
+  disabled: PropTypes.bool,
   to: PropTypes.string,
   type: PropTypes.string,
   onClick: PropTypes.func,
