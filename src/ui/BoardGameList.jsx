@@ -6,7 +6,7 @@ import { useBoardGameRanked } from '../features/boardgame/useBoardGameList';
 import { useMemo, useState } from 'react';
 
 function BoardGameList() {
-  const { desc, toggleDescending } = useState(true);
+  const [ desc, toggleDescending ] = useState(true);
   const { isLoading, boardGameRanked } = useBoardGameRanked();
 
   function handleClick() {

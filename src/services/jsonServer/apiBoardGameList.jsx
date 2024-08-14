@@ -25,14 +25,19 @@ export async function getBoardGameList() {
 }
 
 export async function getBoardGamesRanked() {
+  // This REST call will get ALL the board games
   const scoredGames = await fetch(`${BASE_API_URL}/games?score.fun_gte=1`).then(
     (res) => res.json(),
   );
 
+  // Calculate an overall score with the function sumScore
   const ratedGames = scoredGames.map((game) => ({
     ...game,
     overall: sumScore(game.score, game.rating),
   }));
+
+  // The rank function will assign a rank 1 to the board game
+  // with the highest overall score.
   return rank(ratedGames);
 }
 
