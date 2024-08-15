@@ -32,7 +32,7 @@ function BoardGameList() {
     let games = boardGameRanked.slice(startIdx, endIdx);
     if (!desc) return games.reverse();
     return games;
-  }, [boardGameRanked, desc, currPage]);
+  }, [boardGameRanked, desc, startIdx, endIdx]);
 
   // TODO: Return a nice LOADING SPINNER component
   if (isLoading) return null;
