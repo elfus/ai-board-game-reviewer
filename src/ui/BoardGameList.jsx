@@ -7,11 +7,12 @@ import { useBoardGameRanked } from '../features/boardgame/useBoardGameList';
 import { useMemo, useState } from 'react';
 
 function BoardGameList() {
-  const [ currPage, setCurrPage ] = useState(Number(0));
+  const [ currPage, setCurrPage ] = useState(1);
   const [ desc, toggleDescending ] = useState(true);
   const { isLoading, boardGameRanked } = useBoardGameRanked();
   
-  const startIdx = PAGE_SIZE*currPage;
+  // -1 because of 0-indexed array
+  const startIdx = PAGE_SIZE*(currPage-1);
   const endIdx   = startIdx + PAGE_SIZE;
   
   function handleClick() {
@@ -25,7 +26,6 @@ function BoardGameList() {
   function handlePrevious() {
     setCurrPage((page)=> page-1)
   }
-  setCurrPage;
 
   const currGames = useMemo(() => {
     if (!boardGameRanked) return [];
@@ -37,7 +37,7 @@ function BoardGameList() {
   // TODO: Return a nice LOADING SPINNER component
   if (isLoading) return null;
 
-  const pageCount = Math.ceil(boardGameRanked.length/PAGE_SIZE)-1
+  const pageCount = Math.ceil(boardGameRanked.length/PAGE_SIZE)
 
   // TODO: Wire up the search feature
   const filters = (
@@ -58,12 +58,14 @@ function BoardGameList() {
           <GameCard key={game.id_name} game={game} className="" />
         ))}
       </div>
-      <div className="flex p-2 space-x-4">
-          <Button type="secondary" disabled={currPage<1?true:false} onClick={handlePrevious} >
+      <div className="w-1/6  grid  grid-rows-1 grid-flow-col place-content-evenly py-4">
+          <Button type="navigate" disabled={currPage===1?true:false} onClick={handlePrevious} >
             Previous
           </Button>
+
+          <div></div>
           
-          <Button type="secondary" disabled={currPage>=pageCount} onClick={handleNext} >
+          <Button type="navigate" disabled={currPage === pageCount} onClick={handleNext} >
             Next
           </Button>
         </div>
