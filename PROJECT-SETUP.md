@@ -48,16 +48,6 @@ npm i --save-dev vite-plugin-eslint eslint-config-react-app eslint
   });
   ```
 
-## Install JSON Server
-
-We will use json-server 0.17.4 as a quick way to simulate our API.
-
-[json-server](https://github.com/typicode/json-server/tree/v0)
-
-```bash
-npm install -D json-server@0.17.4
-```
-
 ## Install REACT router
 
 ```bash
@@ -139,6 +129,89 @@ Then add the plugin to your Prettier configuration. See [Prettier Configuration]
 {
   "plugins": ["prettier-plugin-tailwindcss"]
 }
+```
+
+## Installing Ollama language models
+
+The easiest way to install `ollama` is executing the following command
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+Should you want or need to do a manual install follow the steps located at [Ollama manual install](https://github.com/ollama/ollama/blob/main/docs/linux.md)
+
+Installation example:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+>>> Downloading ollama...
+######################################################################## 100.0%#=#=#
+>>> Installing ollama to /usr/local/bin...
+[sudo] password for aortegag:
+>>> Creating ollama user...
+>>> Adding ollama user to render group...
+>>> Adding ollama user to video group...
+>>> Adding current user to ollama group...
+>>> Creating ollama systemd service...
+>>> Enabling and starting ollama service...
+Created symlink /etc/systemd/system/default.target.wants/ollama.service → /etc/systemd/system/ollama.service.
+>>> NVIDIA GPU installed
+```
+
+If you list the language models with `ollama list` you will get an empty list.
+
+```bash
+ollama list
+NAME    ID      SIZE    MODIFIED
+```
+
+You need to install your desired model. For our project we chose `llama3`. You can checkout a complete list of complete models provided by `ollama` here at this location [ollama library](https://ollama.com/library). Run the command (this one will take a while to download the model around 4.7GB).
+
+```bash
+ollama pull llama3
+pulling manifest
+pulling 6a0746a1ec1a... 100% ▕████████████████████████████████████████████████████████████▏ 4.7 GB
+pulling 4fa551d4f938... 100% ▕████████████████████████████████████████████████████████████▏  12 KB
+pulling 8ab4849b038c... 100% ▕████████████████████████████████████████████████████████████▏  254 B
+pulling 577073ffcc6c... 100% ▕████████████████████████████████████████████████████████████▏  110 B
+pulling 3f8eb4da87fa... 100% ▕████████████████████████████████████████████████████████████▏  485 B
+verifying sha256 digest
+writing manifest
+removing any unused layers
+success
+```
+
+You can test the newly downloaded model with
+
+```bash
+ollama run llama3
+>>> What is the capital of Mexico?
+The capital of Mexico is Ciudad de México (Mexico City).
+```
+
+More information about `ollama` can found at [github](https://github.com/ollama/ollama)
+
+## Install the ollama-ai-provider
+
+```bash
+npm i ollama-ai-provider
+```
+
+## Install the Vercel AI SDK
+
+```bash
+npm i ai
+```
+
+## Install JSON Server
+
+We will use json-server 0.17.4 as a quick way to simulate our API.
+
+[json-server](https://github.com/typicode/json-server/tree/v0)
+
+```bash
+npm install -D json-server@0.17.4
 ```
 
 ## Start JSON Server
