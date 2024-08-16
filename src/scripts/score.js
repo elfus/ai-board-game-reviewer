@@ -2,7 +2,10 @@ import { ollama } from 'ollama-ai-provider';
 import { generateObject } from 'ai';
 import { z } from 'zod';
 
-import gamelist from '../api/gameboard-list-comments.json';
+import { readFileSync } from 'fs';
+let gamelist = JSON.parse(
+  readFileSync('./src/api/gameboard-list-comments.json'),
+);
 
 for (let game of gamelist.games) {
   try {
