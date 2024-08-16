@@ -2,7 +2,10 @@ import { ollama } from 'ollama-ai-provider';
 import { generateObject } from 'ai';
 import { z } from 'zod';
 
-import gamelist from '../api/gameboard-list-comments.json';
+import { readFileSync } from 'fs';
+let gamelist = JSON.parse(
+  readFileSync('./src/api/gameboard-list-comments.json'),
+);
 
 for (let game of gamelist.games) {
   try {
@@ -42,5 +45,31 @@ for (let game of gamelist.games) {
     };
   }
 }
+
+function sumScore(score) {
+  let sum = 0;
+  sum += score['difficulty'];
+  sum += score['learning_curve'];
+  sum += score['fun'];
+  const propertyCount = 3;
+  return Number((sum / propertyCount).toFixed(2));
+}
+
+function rank(games) {
+  return games
+    .slice()
+    .sort((a, b) => b.overall - a.overall)
+    .map((game, index) => ({ ...game, rank: index + 1 }));
+}
+
+// Calculate an overall score with the function sumScore
+gamelist.games = gamelist.games.map((game) => ({
+  ...game,
+  overall: sumScore(game.score),
+}));
+
+// The rank function will assign a rank 1 to the board game
+// with the highest overall score.
+gamelist.games = rank(gamelist.games);
 
 console.log(JSON.stringify(gamelist, null, 4));

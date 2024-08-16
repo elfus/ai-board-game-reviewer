@@ -1,21 +1,5 @@
 import { BASE_API_URL } from '../apiConstants';
 
-function sumScore(score) {
-  let sum = 0;
-  sum += score['difficulty'];
-  sum += score['learning_curve'];
-  sum += score['fun'];
-  const propertyCount = 3;
-  return Number((sum / propertyCount).toFixed(2));
-}
-
-function rank(games) {
-  return games
-    .slice()
-    .sort((a, b) => b.overall - a.overall)
-    .map((game, index) => ({ ...game, rank: index + 1 }));
-}
-
 export async function getBoardGameList() {
   const allGames = await fetch(`${BASE_API_URL}/games`).then((res) =>
     res.json(),
@@ -29,18 +13,26 @@ export async function getBoardGamesRanked() {
     (res) => res.json(),
   );
 
-  // Calculate an overall score with the function sumScore
-  const ratedGames = scoredGames.map((game) => ({
-    ...game,
-    overall: sumScore(game.score, game.rating),
-  }));
+  return scoredGames;
+}
 
-  // The rank function will assign a rank 1 to the board game
-  // with the highest overall score.
-  return rank(ratedGames);
+export async function getBoardGamesPage({ page, pageSize }) {
+  // This REST call will get ALL the board games
+  if (!page || !pageSize) return null;
+
+  const gamesPage = await fetch(
+    `${BASE_API_URL}/games?_page=${page}&_limit=${pageSize}`,
+  ).then((res) => res.json());
+  return gamesPage;
+}
+
+export async function getBoardGamesCount() {
+  const count = await fetch(`${BASE_API_URL}/count`).then((res) => res.json());
+
+  return count[0];
 }
 
 export async function getTopThree() {
-  const ratedGames = await getBoardGamesRanked();
-  return ratedGames.slice(0, 3);
+  const ratedGames = await getBoardGamesPage({ page: 1, pageSize: 3 });
+  return ratedGames;
 }

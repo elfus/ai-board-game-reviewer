@@ -3,41 +3,47 @@ import Button from './Button';
 import SearchBoardGame from '../features/boardgame/SearchBoardGame';
 import PAGE_SIZE from '../utils/contants';
 import { Title } from './Title';
-import { useBoardGameRanked } from '../features/boardgame/useBoardGameList';
+import {
+  useBoardGameCount,
+  useBoardGamePage,
+} from '../features/boardgame/useBoardGameList';
 import { useMemo, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 
 function BoardGameList() {
-  const [ currPage, setCurrPage ] = useState(1);
-  const [ desc, toggleDescending ] = useState(true);
-  const { isLoading, boardGameRanked } = useBoardGameRanked();
-  
-  // -1 because of 0-indexed array
-  const startIdx = PAGE_SIZE*(currPage-1);
-  const endIdx   = startIdx + PAGE_SIZE;
-  
+  const [searchParams, setSearchParams] = useSearchParams();
+  const page = searchParams.get('page');
+  const pageId = page ? parseInt(page, 10) : 1;
+  const [desc, toggleDescending] = useState(true);
+  const { isLoadingCount, boardGameCount } = useBoardGameCount();
+  const { isLoadingPage, boardGamePage } = useBoardGamePage(pageId, PAGE_SIZE);
+
   function handleClick() {
     toggleDescending((d) => !d);
   }
-  
+
   function handleNext() {
-    setCurrPage((page)=> page+1)
+    searchParams.set('page', pageId + 1);
+    setSearchParams(searchParams);
   }
 
   function handlePrevious() {
-    setCurrPage((page)=> page-1)
+    searchParams.set('page', pageId - 1);
+    setSearchParams(searchParams);
   }
 
   const currGames = useMemo(() => {
-    if (!boardGameRanked) return [];
-    let games = boardGameRanked.slice(startIdx, endIdx);
+    if (!boardGamePage) return [];
+    let games = boardGamePage;
     if (!desc) return games.reverse();
     return games;
-  }, [boardGameRanked, desc, startIdx, endIdx]);
+  }, [boardGamePage, desc]);
 
   // TODO: Return a nice LOADING SPINNER component
-  if (isLoading) return null;
+  if (isLoadingPage || isLoadingCount) return null;
 
-  const pageCount = Math.ceil(boardGameRanked.length/PAGE_SIZE)
+  const pageCount = Math.ceil(boardGameCount / PAGE_SIZE);
+  const validPageId = pageId > 0 && pageId <= pageCount;
 
   // TODO: Wire up the search feature
   const filters = (
@@ -54,26 +60,45 @@ function BoardGameList() {
     <div className="flex flex-col items-center justify-center">
       <Title />
       <div className="flex w-10/12 flex-wrap items-center justify-center">
-        {currGames.map((game) => (
-          <GameCard key={game.id_name} game={game} className="" />
-        ))}
+        {validPageId ? (
+          currGames.map((game) => (
+            <GameCard key={game.id_name} game={game} className="" />
+          ))
+        ) : (
+          <div className="flex flex-col items-center space-y-2 py-2">
+            <span className="text-2xl font-bold text-red-600">
+              Page {pageId} not found
+            </span>
+            <span className="text-xl font-semibold text-yellow-400">
+              There are {pageCount} pages in the board game list
+            </span>
+          </div>
+        )}
       </div>
-      <div className="w-1/6  grid  grid-rows-1 grid-flow-col place-content-evenly py-4">
-          <Button type="navigate" disabled={currPage===1?true:false} onClick={handlePrevious} >
-            Previous
-          </Button>
+      <div className="grid w-1/6 grid-flow-col grid-rows-1 place-content-evenly py-4">
+        <Button
+          type="navigate"
+          disabled={pageId === 1 || !validPageId ? true : false}
+          onClick={handlePrevious}
+        >
+          Previous
+        </Button>
 
-          <div></div>
-          
-          <Button type="navigate" disabled={currPage === pageCount} onClick={handleNext} >
-            Next
-          </Button>
-        </div>
-        <div >
-          <Button type="primary" to="/">
-            Go back to the top 3
-          </Button>
-        </div>
+        <div></div>
+
+        <Button
+          type="navigate"
+          disabled={pageId === pageCount || !validPageId}
+          onClick={handleNext}
+        >
+          Next
+        </Button>
+      </div>
+      <div>
+        <Button type="primary" to="/">
+          Go back to the top 3
+        </Button>
+      </div>
     </div>
   );
 }

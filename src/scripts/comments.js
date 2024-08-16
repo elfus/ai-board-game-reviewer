@@ -1,4 +1,5 @@
-import gamelist from '../api/gameboard-list.json';
+import { readFileSync } from 'fs';
+let gamelist = JSON.parse(readFileSync('./src/api/gameboard-list.json'));
 
 for (let game of gamelist.games) {
   // Comments
