@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query';
+import { useQueryClient, useQuery } from '@tanstack/react-query';
 
 // import server api
 // TODO: Add an intermediate layer named "GenericAPI" which
@@ -8,6 +8,8 @@ import {
   getBoardGameList,
   getBoardGamesRanked,
   getTopThree,
+  getBoardGamesPage,
+  getBoardGamesCount,
 } from '../../services/jsonServer/apiBoardGameList';
 
 export function useBoardGameList() {
@@ -26,6 +28,39 @@ export function useBoardGameRanked() {
   });
 
   return { isLoading, boardGameRanked };
+}
+
+export function useBoardGamePage(page, pageSize) {
+  const { isLoadingCount, boardGameCount } = useBoardGameCount();
+  const { isLoading, data: boardGamePage } = useQuery({
+    queryKey: ['boardgamepage', page, pageSize],
+    queryFn: () => getBoardGamesPage({ page, pageSize }),
+  });
+  const queryClient = useQueryClient();
+
+  if (isLoadingCount || !page || !pageSize) return null;
+
+  if (page < Math.ceil(boardGameCount / pageSize))
+    queryClient.prefetchQuery({
+      queryKey: ['boardgamepage', page + 1, pageSize],
+      queryFn: () => getBoardGamesPage({ page: page + 1, pageSize }),
+    });
+
+  if (page > 1)
+    queryClient.prefetchQuery({
+      queryKey: ['boardgamepage', page - 1, pageSize],
+      queryFn: () => getBoardGamesPage({ page: page - 1, pageSize }),
+    });
+
+  return { isLoading, boardGamePage };
+}
+
+export function useBoardGameCount() {
+  const { isLoading, data: boardGameCount } = useQuery({
+    queryKey: ['boardgamecount'],
+    queryFn: () => getBoardGamesCount(),
+  });
+  return { isLoading, boardGameCount };
 }
 
 export function useTopThree() {
