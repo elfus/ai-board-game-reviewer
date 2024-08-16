@@ -11,6 +11,7 @@
     "scrap": "node src/scripts/scrap.js > src/api/gameboard-list.json",
     "comments": "node src/scripts/comments.js > src/api/gameboard-list-comments.json",
     "score": "node src/scripts/score.js > src/api/gameboard-list-scores.json",
+    "scrapscore": "npm run scrap && npm run comments && npm run score",
     "server": "npx json-server src/api/gameboard-list-scores.json",
     "prepare": "husky",
     "project": "concurrently --kill-others \"npm run server\" \"npm run dev\""
