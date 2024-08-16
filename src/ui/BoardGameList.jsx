@@ -8,40 +8,42 @@ import {
   useBoardGamePage,
 } from '../features/boardgame/useBoardGameList';
 import { useMemo, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 
 function BoardGameList() {
-  const [currPage, setCurrPage] = useState(1);
+  const [searchParams, setSearchParams] = useSearchParams();
+  const page = searchParams.get('page');
+  const pageId = page ? parseInt(page, 10) : 1;
   const [desc, toggleDescending] = useState(true);
   const { isLoadingCount, boardGameCount } = useBoardGameCount();
-  const { isLoadingPage, boardGamePage } = useBoardGamePage(
-    currPage,
-    PAGE_SIZE,
-  );
+  const { isLoadingPage, boardGamePage } = useBoardGamePage(pageId, PAGE_SIZE);
 
   function handleClick() {
     toggleDescending((d) => !d);
   }
 
   function handleNext() {
-    setCurrPage((page) => page + 1);
+    searchParams.set('page', pageId + 1);
+    setSearchParams(searchParams);
   }
 
   function handlePrevious() {
-    setCurrPage((page) => page - 1);
+    searchParams.set('page', pageId - 1);
+    setSearchParams(searchParams);
   }
 
   const currGames = useMemo(() => {
     if (!boardGamePage) return [];
     let games = boardGamePage;
-    currPage;
     if (!desc) return games.reverse();
     return games;
-  }, [boardGamePage, desc, currPage]);
+  }, [boardGamePage, desc]);
 
   // TODO: Return a nice LOADING SPINNER component
   if (isLoadingPage || isLoadingCount) return null;
 
   const pageCount = Math.ceil(boardGameCount / PAGE_SIZE);
+  const validPageId = pageId > 0 && pageId <= pageCount;
 
   // TODO: Wire up the search feature
   const filters = (
@@ -58,14 +60,25 @@ function BoardGameList() {
     <div className="flex flex-col items-center justify-center">
       <Title />
       <div className="flex w-10/12 flex-wrap items-center justify-center">
-        {currGames.map((game) => (
-          <GameCard key={game.id_name} game={game} className="" />
-        ))}
+        {validPageId ? (
+          currGames.map((game) => (
+            <GameCard key={game.id_name} game={game} className="" />
+          ))
+        ) : (
+          <div className="flex flex-col items-center space-y-2 py-2">
+            <span className="text-2xl font-bold text-red-600">
+              Page {pageId} not found
+            </span>
+            <span className="text-xl font-semibold text-yellow-400">
+              There are {pageCount} pages in the board game list
+            </span>
+          </div>
+        )}
       </div>
       <div className="grid w-1/6 grid-flow-col grid-rows-1 place-content-evenly py-4">
         <Button
           type="navigate"
-          disabled={currPage === 1 ? true : false}
+          disabled={pageId === 1 || !validPageId ? true : false}
           onClick={handlePrevious}
         >
           Previous
@@ -75,7 +88,7 @@ function BoardGameList() {
 
         <Button
           type="navigate"
-          disabled={currPage === pageCount}
+          disabled={pageId === pageCount || !validPageId}
           onClick={handleNext}
         >
           Next

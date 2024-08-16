@@ -32,13 +32,14 @@ export function useBoardGameRanked() {
 
 export function useBoardGamePage(page, pageSize) {
   const { isLoadingCount, boardGameCount } = useBoardGameCount();
-  const { isLoading, data: boardGamePage } = useQuery({
+  const { isLoading: isLoadingPage, data: boardGamePage } = useQuery({
     queryKey: ['boardgamepage', page, pageSize],
     queryFn: () => getBoardGamesPage({ page, pageSize }),
   });
   const queryClient = useQueryClient();
 
-  if (isLoadingCount || !page || !pageSize) return null;
+  if (isLoadingCount || !page || !pageSize)
+    return { isLoadingPage: true, boardGameCount: 0 };
 
   if (page < Math.ceil(boardGameCount / pageSize))
     queryClient.prefetchQuery({
@@ -52,15 +53,15 @@ export function useBoardGamePage(page, pageSize) {
       queryFn: () => getBoardGamesPage({ page: page - 1, pageSize }),
     });
 
-  return { isLoading, boardGamePage };
+  return { isLoadingPage, boardGamePage };
 }
 
 export function useBoardGameCount() {
-  const { isLoading, data: boardGameCount } = useQuery({
+  const { isLoading: isLoadingCount, data: boardGameCount } = useQuery({
     queryKey: ['boardgamecount'],
     queryFn: () => getBoardGamesCount(),
   });
-  return { isLoading, boardGameCount };
+  return { isLoadingCount, boardGameCount };
 }
 
 export function useTopThree() {

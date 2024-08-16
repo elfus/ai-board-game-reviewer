@@ -17,7 +17,7 @@ const router = createBrowserRouter([
       { path: '/', element: <Home />, errorElement: <Error /> },
       { path: '/home', element: <Navigate to="/" replace /> },
       {
-        path: '/list',
+        path: '/list/:page?',
         element: <BoardGameList />,
         errorElement: <Error />,
       },
