@@ -1,21 +1,5 @@
 import { BASE_API_URL } from '../apiConstants';
 
-function sumScore(score) {
-  let sum = 0;
-  sum += score['difficulty'];
-  sum += score['learning_curve'];
-  sum += score['fun'];
-  const propertyCount = 3;
-  return Number((sum / propertyCount).toFixed(2));
-}
-
-function rank(games) {
-  return games
-    .slice()
-    .sort((a, b) => b.overall - a.overall)
-    .map((game, index) => ({ ...game, rank: index + 1 }));
-}
-
 export async function getBoardGameList() {
   const allGames = await fetch(`${BASE_API_URL}/games`).then((res) =>
     res.json(),
@@ -29,15 +13,7 @@ export async function getBoardGamesRanked() {
     (res) => res.json(),
   );
 
-  // Calculate an overall score with the function sumScore
-  const ratedGames = scoredGames.map((game) => ({
-    ...game,
-    overall: sumScore(game.score, game.rating),
-  }));
-
-  // The rank function will assign a rank 1 to the board game
-  // with the highest overall score.
-  return rank(ratedGames);
+  return scoredGames;
 }
 
 export async function getTopThree() {
