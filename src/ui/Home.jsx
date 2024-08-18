@@ -10,7 +10,7 @@ function Home() {
       <Title />
       <span className="mt-10 flex w-full justify-center text-8xl">👑</span>
       <div className="flex w-full justify-center py-10 font-sans text-4xl font-extrabold text-amber-300">
-        <span className='bg-yellow-700 px-5 py-2 rounded-2xl bg-opacity-40 bg-blend-color-burn'>Top 3 Board Games</span>
+        <span className='bg-black px-5 py-2 rounded-2xl bg-blend-color-burn border-white bg-opacity-50 border'>Top 3 Board Games</span>
       </div>
       <div className="mb-12 flex w-full items-center justify-center">
         <div className="flex flex-wrap items-center justify-center">
