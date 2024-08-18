@@ -3,6 +3,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools';
 import Header from './Header';
 import Footer from './Footer';
+import Confetti from './Confetti';
 
 const queryClient = new QueryClient({
   defaultOptions: { queries: { staleTime: 0 } },
@@ -12,13 +13,14 @@ function AppLayout() {
   return (
     <QueryClientProvider client={queryClient}>
       <ReactQueryDevtools initialIsOpen={false} />
+      <Confetti/>
       <div className="grid h-screen grid-rows-[auto_1fr_auto] bg-slate-800">
         <video
           src="./BG.mov"
           autoPlay={true}
           muted={true}
           loop={true}
-          className="absolute left-0 top-0 z-0 h-screen w-screen opacity-75 blur-3xl"
+          className="absolute left-0 top-0 z-0 h-screen w-screen opacity-75 blur-lg"
         >
           <source src="./BG.mov" type="video/mp4" />
         </video>

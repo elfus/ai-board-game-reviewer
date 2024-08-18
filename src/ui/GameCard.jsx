@@ -40,6 +40,7 @@ function GameCard({ className, game }) {
       />
       <div className="group-hover:hidden z-10 w-full flex justify-between items-start">
         <span className='p-2 underline'>{game.rank}</span>
+        <span className='text-5xl'>{(['🥇', '🥈', '🥉'][game.rank-1]??'')}</span>
         <span className='p-2'>{game.overall.toFixed(1)}</span>
       </div>
       <div className="hidden group-hover:grid z-10 w-full grid-cols-4 justify-even p-1 items-start text-left text-xs">
