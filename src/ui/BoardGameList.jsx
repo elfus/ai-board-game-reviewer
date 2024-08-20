@@ -9,6 +9,7 @@ import {
 } from '../features/boardgame/useBoardGameList';
 import { useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import Loader from './Loader';
 
 function BoardGameList() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -39,9 +40,6 @@ function BoardGameList() {
     return games;
   }, [boardGamePage, desc]);
 
-  // TODO: Return a nice LOADING SPINNER component
-  if (isLoadingPage || isLoadingCount) return null;
-
   const pageCount = Math.ceil(boardGameCount / PAGE_SIZE);
   const validPageId = pageId > 0 && pageId <= pageCount;
 
@@ -58,6 +56,7 @@ function BoardGameList() {
 
   return (
     <div className="flex flex-col items-center justify-center">
+      {(isLoadingCount || isLoadingPage) && <Loader />}
       <Title />
       <div className="flex w-10/12 flex-wrap items-center justify-center">
         {validPageId ? (
