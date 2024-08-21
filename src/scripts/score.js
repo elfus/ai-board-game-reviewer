@@ -72,4 +72,6 @@ gamelist.games = gamelist.games.map((game) => ({
 // with the highest overall score.
 gamelist.games = rank(gamelist.games);
 
+gamelist['lastupdated'] = [new Date().toISOString()];
+
 console.log(JSON.stringify(gamelist, null, 4));
