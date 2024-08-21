@@ -3,14 +3,14 @@ import { useLastUpdated } from '../hooks/useLastUpdated';
 import Loader from './Loader';
 
 function Footer() {
-  const { isLoadingUpdated, lastUpdatedDate } = useLastUpdated();
-  console.log(`HOME`, lastUpdatedDate);
+  const { isLoading : isLoadingUpdated, lastUpdatedDate } = useLastUpdated();
+  
   return (
     <>
       {isLoadingUpdated && <Loader />}
       <footer className="z-[100] flex items-center justify-center bg-stone-800 px-6 py-4">
         <p className="absolute bottom-2 left-2 text-center font-semibold text-stone-300 opacity-60">
-          Last updated: {lastUpdatedDate.toDateString()}
+          Last updated: {!isLoadingUpdated && lastUpdatedDate.toDateString()}
         </p>
         <p className="text-center font-semibold text-stone-300">
           Powered by &nbsp;

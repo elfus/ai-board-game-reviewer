@@ -18,6 +18,7 @@ export function useLastUpdated() {
     queryKey: ['lastupdated'],
     queryFn: getLastUpdated,
   });
+  if(isLoading) return {isLoading, lastUpdatedDate:''}
   const lastUpdatedDate = parseIsoString(isoString);
   return { isLoading, lastUpdatedDate };
 }
