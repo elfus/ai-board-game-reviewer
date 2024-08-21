@@ -36,3 +36,10 @@ export async function getTopThree() {
   const ratedGames = await getBoardGamesPage({ page: 1, pageSize: 3 });
   return ratedGames;
 }
+
+export async function getLastUpdated() {
+  const updated = await fetch(`${BASE_API_URL}/lastupdated`).then((res) =>
+    res.json(),
+  );
+  return updated[0]; // return ISO string
+}
