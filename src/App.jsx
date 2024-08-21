@@ -8,6 +8,7 @@ import Error from './ui/Error';
 import Home from './ui/Home';
 import BoardGameList from './ui/BoardGameList';
 import BoardGame from './ui/BoardGame';
+import HowItWorks from './ui/HowItWorks';
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,7 @@ const router = createBrowserRouter([
     children: [
       { path: '/', element: <Home />, errorElement: <Error /> },
       { path: '/home', element: <Navigate to="/" replace /> },
+      { path: '/howitworks', element: <HowItWorks /> },
       {
         path: '/list/:page?',
         element: <BoardGameList />,
