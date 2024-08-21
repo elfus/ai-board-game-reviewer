@@ -22,6 +22,7 @@ function Footer() {
         </a>{' '}
         data 📊
         <br />
+        ⚙️{' '}
         <Link className="underline" to="/howitworks">
           How it works
         </Link>
