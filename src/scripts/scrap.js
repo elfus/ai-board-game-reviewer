@@ -1,15 +1,10 @@
 import * as cheerio from 'cheerio';
 
-async function $fetch(url) {
-  const data = await fetch(url);
-  return cheerio.load(await data.text());
-}
-
 const gamelist = {
   games: [],
 };
 const BASE_API_URL = 'https://boardgamegeek.com';
-const $ = await $fetch(`${BASE_API_URL}/browse/boardgame`);
+const $ = await cheerio.fromURL(`${BASE_API_URL}/browse/boardgame`);
 
 const games = await $('table#collectionitems > tbody > tr#row_').map(
   async (index, el) => {
@@ -39,7 +34,7 @@ const games = await $('table#collectionitems > tbody > tr#row_').map(
         if (index === 2) game.votes = Number($(td).text().trim());
       });
     // Images
-    const $$ = await $fetch(`${BASE_API_URL}${href}`);
+    const $$ = await cheerio.fromURL(`${BASE_API_URL}${href}`);
     const $script = $$('script').eq(2);
     const $json = JSON.parse(
       $script.html()?.match(/GEEK.geekitemPreload = (\{.+\})/)?.[1] ??
