@@ -15,6 +15,8 @@ const games = await $('table#collectionitems > tbody > tr#row_').map(
     const splitted = href?.split('/') || [];
     const id_name = splitted.pop() || '';
     const objectId = splitted.pop() || '';
+    const bgg_rank = Number($(el).find('td.collection_rank').text());
+
     // Name, Description & Year
     const game = {
       id: 0,
@@ -25,6 +27,7 @@ const games = await $('table#collectionitems > tbody > tr#row_').map(
       year: Number(
         $(el).find('span.smallerfont').text().replace('(', '').replace(')', ''),
       ),
+      bggRank: bgg_rank,
     };
     // Rating & Votes
     $(el)

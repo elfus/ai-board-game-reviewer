@@ -7,8 +7,9 @@
             "title": "Brass: Birmingham",
             "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
             "year": 2018,
+            "bggRank": 1,
             "rating": 8.59,
-            "votes": 46932,
+            "votes": 47055,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -18,7 +19,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.8774,
+            "weight": 3.8771,
             "images": {
                 "default": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard/img/jRj9wl9q5_zv1Og0fi8vLqYsXGE=/0x226:1200x901/288x162/filters:strip_icc()/pic3490053.jpg",
                 "2x": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__mediacard@2x/img/3pW54SpsB2HIGKMbnvVH3GPN4NE=/0x226:1200x901/576x324/filters:strip_icc()/pic3490053.jpg",
@@ -32,8 +33,9 @@
             "title": "Pandemic Legacy: Season 1",
             "description": "Mutating diseases are spreading around the world - can your team save humanity?",
             "year": 2015,
+            "bggRank": 2,
             "rating": 8.53,
-            "votes": 53841,
+            "votes": 53880,
             "duration": {
                 "min": 60,
                 "max": 60
@@ -43,7 +45,7 @@
                 "max": 4
             },
             "minage": 13,
-            "weight": 2.8303,
+            "weight": 2.8298,
             "images": {
                 "default": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__mediacard/img/4Pq43wZTLmX1zFeY1RzebYs660I=/0x148:899x654/288x162/filters:strip_icc()/pic2452831.png",
                 "2x": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__mediacard@2x/img/ZGA2MbbQ4XCEUCa6itgKvH5zY0M=/0x148:899x654/576x324/filters:strip_icc()/pic2452831.png",
@@ -57,8 +59,9 @@
             "title": "Gloomhaven",
             "description": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
             "year": 2017,
+            "bggRank": 3,
             "rating": 8.58,
-            "votes": 62640,
+            "votes": 62696,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -82,8 +85,9 @@
             "title": "Ark Nova",
             "description": "Plan and build a modern, scientifically managed zoo to support conservation projects.",
             "year": 2021,
+            "bggRank": 4,
             "rating": 8.54,
-            "votes": 44844,
+            "votes": 45030,
             "duration": {
                 "min": 90,
                 "max": 150
@@ -93,7 +97,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.7655,
+            "weight": 3.7669,
             "images": {
                 "default": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__mediacard/img/VxCvketCpD0r4x0G6Qs8BAu-fUw=/0x2323:3543x4316/288x162/filters:strip_icc()/pic6293412.jpg",
                 "2x": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__mediacard@2x/img/g_woPLS8SwfZd4ES9hcyVUfHrs8=/0x2323:3543x4316/576x324/filters:strip_icc()/pic6293412.jpg",
@@ -107,8 +111,9 @@
             "title": "Twilight Imperium: Fourth Edition",
             "description": "Build an intergalactic empire through trade, research, conquest and grand politics.",
             "year": 2017,
+            "bggRank": 5,
             "rating": 8.6,
-            "votes": 24178,
+            "votes": 24223,
             "duration": {
                 "min": 240,
                 "max": 480
@@ -118,7 +123,7 @@
                 "max": 6
             },
             "minage": 14,
-            "weight": 4.3173,
+            "weight": 4.3187,
             "images": {
                 "default": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__mediacard/img/ho6Zlrpju5aChmd5co6dlqffmS0=/0x0:5233x2944/288x162/filters:strip_icc()/pic3727516.jpg",
                 "2x": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__mediacard@2x/img/-aTjgZ8hIcw4XW-X7-sbB7MqTc8=/0x0:5233x2944/576x324/filters:strip_icc()/pic3727516.jpg",
@@ -132,8 +137,9 @@
             "title": "Dune: Imperium",
             "description": "Influence, intrigue, and combat in the universe of Dune.",
             "year": 2020,
+            "bggRank": 6,
             "rating": 8.43,
-            "votes": 46623,
+            "votes": 46787,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -143,7 +149,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.0483,
+            "weight": 3.0487,
             "images": {
                 "default": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__mediacard/img/lHok12fsliGKu-YKWMYIRv6MsMU=/0x0:600x338/288x162/filters:strip_icc()/pic5666597.jpg",
                 "2x": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__mediacard@2x/img/x2WpncO1LZNgk4GzzOq7u40cGj8=/0x0:600x338/576x324/filters:strip_icc()/pic5666597.jpg",
@@ -157,8 +163,9 @@
             "title": "Terraforming Mars",
             "description": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
             "year": 2016,
+            "bggRank": 7,
             "rating": 8.36,
-            "votes": 100193,
+            "votes": 100322,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -168,7 +175,7 @@
                 "max": 5
             },
             "minage": 12,
-            "weight": 3.2628,
+            "weight": 3.2634,
             "images": {
                 "default": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__mediacard/img/IecPV_tfudPO-IeRhYZHO6KRHoc=/0x651:1500x1495/288x162/filters:strip_icc()/pic3536616.jpg",
                 "2x": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__mediacard@2x/img/-Uk0TnRLYk_wmQyJ5EXoUNKc1X4=/0x651:1500x1495/576x324/filters:strip_icc()/pic3536616.jpg",
@@ -182,8 +189,9 @@
             "title": "War of the Ring: Second Edition",
             "description": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.",
             "year": 2011,
+            "bggRank": 8,
             "rating": 8.54,
-            "votes": 21660,
+            "votes": 21700,
             "duration": {
                 "min": 150,
                 "max": 180
@@ -193,7 +201,7 @@
                 "max": 4
             },
             "minage": 13,
-            "weight": 4.2146,
+            "weight": 4.2151,
             "images": {
                 "default": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__mediacard/img/U3CsXIHbbJbUgji9fGEFZeOzOHY=/0x0:1435x807/288x162/filters:strip_icc()/pic1215633.jpg",
                 "2x": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__mediacard@2x/img/FabIHu99sRh4IAjZcC-eleVd6Nw=/0x0:1435x807/576x324/filters:strip_icc()/pic1215633.jpg",
@@ -207,8 +215,9 @@
             "title": "Star Wars: Rebellion",
             "description": "Strike from your hidden base as the Rebels—or find and destroy it as the Empire.",
             "year": 2016,
+            "bggRank": 9,
             "rating": 8.42,
-            "votes": 32829,
+            "votes": 32872,
             "duration": {
                 "min": 180,
                 "max": 240
@@ -218,7 +227,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.7411,
+            "weight": 3.74,
             "images": {
                 "default": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__mediacard/img/9PnVE_MhFMLpT29XHGHl6aF1FUk=/0x0:480x270/288x162/filters:strip_icc()/pic4325841.jpg",
                 "2x": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__mediacard@2x/img/wLIho5XD3mc_QmXNVgvGQTndxew=/0x0:480x270/576x324/filters:strip_icc()/pic4325841.jpg",
@@ -232,8 +241,9 @@
             "title": "Gloomhaven: Jaws of the Lion",
             "description": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign.",
             "year": 2020,
+            "bggRank": 10,
             "rating": 8.43,
-            "votes": 34844,
+            "votes": 34941,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -243,7 +253,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.6419,
+            "weight": 3.6436,
             "images": {
                 "default": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__mediacard/img/pLv_SdUXyJQiQsiLkvd45pDSLwQ=/0x0:702x395/288x162/filters:strip_icc()/pic5055631.jpg",
                 "2x": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__mediacard@2x/img/NJCeGPUmJ7YQ-D1PYerKcApuCZY=/0x0:702x395/576x324/filters:strip_icc()/pic5055631.jpg",
@@ -257,8 +267,9 @@
             "title": "Spirit Island",
             "description": "Island Spirits join forces using elemental powers to defend their home from invaders.",
             "year": 2017,
+            "bggRank": 11,
             "rating": 8.34,
-            "votes": 52493,
+            "votes": 52609,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -268,7 +279,7 @@
                 "max": 4
             },
             "minage": 13,
-            "weight": 4.0682,
+            "weight": 4.0684,
             "images": {
                 "default": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__mediacard/img/f6TPXLQRQP5Uv9lJ4BBhvgSPeBo=/0x0:1680x945/288x162/filters:strip_icc()/pic7013651.jpg",
                 "2x": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__mediacard@2x/img/a_D7LspxOtAxEWD7ArsxTXbpZ0c=/0x0:1680x945/576x324/filters:strip_icc()/pic7013651.jpg",
@@ -282,8 +293,9 @@
             "title": "Gaia Project",
             "description": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
             "year": 2017,
+            "bggRank": 12,
             "rating": 8.37,
-            "votes": 27456,
+            "votes": 27503,
             "duration": {
                 "min": 60,
                 "max": 150
@@ -293,7 +305,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 4.3923,
+            "weight": 4.3926,
             "images": {
                 "default": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__mediacard/img/VovXeiCOwNe6_PAkSiTJNVbEkGs=/0x0:1864x1049/288x162/filters:strip_icc()/pic5375625.png",
                 "2x": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__mediacard@2x/img/7z6cl8c8Ksth6l_hMO-EEisnPW4=/0x0:1864x1049/576x324/filters:strip_icc()/pic5375625.png",
@@ -307,14 +319,15 @@
             "title": "Twilight Struggle",
             "description": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
             "year": 2005,
+            "bggRank": 13,
             "rating": 8.25,
-            "votes": 49065,
+            "votes": 49100,
             "duration": {
                 "min": 120,
                 "max": 180
             },
             "players": {
-                "min": 1,
+                "min": 2,
                 "max": 2
             },
             "minage": 13,
@@ -332,8 +345,9 @@
             "title": "Through the Ages: A New Story of Civilization",
             "description": "Rewrite history as you build up your civilization in this epic card drafting game!",
             "year": 2015,
-            "rating": 8.29,
-            "votes": 31914,
+            "bggRank": 14,
+            "rating": 8.28,
+            "votes": 31961,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -357,8 +371,9 @@
             "title": "Great Western Trail",
             "description": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
             "year": 2016,
+            "bggRank": 15,
             "rating": 8.19,
-            "votes": 41129,
+            "votes": 41159,
             "duration": {
                 "min": 75,
                 "max": 150
@@ -382,8 +397,9 @@
             "title": "The Castles of Burgundy",
             "description": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
             "year": 2011,
+            "bggRank": 16,
             "rating": 8.14,
-            "votes": 62822,
+            "votes": 62900,
             "duration": {
                 "min": 30,
                 "max": 90
@@ -393,7 +409,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 2.9786,
+            "weight": 2.9782,
             "images": {
                 "default": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__mediacard/img/2Ev_xnV1O9ROcAfp8E5WRysdXhs=/0x3:310x177/288x162/filters:strip_icc()/pic1176894.jpg",
                 "2x": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__mediacard@2x/img/Yi1PGP3tsybz1idl5Jn_qiyWWVg=/0x3:310x177/576x324/filters:strip_icc()/pic1176894.jpg",
@@ -407,8 +423,9 @@
             "title": "Scythe",
             "description": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe.",
             "year": 2016,
+            "bggRank": 17,
             "rating": 8.14,
-            "votes": 84318,
+            "votes": 84413,
             "duration": {
                 "min": 90,
                 "max": 115
@@ -418,7 +435,7 @@
                 "max": 5
             },
             "minage": 14,
-            "weight": 3.4456,
+            "weight": 3.4452,
             "images": {
                 "default": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__mediacard/img/Zrq8zWXxC3C_RQPSpPOouYi-o5o=/0x0:4259x2396/288x162/filters:strip_icc()/pic3163924.jpg",
                 "2x": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__mediacard@2x/img/VgiEm3GpgpX0y5LGbS02mt11XeQ=/0x0:4259x2396/576x324/filters:strip_icc()/pic3163924.jpg",
@@ -432,8 +449,9 @@
             "title": "Eclipse: Second Dawn for the Galaxy",
             "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
             "year": 2020,
+            "bggRank": 18,
             "rating": 8.45,
-            "votes": 13920,
+            "votes": 13961,
             "duration": {
                 "min": 60,
                 "max": 200
@@ -443,7 +461,7 @@
                 "max": 6
             },
             "minage": 14,
-            "weight": 3.6467,
+            "weight": 3.6448,
             "images": {
                 "default": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__mediacard/img/mO_Ayp0pxG2SCTwqSOx7VgmAwTU=/0x700:5388x3731/288x162/filters:strip_icc()/pic5235277.jpg",
                 "2x": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__mediacard@2x/img/O8SEpLIZA6JpQ9o8yUZt1JgrA5c=/0x700:5388x3731/576x324/filters:strip_icc()/pic5235277.jpg",
@@ -457,8 +475,9 @@
             "title": "7 Wonders Duel",
             "description": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
             "year": 2015,
+            "bggRank": 19,
             "rating": 8.09,
-            "votes": 95728,
+            "votes": 95859,
             "duration": {
                 "min": 30,
                 "max": 30
@@ -468,7 +487,7 @@
                 "max": 2
             },
             "minage": 10,
-            "weight": 2.2282,
+            "weight": 2.228,
             "images": {
                 "default": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__mediacard/img/OTmEfmtsErSd1otMsKfvjDMrNgo=/0x0:720x405/288x162/filters:strip_icc()/pic2576399.jpg",
                 "2x": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__mediacard@2x/img/-Y-w00_djtCCOHB6LTdTwqvAaOM=/0x0:720x405/576x324/filters:strip_icc()/pic2576399.jpg",
@@ -482,8 +501,9 @@
             "title": "Brass: Lancashire",
             "description": "Test your economic mettle as you build and network in the Industrial Revolution.",
             "year": 2007,
+            "bggRank": 20,
             "rating": 8.19,
-            "votes": 25116,
+            "votes": 25134,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -507,8 +527,9 @@
             "title": "Nemesis",
             "description": "Survive an alien-infested spaceship, but beware of other players and their agendas!",
             "year": 2018,
+            "bggRank": 21,
             "rating": 8.27,
-            "votes": 31055,
+            "votes": 31128,
             "duration": {
                 "min": 90,
                 "max": 180
@@ -532,8 +553,9 @@
             "title": "Clank! Legacy: Acquisitions Incorporated",
             "description": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\"",
             "year": 2019,
+            "bggRank": 22,
             "rating": 8.53,
-            "votes": 9568,
+            "votes": 9578,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -557,8 +579,9 @@
             "title": "A Feast for Odin",
             "description": "Puzzle together the life of a Viking village as you hunt, farm, craft, and explore.",
             "year": 2016,
+            "bggRank": 23,
             "rating": 8.17,
-            "votes": 28890,
+            "votes": 28944,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -582,8 +605,9 @@
             "title": "Concordia",
             "description": "Merchants build and trade throughout the Roman Empire to please the Gods.",
             "year": 2013,
+            "bggRank": 24,
             "rating": 8.09,
-            "votes": 40852,
+            "votes": 40892,
             "duration": {
                 "min": 100,
                 "max": 100
@@ -607,8 +631,9 @@
             "title": "Great Western Trail: Second Edition",
             "description": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City.",
             "year": 2021,
+            "bggRank": 25,
             "rating": 8.33,
-            "votes": 13108,
+            "votes": 13167,
             "duration": {
                 "min": 75,
                 "max": 150
@@ -618,7 +643,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.7203,
+            "weight": 3.7192,
             "images": {
                 "default": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__mediacard/img/I6VXYNW418qjG-tHOEiVCMKbvvE=/0x0:1756x988/288x162/filters:strip_icc()/pic5988511.jpg",
                 "2x": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__mediacard@2x/img/RSjYUfXy6sKBo_VmBzK87lmXU98=/0x0:1756x988/576x324/filters:strip_icc()/pic5988511.jpg",
@@ -632,8 +657,9 @@
             "title": "Frosthaven",
             "description": "Adventure in the frozen north and build up your outpost throughout an epic campaign.",
             "year": 2022,
+            "bggRank": 26,
             "rating": 8.83,
-            "votes": 7205,
+            "votes": 7226,
             "duration": {
                 "min": 90,
                 "max": 180
@@ -643,7 +669,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 4.3676,
+            "weight": 4.3693,
             "images": {
                 "default": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__mediacard/img/uVhC2ylhlEw7cug3heW0CnM9YQw=/0x0:600x338/288x162/filters:strip_icc()/pic5092291.png",
                 "2x": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__mediacard@2x/img/6culAx27wWjtQR9cHEjz1hM3lQo=/0x0:600x338/576x324/filters:strip_icc()/pic5092291.png",
@@ -657,8 +683,9 @@
             "title": "Arkham Horror: The Card Game",
             "description": "Investigate the horrors of Arkham while courting cosmic doom.",
             "year": 2016,
+            "bggRank": 27,
             "rating": 8.13,
-            "votes": 43498,
+            "votes": 43538,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -668,7 +695,7 @@
                 "max": 2
             },
             "minage": 14,
-            "weight": 3.5409,
+            "weight": 3.5414,
             "images": {
                 "default": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__mediacard/img/pKXIYvMbAY0zTYfnk1wSAzsHWBo=/0x0:602x339/288x162/filters:strip_icc()/pic3122349.jpg",
                 "2x": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__mediacard@2x/img/x2FlxKM0PHIKQzS7D7reGRnImUA=/0x0:602x339/576x324/filters:strip_icc()/pic3122349.jpg",
@@ -682,8 +709,9 @@
             "title": "Lost Ruins of Arnak",
             "description": "Explore an island to find resources and discover the lost ruins of Arnak.",
             "year": 2020,
+            "bggRank": 28,
             "rating": 8.07,
-            "votes": 45083,
+            "votes": 45198,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -693,7 +721,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 2.9214,
+            "weight": 2.9215,
             "images": {
                 "default": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__mediacard/img/ScBU7uekxKxiN0jgmFghGdalakA=/0x0:1387x780/288x162/filters:strip_icc()/pic5674958.jpg",
                 "2x": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__mediacard@2x/img/Z2p2aa17rmMlYEkkTJ1Ya5-xABU=/0x0:1387x780/576x324/filters:strip_icc()/pic5674958.jpg",
@@ -707,8 +735,9 @@
             "title": "Terra Mystica",
             "description": "Play fantastical factions.  Expand your influence by terraforming and joining cults.",
             "year": 2012,
+            "bggRank": 29,
             "rating": 8.06,
-            "votes": 48241,
+            "votes": 48271,
             "duration": {
                 "min": 60,
                 "max": 150
@@ -732,8 +761,9 @@
             "title": "Wingspan",
             "description": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
             "year": 2019,
+            "bggRank": 30,
             "rating": 8.04,
-            "votes": 94725,
+            "votes": 94917,
             "duration": {
                 "min": 40,
                 "max": 70
@@ -743,7 +773,7 @@
                 "max": 5
             },
             "minage": 10,
-            "weight": 2.4652,
+            "weight": 2.4657,
             "images": {
                 "default": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__mediacard/img/zSNZvma0PPsb-qDO4ufTc-yU5hk=/0x766:1750x1750/288x162/filters:strip_icc()/pic4458123.jpg",
                 "2x": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__mediacard@2x/img/POit0SNyEkfUSt8c4kwzs3eZar8=/0x766:1750x1750/576x324/filters:strip_icc()/pic4458123.jpg",
@@ -757,8 +787,9 @@
             "title": "Root",
             "description": "Decide the fate of the forest as woodland factions fight for contrasting goals.",
             "year": 2018,
+            "bggRank": 31,
             "rating": 8.07,
-            "votes": 52368,
+            "votes": 52502,
             "duration": {
                 "min": 60,
                 "max": 90
@@ -768,7 +799,7 @@
                 "max": 4
             },
             "minage": 10,
-            "weight": 3.8057,
+            "weight": 3.8059,
             "images": {
                 "default": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__mediacard/img/9-BzH6ykxbnzpVRdgG0R-FscjoY=/0x132:2048x1284/288x162/filters:strip_icc()/pic4254509.jpg",
                 "2x": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__mediacard@2x/img/1cgjIfLMYuzf0fZgLDIObz_ajdk=/0x132:2048x1284/576x324/filters:strip_icc()/pic4254509.jpg",
@@ -782,8 +813,9 @@
             "title": "Orléans",
             "description": "Craftsmen, scholars & monks can help you reign supreme—but who will turn up to help?",
             "year": 2014,
+            "bggRank": 32,
             "rating": 8.06,
-            "votes": 31659,
+            "votes": 31699,
             "duration": {
                 "min": 90,
                 "max": 90
@@ -807,8 +839,9 @@
             "title": "Too Many Bones",
             "description": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown.",
             "year": 2017,
+            "bggRank": 33,
             "rating": 8.34,
-            "votes": 13703,
+            "votes": 13746,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -818,7 +851,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.8531,
+            "weight": 3.8536,
             "images": {
                 "default": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__mediacard/img/SCKM2C76--SpTXDjAsN_MJDkLPY=/0x0:1430x804/288x162/filters:strip_icc()/pic6624445.png",
                 "2x": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__mediacard@2x/img/Wrg95SQArf_dOlHSK2C9FV88t5c=/0x0:1430x804/576x324/filters:strip_icc()/pic6624445.png",
@@ -832,8 +865,9 @@
             "title": "Mage Knight Board Game",
             "description": "Build your hero’s spells, abilities, and artifacts as you explore & conquer cities.",
             "year": 2011,
+            "bggRank": 34,
             "rating": 8.08,
-            "votes": 33463,
+            "votes": 33480,
             "duration": {
                 "min": 60,
                 "max": 240
@@ -857,8 +891,9 @@
             "title": "Barrage",
             "description": "Nations vie for hydroelectric dominance in a dystopia where water is power.",
             "year": 2019,
+            "bggRank": 35,
             "rating": 8.16,
-            "votes": 18006,
+            "votes": 18055,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -868,7 +903,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 4.1131,
+            "weight": 4.1138,
             "images": {
                 "default": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__mediacard/img/1IHqpdyaa3767v2eaqmz_hmQaCc=/0x2234:2685x3744/288x162/filters:strip_icc()/pic4336469.png",
                 "2x": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__mediacard@2x/img/uhhx9i8Mi8q2jtumXY6vGzXAJJ4=/0x2234:2685x3744/576x324/filters:strip_icc()/pic4336469.png",
@@ -882,8 +917,9 @@
             "title": "Everdell",
             "description": "Gather resources to develop a harmonious village of woodland critters and structures.",
             "year": 2018,
+            "bggRank": 36,
             "rating": 8.02,
-            "votes": 55743,
+            "votes": 55875,
             "duration": {
                 "min": 40,
                 "max": 80
@@ -893,7 +929,7 @@
                 "max": 4
             },
             "minage": 10,
-            "weight": 2.828,
+            "weight": 2.8266,
             "images": {
                 "default": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__mediacard/img/e3ilyrm_j3WOSeT6aoPyzvs1Xg4=/0x12:1600x912/288x162/filters:strip_icc()/pic3918905.png",
                 "2x": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__mediacard@2x/img/t9NZv63tVuxk-Lrfe1Yk_RQM_L0=/0x12:1600x912/576x324/filters:strip_icc()/pic3918905.png",
@@ -907,8 +943,9 @@
             "title": "The Crew: Mission Deep Sea",
             "description": "Dive into the deep sea in this co-operative trick-taking game with variable missions.",
             "year": 2021,
+            "bggRank": 37,
             "rating": 8.14,
-            "votes": 18211,
+            "votes": 18288,
             "duration": {
                 "min": 20,
                 "max": 20
@@ -932,8 +969,9 @@
             "title": "Viticulture Essential Edition",
             "description": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
             "year": 2015,
+            "bggRank": 38,
             "rating": 7.99,
-            "votes": 49221,
+            "votes": 49306,
             "duration": {
                 "min": 45,
                 "max": 90
@@ -957,8 +995,9 @@
             "title": "Food Chain Magnate",
             "description": "Strategically hire and manage your workforce to outcompete rival fast food chains.",
             "year": 2015,
+            "bggRank": 39,
             "rating": 8.06,
-            "votes": 20641,
+            "votes": 20665,
             "duration": {
                 "min": 120,
                 "max": 240
@@ -968,7 +1007,7 @@
                 "max": 5
             },
             "minage": 14,
-            "weight": 4.1976,
+            "weight": 4.1964,
             "images": {
                 "default": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__mediacard/img/xFvL_-IQcUSpHh7AyMUXvqnpe18=/0x243:637x601/288x162/filters:strip_icc()/pic2649434.png",
                 "2x": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__mediacard@2x/img/JdxX4-dbQ6YUdAX9Wmh-UvtS9d0=/0x243:637x601/576x324/filters:strip_icc()/pic2649434.png",
@@ -977,38 +1016,14 @@
         },
         {
             "id": 40,
-            "id_name": "heat-pedal-to-the-metal",
-            "objectId": "366013",
-            "title": "Heat: Pedal to the Metal",
-            "description": "Manage your race car's speed to keep from overheating.",
-            "year": 2022,
-            "rating": 8.06,
-            "votes": 24401,
-            "duration": {
-                "min": 30,
-                "max": 60
-            },
-            "players": {
-                "min": 1,
-                "max": 6
-            },
-            "minage": 10,
-            "weight": 2.1968,
-            "images": {
-                "default": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard/img/u-knslA6rSjeKxZcm0GoNg6dwXk=/0x0:1316x740/288x162/filters:strip_icc()/pic6940449.png",
-                "2x": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard@2x/img/gIGJPnyrTDmDd7c6BBHZR86-ULc=/0x0:1316x740/576x324/filters:strip_icc()/pic6940449.png",
-                "banner": "https://cf.geekdo-images.com/oLY-unxhNEiGlvNgt73LLA__itemheader/img/Ri4bpwJtbrhWOl2MYpTm3479xrY=/800x450/filters:quality(30):strip_icc()/pic6940454.png"
-            }
-        },
-        {
-            "id": 41,
             "id_name": "marvel-champions-the-card-game",
             "objectId": "285774",
             "title": "Marvel Champions: The Card Game",
             "description": "Battle Marvel villains with unique teams of iconic heroes in this LCG.",
             "year": 2019,
+            "bggRank": 40,
             "rating": 8.12,
-            "votes": 23987,
+            "votes": 24029,
             "duration": {
                 "min": 45,
                 "max": 90
@@ -1018,11 +1033,37 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 2.9375,
+            "weight": 2.9392,
             "images": {
                 "default": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__mediacard/img/rfGEKi-GwAo7umFSBZXNK15DWTc=/0x0:1726x971/288x162/filters:strip_icc()/pic4900321.jpg",
                 "2x": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__mediacard@2x/img/O1uAi_hZjhFpTpIXWA-ndP0N9P8=/0x0:1726x971/576x324/filters:strip_icc()/pic4900321.jpg",
                 "banner": "https://cf.geekdo-images.com/47Cpu_vBqzrPG8ltpiU1_w__itemheader/img/ylOe2Qt2IMJki3q3U08UlRErt-U=/800x450/filters:quality(30):strip_icc()/pic5060277.jpg"
+            }
+        },
+        {
+            "id": 41,
+            "id_name": "heat-pedal-to-the-metal",
+            "objectId": "366013",
+            "title": "Heat: Pedal to the Metal",
+            "description": "Manage your race car's speed to keep from overheating.",
+            "year": 2022,
+            "bggRank": 41,
+            "rating": 8.06,
+            "votes": 24596,
+            "duration": {
+                "min": 30,
+                "max": 60
+            },
+            "players": {
+                "min": 1,
+                "max": 6
+            },
+            "minage": 10,
+            "weight": 2.1957,
+            "images": {
+                "default": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard/img/u-knslA6rSjeKxZcm0GoNg6dwXk=/0x0:1316x740/288x162/filters:strip_icc()/pic6940449.png",
+                "2x": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__mediacard@2x/img/gIGJPnyrTDmDd7c6BBHZR86-ULc=/0x0:1316x740/576x324/filters:strip_icc()/pic6940449.png",
+                "banner": "https://cf.geekdo-images.com/oLY-unxhNEiGlvNgt73LLA__itemheader/img/Ri4bpwJtbrhWOl2MYpTm3479xrY=/800x450/filters:quality(30):strip_icc()/pic6940454.png"
             }
         },
         {
@@ -1032,8 +1073,9 @@
             "title": "Pax Pamir: Second Edition",
             "description": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan.",
             "year": 2019,
-            "rating": 8.19,
-            "votes": 14369,
+            "bggRank": 42,
+            "rating": 8.18,
+            "votes": 14409,
             "duration": {
                 "min": 45,
                 "max": 120
@@ -1043,7 +1085,7 @@
                 "max": 5
             },
             "minage": 13,
-            "weight": 3.8543,
+            "weight": 3.8549,
             "images": {
                 "default": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__mediacard/img/6wdHDJ-08Hga8siysTeqRgk-niw=/0x48:1673x989/288x162/filters:strip_icc()/pic4503733.png",
                 "2x": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__mediacard@2x/img/kg22MPQcIZzaBm0GVMBvf5hTIq8=/0x48:1673x989/576x324/filters:strip_icc()/pic4503733.png",
@@ -1057,8 +1099,9 @@
             "title": "Underwater Cities",
             "description": "Develop future cities on the seafloor through politics, production, and science.",
             "year": 2018,
+            "bggRank": 43,
             "rating": 8.06,
-            "votes": 19898,
+            "votes": 19930,
             "duration": {
                 "min": 80,
                 "max": 150
@@ -1068,7 +1111,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.5852,
+            "weight": 3.5836,
             "images": {
                 "default": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__mediacard/img/B63bXIE8j4r6r8m-9KeQkFukaQA=/0x0:697x392/288x162/filters:strip_icc()/pic4837710.png",
                 "2x": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__mediacard@2x/img/mJewWO21b2t2alQorH_A0OER7G4=/0x0:697x392/576x324/filters:strip_icc()/pic4837710.png",
@@ -1082,8 +1125,9 @@
             "title": "Puerto Rico",
             "description": "Ship goods, construct buildings, and choose roles that benefit you more than others.",
             "year": 2002,
-            "rating": 7.92,
-            "votes": 71229,
+            "bggRank": 44,
+            "rating": 7.91,
+            "votes": 71264,
             "duration": {
                 "min": 90,
                 "max": 150
@@ -1107,8 +1151,9 @@
             "title": "Crokinole",
             "description": "Flick discs and make trick shots in this traditional Canadian dexterity game!",
             "year": 1876,
+            "bggRank": 45,
             "rating": 8.04,
-            "votes": 18263,
+            "votes": 18306,
             "duration": {
                 "min": 30,
                 "max": 30
@@ -1127,38 +1172,14 @@
         },
         {
             "id": 46,
-            "id_name": "cascadia",
-            "objectId": "295947",
-            "title": "Cascadia",
-            "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
-            "year": 2021,
-            "rating": 7.95,
-            "votes": 40022,
-            "duration": {
-                "min": 30,
-                "max": 45
-            },
-            "players": {
-                "min": 1,
-                "max": 4
-            },
-            "minage": 10,
-            "weight": 1.8522,
-            "images": {
-                "default": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard/img/i84Rg_1papUEEM6J-rfUmqyRtBU=/0x0:1200x675/288x162/filters:strip_icc()/pic5100691.jpg",
-                "2x": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard@2x/img/lVEuGQqJKyZNeXYcebc9AdH1oL0=/0x0:1200x675/576x324/filters:strip_icc()/pic5100691.jpg",
-                "banner": "https://cf.geekdo-images.com/N6cvoAuqbs4hl0L8BmnLPw__itemheader/img/VRnQoppc8qOAfc0im_dnn8qlTyM=/800x450/filters:quality(30):strip_icc()/pic6339716.jpg"
-            }
-        },
-        {
-            "id": 47,
             "id_name": "kanban-ev",
             "objectId": "284378",
             "title": "Kanban EV",
             "description": "EV-factory workers optimize and innovate to stand out at the big board meeting.",
             "year": 2020,
+            "bggRank": 46,
             "rating": 8.42,
-            "votes": 7856,
+            "votes": 7874,
             "duration": {
                 "min": 60,
                 "max": 180
@@ -1176,14 +1197,41 @@
             }
         },
         {
+            "id": 47,
+            "id_name": "cascadia",
+            "objectId": "295947",
+            "title": "Cascadia",
+            "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
+            "year": 2021,
+            "bggRank": 47,
+            "rating": 7.95,
+            "votes": 40215,
+            "duration": {
+                "min": 30,
+                "max": 45
+            },
+            "players": {
+                "min": 1,
+                "max": 4
+            },
+            "minage": 10,
+            "weight": 1.8497,
+            "images": {
+                "default": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard/img/i84Rg_1papUEEM6J-rfUmqyRtBU=/0x0:1200x675/288x162/filters:strip_icc()/pic5100691.jpg",
+                "2x": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__mediacard@2x/img/lVEuGQqJKyZNeXYcebc9AdH1oL0=/0x0:1200x675/576x324/filters:strip_icc()/pic5100691.jpg",
+                "banner": "https://cf.geekdo-images.com/N6cvoAuqbs4hl0L8BmnLPw__itemheader/img/VRnQoppc8qOAfc0im_dnn8qlTyM=/800x450/filters:quality(30):strip_icc()/pic6339716.jpg"
+            }
+        },
+        {
             "id": 48,
             "id_name": "caverna-the-cave-farmers",
             "objectId": "102794",
             "title": "Caverna: The Cave Farmers",
             "description": "From a simple cave, expand your dwarven home through mining, agriculture, and more.",
             "year": 2013,
+            "bggRank": 48,
             "rating": 7.95,
-            "votes": 35000,
+            "votes": 35035,
             "duration": {
                 "min": 30,
                 "max": 210
@@ -1193,7 +1241,7 @@
                 "max": 7
             },
             "minage": 12,
-            "weight": 3.7774,
+            "weight": 3.777,
             "images": {
                 "default": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__mediacard/img/DIuxzj0-8vrXphX3kv9iKaTLhL4=/0x0:1235x695/288x162/filters:strip_icc()/pic5598833.jpg",
                 "2x": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__mediacard@2x/img/WNP48Gdgp08oaohIVJOjwTq_G5A=/0x0:1235x695/576x324/filters:strip_icc()/pic5598833.jpg",
@@ -1207,8 +1255,9 @@
             "title": "Anachrony",
             "description": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm.",
             "year": 2017,
+            "bggRank": 49,
             "rating": 8.07,
-            "votes": 18885,
+            "votes": 18911,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1232,8 +1281,9 @@
             "title": "Blood Rage",
             "description": "Ragnarök has come! Secure your place in Valhalla in epic Viking battles.",
             "year": 2015,
-            "rating": 7.93,
-            "votes": 47522,
+            "bggRank": 50,
+            "rating": 7.92,
+            "votes": 47570,
             "duration": {
                 "min": 60,
                 "max": 90
@@ -1243,7 +1293,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 2.8809,
+            "weight": 2.8816,
             "images": {
                 "default": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__mediacard/img/gNvm8Xa-FrBrIlpzGdwjKX_E6Tk=/0x0:2000x1125/288x162/filters:strip_icc()/pic2439223.jpg",
                 "2x": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__mediacard@2x/img/XqqY5TZ2kW_UUzfZ3u4jydzce3M=/0x0:2000x1125/576x324/filters:strip_icc()/pic2439223.jpg",
@@ -1257,8 +1307,9 @@
             "title": "On Mars",
             "description": "Be a part of the first Martian colony, striving to be the best contributor.",
             "year": 2020,
+            "bggRank": 51,
             "rating": 8.19,
-            "votes": 12826,
+            "votes": 12852,
             "duration": {
                 "min": 90,
                 "max": 150
@@ -1268,7 +1319,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 4.673,
+            "weight": 4.6728,
             "images": {
                 "default": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__mediacard/img/HpLNqxiMRXd_59LmchxLXRSCVDc=/0x1083:2015x2216/288x162/filters:strip_icc()/pic4357658.jpg",
                 "2x": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__mediacard@2x/img/_NbShk7dMsDztwxA1jU2AA1mRgY=/0x1083:2015x2216/576x324/filters:strip_icc()/pic4357658.jpg",
@@ -1282,8 +1333,9 @@
             "title": "Pandemic Legacy: Season 0",
             "description": "Work together during the Cold War to prevent a Soviet bio-threat.",
             "year": 2020,
+            "bggRank": 52,
             "rating": 8.39,
-            "votes": 7807,
+            "votes": 7830,
             "duration": {
                 "min": 45,
                 "max": 60
@@ -1307,8 +1359,9 @@
             "title": "Agricola",
             "description": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!",
             "year": 2007,
+            "bggRank": 53,
             "rating": 7.87,
-            "votes": 73082,
+            "votes": 73116,
             "duration": {
                 "min": 30,
                 "max": 150
@@ -1332,8 +1385,9 @@
             "title": "Sleeping Gods",
             "description": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea.",
             "year": 2021,
+            "bggRank": 54,
             "rating": 8.2,
-            "votes": 12389,
+            "votes": 12441,
             "duration": {
                 "min": 60,
                 "max": 1200
@@ -1352,13 +1406,40 @@
         },
         {
             "id": 55,
+            "id_name": "dune-imperium-uprising",
+            "objectId": "397598",
+            "title": "Dune: Imperium – Uprising",
+            "description": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
+            "year": 2023,
+            "bggRank": 55,
+            "rating": 8.73,
+            "votes": 5615,
+            "duration": {
+                "min": 60,
+                "max": 120
+            },
+            "players": {
+                "min": 1,
+                "max": 6
+            },
+            "minage": 13,
+            "weight": 3.4454,
+            "images": {
+                "default": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard/img/WvAdTbLWcsnMjjfvwiEXqbeagLQ=/0x0:3539x1991/288x162/filters:strip_icc()/pic7664424.jpg",
+                "2x": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard@2x/img/CMvL0xoF9CXGLha6rctkKeAxm4M=/0x0:3539x1991/576x324/filters:strip_icc()/pic7664424.jpg",
+                "banner": "https://cf.geekdo-images.com/mk8BSChUnfBFP4pEk613KQ__itemheader/img/ra8zTZK69-ucmPNWcAaPW3oSmMk=/800x450/filters:quality(30):strip_icc()/pic7680371.jpg"
+            }
+        },
+        {
+            "id": 56,
             "id_name": "lisboa",
             "objectId": "161533",
             "title": "Lisboa",
             "description": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755.",
             "year": 2017,
+            "bggRank": 56,
             "rating": 8.19,
-            "votes": 11255,
+            "votes": 11278,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1376,14 +1457,15 @@
             }
         },
         {
-            "id": 56,
+            "id": 57,
             "id_name": "pandemic-legacy-season-2",
             "objectId": "221107",
             "title": "Pandemic Legacy: Season 2",
             "description": "The world is a mystery after a devastating pandemic—where will your team go?",
             "year": 2017,
+            "bggRank": 57,
             "rating": 8.03,
-            "votes": 17002,
+            "votes": 17018,
             "duration": {
                 "min": 60,
                 "max": 60
@@ -1401,14 +1483,15 @@
             }
         },
         {
-            "id": 57,
+            "id": 58,
             "id_name": "cthulhu-death-may-die",
             "objectId": "253344",
             "title": "Cthulhu: Death May Die",
             "description": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker.",
             "year": 2019,
+            "bggRank": 58,
             "rating": 8.18,
-            "votes": 12790,
+            "votes": 12838,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -1426,14 +1509,15 @@
             }
         },
         {
-            "id": 58,
+            "id": 59,
             "id_name": "mansions-of-madness-second-edition",
             "objectId": "205059",
             "title": "Mansions of Madness: Second Edition",
             "description": "Unravel mysteries in Arkham with your investigative team in this app-guided game.",
             "year": 2016,
-            "rating": 7.95,
-            "votes": 36710,
+            "bggRank": 59,
+            "rating": 7.94,
+            "votes": 36746,
             "duration": {
                 "min": 120,
                 "max": 180
@@ -1443,36 +1527,11 @@
                 "max": 5
             },
             "minage": 14,
-            "weight": 2.691,
+            "weight": 2.6897,
             "images": {
                 "default": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__mediacard/img/g9sRs6JGEhlq20ymvLqb6WRX1ak=/0x0:600x338/288x162/filters:strip_icc()/pic3118622.jpg",
                 "2x": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__mediacard@2x/img/drvGA4Mrp0QEk9RLE-PP-Ep-gOQ=/0x0:600x338/576x324/filters:strip_icc()/pic3118622.jpg",
                 "banner": "https://cf.geekdo-images.com/m9ZedNP_8LjWTwlSsrvY3w__itemheader/img/SZWn9pkWi5O_1OENTo5wropKhVw=/800x450/filters:quality(30):strip_icc()/pic3112719.png"
-            }
-        },
-        {
-            "id": 59,
-            "id_name": "dune-imperium-uprising",
-            "objectId": "397598",
-            "title": "Dune: Imperium – Uprising",
-            "description": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
-            "year": 2023,
-            "rating": 8.73,
-            "votes": 5430,
-            "duration": {
-                "min": 60,
-                "max": 120
-            },
-            "players": {
-                "min": 1,
-                "max": 6
-            },
-            "minage": 13,
-            "weight": 3.45,
-            "images": {
-                "default": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard/img/WvAdTbLWcsnMjjfvwiEXqbeagLQ=/0x0:3539x1991/288x162/filters:strip_icc()/pic7664424.jpg",
-                "2x": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__mediacard@2x/img/CMvL0xoF9CXGLha6rctkKeAxm4M=/0x0:3539x1991/576x324/filters:strip_icc()/pic7664424.jpg",
-                "banner": "https://cf.geekdo-images.com/mk8BSChUnfBFP4pEk613KQ__itemheader/img/ra8zTZK69-ucmPNWcAaPW3oSmMk=/800x450/filters:quality(30):strip_icc()/pic7680371.jpg"
             }
         },
         {
@@ -1482,8 +1541,9 @@
             "title": "Obsession",
             "description": "Renovate an estate, manage servants, and pursue romance in Victorian England.",
             "year": 2018,
+            "bggRank": 60,
             "rating": 8.14,
-            "votes": 12878,
+            "votes": 12931,
             "duration": {
                 "min": 30,
                 "max": 90
@@ -1493,7 +1553,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.1006,
+            "weight": 3.1004,
             "images": {
                 "default": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__mediacard/img/2QNWzv5_GQr3qUw4t44Tt-7Vs9o=/0x0:1900x1069/288x162/filters:strip_icc()/pic5902073.png",
                 "2x": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__mediacard@2x/img/ayo8xn0TpYeJPPMQRDlFauoiFI0=/0x0:1900x1069/576x324/filters:strip_icc()/pic5902073.png",
@@ -1507,8 +1567,9 @@
             "title": "Tzolk'in: The Mayan Calendar",
             "description": "Lead your people, build monuments and make offerings to earn the favour of the gods.",
             "year": 2012,
+            "bggRank": 61,
             "rating": 7.86,
-            "votes": 39575,
+            "votes": 39612,
             "duration": {
                 "min": 90,
                 "max": 90
@@ -1518,7 +1579,7 @@
                 "max": 4
             },
             "minage": 13,
-            "weight": 3.6662,
+            "weight": 3.6663,
             "images": {
                 "default": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__mediacard/img/U1U2ECr9IIMvsVYSdNJGnutLi8c=/0x0:1000x563/288x162/filters:strip_icc()/pic4604439.jpg",
                 "2x": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__mediacard@2x/img/58aDvVV378c7bye0JVd4s-jFdMA=/0x0:1000x563/576x324/filters:strip_icc()/pic4604439.jpg",
@@ -1532,8 +1593,9 @@
             "title": "Power Grid",
             "description": "Bid, network, and manage resources in a race to supply the most cities with power.",
             "year": 2004,
+            "bggRank": 62,
             "rating": 7.81,
-            "votes": 65778,
+            "votes": 65820,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -1557,8 +1619,9 @@
             "title": "Maracaibo",
             "description": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean.",
             "year": 2019,
+            "bggRank": 63,
             "rating": 8.01,
-            "votes": 16529,
+            "votes": 16550,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1568,7 +1631,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.9183,
+            "weight": 3.9197,
             "images": {
                 "default": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__mediacard/img/hlOqobUr-UTzIKO3frOFbTS9KtM=/0x90:480x388/fit-in/288x162/filters:fill(blur):strip_icc()/pic4917407.jpg",
                 "2x": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__mediacard@2x/img/INwBOTLJqh5FHCtk8CKqHNbARx8=/0x90:480x388/fit-in/576x324/filters:fill(blur):strip_icc()/pic4917407.jpg",
@@ -1582,8 +1645,9 @@
             "title": "Grand Austria Hotel",
             "description": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age.",
             "year": 2015,
+            "bggRank": 64,
             "rating": 7.95,
-            "votes": 21278,
+            "votes": 21324,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1607,8 +1671,9 @@
             "title": "Oathsworn: Into the Deepwood",
             "description": "Fight for humanity's survival against unnatural horrors and the Deepwood itself.",
             "year": 2022,
+            "bggRank": 65,
             "rating": 8.96,
-            "votes": 4939,
+            "votes": 4966,
             "duration": {
                 "min": 30,
                 "max": 90
@@ -1618,7 +1683,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.6606,
+            "weight": 3.6652,
             "images": {
                 "default": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__mediacard/img/TV2M5DwDCjOP5Oku1-FyaXXHw8o=/0x526:4796x3224/288x162/filters:strip_icc()/pic6863204.jpg",
                 "2x": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__mediacard@2x/img/A6JrBGF4O4Fi1dP6q73YeOYnYnA=/0x526:4796x3224/576x324/filters:strip_icc()/pic6863204.jpg",
@@ -1627,38 +1692,14 @@
         },
         {
             "id": 66,
-            "id_name": "the-quacks-of-quedlinburg",
-            "objectId": "244521",
-            "title": "The Quacks of Quedlinburg",
-            "description": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
-            "year": 2018,
-            "rating": 7.82,
-            "votes": 50514,
-            "duration": {
-                "min": 45,
-                "max": 45
-            },
-            "players": {
-                "min": 2,
-                "max": 4
-            },
-            "minage": 10,
-            "weight": 1.9451,
-            "images": {
-                "default": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__mediacard/img/4YHdLlhxDCZ-HKmaDKh417N9Yik=/0x0:2500x1406/288x162/filters:strip_icc()/pic6137509.png",
-                "2x": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__mediacard@2x/img/AUDL9-LVZgjBcqmXB8JJKnos8dI=/0x0:2500x1406/576x324/filters:strip_icc()/pic6137509.png",
-                "banner": "https://cf.geekdo-images.com/X8Ff6-_RI29wIwLv6jc-Ng__itemheader/img/LSTYdJhvpGX1IIatb9Y7TzUVlg8=/800x450/filters:quality(30):strip_icc()/pic4490389.jpg"
-            }
-        },
-        {
-            "id": 67,
             "id_name": "hegemony-lead-your-class-to-victory",
             "objectId": "321608",
             "title": "Hegemony: Lead Your Class to Victory",
             "description": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game.",
             "year": 2023,
+            "bggRank": 66,
             "rating": 8.47,
-            "votes": 6880,
+            "votes": 6950,
             "duration": {
                 "min": 90,
                 "max": 180
@@ -1668,11 +1709,37 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 4.2007,
+            "weight": 4.1939,
             "images": {
                 "default": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__mediacard/img/58SQVt_SGrKfjkbkiVjc3GI-t14=/0x0:1772x997/288x162/filters:strip_icc()/pic5715770.jpg",
                 "2x": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__mediacard@2x/img/VH2MoJqnvfrB7MVQE7HtZEHrhtg=/0x0:1772x997/576x324/filters:strip_icc()/pic5715770.jpg",
                 "banner": "https://cf.geekdo-images.com/EbqfgIcfSBhKl7Dx-arBpQ__itemheader/img/GyvRZ4-SVvJoofQ_NoTje-ewuMM=/800x450/filters:quality(30):strip_icc()/pic6499213.jpg"
+            }
+        },
+        {
+            "id": 67,
+            "id_name": "the-quacks-of-quedlinburg",
+            "objectId": "244521",
+            "title": "The Quacks of Quedlinburg",
+            "description": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
+            "year": 2018,
+            "bggRank": 67,
+            "rating": 7.82,
+            "votes": 50620,
+            "duration": {
+                "min": 45,
+                "max": 45
+            },
+            "players": {
+                "min": 2,
+                "max": 4
+            },
+            "minage": 10,
+            "weight": 1.9452,
+            "images": {
+                "default": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__mediacard/img/4YHdLlhxDCZ-HKmaDKh417N9Yik=/0x0:2500x1406/288x162/filters:strip_icc()/pic6137509.png",
+                "2x": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__mediacard@2x/img/AUDL9-LVZgjBcqmXB8JJKnos8dI=/0x0:2500x1406/576x324/filters:strip_icc()/pic6137509.png",
+                "banner": "https://cf.geekdo-images.com/X8Ff6-_RI29wIwLv6jc-Ng__itemheader/img/LSTYdJhvpGX1IIatb9Y7TzUVlg8=/800x450/filters:quality(30):strip_icc()/pic4490389.jpg"
             }
         },
         {
@@ -1682,8 +1749,9 @@
             "title": "Clans of Caledonia",
             "description": "Lead your unique Scottish clan to economic might via production, trade, and export.",
             "year": 2017,
+            "bggRank": 68,
             "rating": 7.94,
-            "votes": 20540,
+            "votes": 20568,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1693,7 +1761,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 3.458,
+            "weight": 3.4575,
             "images": {
                 "default": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__mediacard/img/GHYoq65SyYNiTr5u-R3GAKa4ktg=/0x0:3110x1749/288x162/filters:strip_icc()/pic3511783.png",
                 "2x": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__mediacard@2x/img/QUBZ1-o7eH45DdJctfs21fba3-4=/0x0:3110x1749/576x324/filters:strip_icc()/pic3511783.png",
@@ -1707,8 +1775,9 @@
             "title": "Le Havre",
             "description": "Establish a supply chain by collecting resources, building industries, and shipping.",
             "year": 2008,
+            "bggRank": 69,
             "rating": 7.85,
-            "votes": 31873,
+            "votes": 31897,
             "duration": {
                 "min": 30,
                 "max": 150
@@ -1732,8 +1801,9 @@
             "title": "Paladins of the West Kingdom",
             "description": "Invaders are coming from everywhere.  Keep the faith and defend your homeland.",
             "year": 2019,
+            "bggRank": 70,
             "rating": 7.98,
-            "votes": 18035,
+            "votes": 18060,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -1757,8 +1827,9 @@
             "title": "The Gallerist",
             "description": "Amass a fortune, and stake your reputation by operating a lucrative art gallery.",
             "year": 2015,
+            "bggRank": 71,
             "rating": 8.02,
-            "votes": 14786,
+            "votes": 14802,
             "duration": {
                 "min": 60,
                 "max": 150
@@ -1782,8 +1853,9 @@
             "title": "Star Wars: Imperial Assault",
             "description": "Play as Rebel or Imperial forces to fulfill mission objectives.",
             "year": 2014,
+            "bggRank": 72,
             "rating": 7.96,
-            "votes": 24745,
+            "votes": 24756,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1807,8 +1879,9 @@
             "title": "Android: Netrunner",
             "description": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse.",
             "year": 2012,
+            "bggRank": 73,
             "rating": 7.88,
-            "votes": 30223,
+            "votes": 30232,
             "duration": {
                 "min": 45,
                 "max": 45
@@ -1832,8 +1905,9 @@
             "title": "Mechs vs. Minions",
             "description": "Cooperatively program and pilot your mechs to defeat an army of marauding minions.",
             "year": 2016,
+            "bggRank": 74,
             "rating": 7.97,
-            "votes": 17528,
+            "votes": 17542,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -1857,8 +1931,9 @@
             "title": "The Crew: The Quest for Planet Nine",
             "description": "Go on many planet-discovering space missions in this cooperative trick-taking game.",
             "year": 2019,
+            "bggRank": 75,
             "rating": 7.8,
-            "votes": 42227,
+            "votes": 42306,
             "duration": {
                 "min": 20,
                 "max": 20
@@ -1882,8 +1957,9 @@
             "title": "Kingdom Death: Monster",
             "description": "Try to survive in a nightmarish world that lies under eternal darkness.",
             "year": 2015,
+            "bggRank": 76,
             "rating": 8.49,
-            "votes": 9732,
+            "votes": 9740,
             "duration": {
                 "min": 60,
                 "max": 180
@@ -1907,8 +1983,9 @@
             "title": "Agricola (Revised Edition)",
             "description": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game.",
             "year": 2016,
+            "bggRank": 77,
             "rating": 7.96,
-            "votes": 18164,
+            "votes": 18194,
             "duration": {
                 "min": 30,
                 "max": 120
@@ -1932,8 +2009,9 @@
             "title": "Azul",
             "description": "Artfully embellish the walls of your palace by drafting the most beautiful tiles.",
             "year": 2017,
+            "bggRank": 78,
             "rating": 7.74,
-            "votes": 91847,
+            "votes": 92024,
             "duration": {
                 "min": 30,
                 "max": 45
@@ -1943,7 +2021,7 @@
                 "max": 4
             },
             "minage": 8,
-            "weight": 1.7645,
+            "weight": 1.7652,
             "images": {
                 "default": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__mediacard/img/Iqqta1ITVG-iHjJSjMmLqzpevAA=/0x312:1500x1156/288x162/filters:strip_icc()/pic6973671.png",
                 "2x": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__mediacard@2x/img/PXlEtiqodkV60L0KRzHknt2i2f0=/0x312:1500x1156/576x324/filters:strip_icc()/pic6973671.png",
@@ -1952,13 +2030,40 @@
         },
         {
             "id": 79,
+            "id_name": "sky-team",
+            "objectId": "373106",
+            "title": "Sky Team",
+            "description": "Pilot and co-pilot work together to land planes.",
+            "year": 2023,
+            "bggRank": 79,
+            "rating": 8.2,
+            "votes": 9166,
+            "duration": {
+                "min": 15,
+                "max": 15
+            },
+            "players": {
+                "min": 2,
+                "max": 2
+            },
+            "minage": 12,
+            "weight": 2.0378,
+            "images": {
+                "default": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__mediacard/img/_35fpOlUi_N6Vv4n_6Ghd9J8yd4=/0x201:2176x1425/288x162/filters:strip_icc()/pic7398904.jpg",
+                "2x": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__mediacard@2x/img/ziY0n-Pmit-JFCSpveEBPkj_POU=/0x201:2176x1425/576x324/filters:strip_icc()/pic7398904.jpg",
+                "banner": "https://cf.geekdo-images.com/dUZKqBthY3oqJ5G4LeD5pA__itemheader/img/ydC7tQdMedZUc2ysh-JG3dru-Yo=/800x450/filters:quality(30):strip_icc()/pic7812598.jpg"
+            }
+        },
+        {
+            "id": 80,
             "id_name": "race-for-the-galaxy",
             "objectId": "28143",
             "title": "Race for the Galaxy",
             "description": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
             "year": 2007,
+            "bggRank": 80,
             "rating": 7.74,
-            "votes": 55778,
+            "votes": 55812,
             "duration": {
                 "min": 30,
                 "max": 60
@@ -1976,39 +2081,15 @@
             }
         },
         {
-            "id": 80,
-            "id_name": "sky-team",
-            "objectId": "373106",
-            "title": "Sky Team",
-            "description": "Pilot and co-pilot work together to land planes.",
-            "year": 2023,
-            "rating": 8.2,
-            "votes": 8927,
-            "duration": {
-                "min": 15,
-                "max": 15
-            },
-            "players": {
-                "min": 2,
-                "max": 2
-            },
-            "minage": 12,
-            "weight": 2.0468,
-            "images": {
-                "default": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__mediacard/img/_35fpOlUi_N6Vv4n_6Ghd9J8yd4=/0x201:2176x1425/288x162/filters:strip_icc()/pic7398904.jpg",
-                "2x": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__mediacard@2x/img/ziY0n-Pmit-JFCSpveEBPkj_POU=/0x201:2176x1425/576x324/filters:strip_icc()/pic7398904.jpg",
-                "banner": "https://cf.geekdo-images.com/dUZKqBthY3oqJ5G4LeD5pA__itemheader/img/ydC7tQdMedZUc2ysh-JG3dru-Yo=/800x450/filters:quality(30):strip_icc()/pic7812598.jpg"
-            }
-        },
-        {
             "id": 81,
             "id_name": "five-tribes-the-djinns-of-naqala",
             "objectId": "157354",
             "title": "Five Tribes: The Djinns of Naqala",
             "description": "Move assassins, elders & builders through Naqala to claim oases & control djinns.",
             "year": 2014,
+            "bggRank": 81,
             "rating": 7.77,
-            "votes": 41748,
+            "votes": 41784,
             "duration": {
                 "min": 40,
                 "max": 80
@@ -2032,8 +2113,9 @@
             "title": "Eclipse: New Dawn for the Galaxy",
             "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
             "year": 2011,
+            "bggRank": 82,
             "rating": 7.83,
-            "votes": 28452,
+            "votes": 28463,
             "duration": {
                 "min": 60,
                 "max": 180
@@ -2057,8 +2139,9 @@
             "title": "Clank!: A Deck-Building Adventure",
             "description": "Claim your treasures but don't attract the dragon in this deck-building dungeon race.",
             "year": 2016,
+            "bggRank": 83,
             "rating": 7.78,
-            "votes": 42733,
+            "votes": 42788,
             "duration": {
                 "min": 30,
                 "max": 60
@@ -2068,7 +2151,7 @@
                 "max": 4
             },
             "minage": 12,
-            "weight": 2.2242,
+            "weight": 2.224,
             "images": {
                 "default": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__mediacard/img/mfnlPUpjUswnDDtmj003t99NrRQ=/0x0:1497x842/288x162/filters:strip_icc()/pic4449526.jpg",
                 "2x": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__mediacard@2x/img/UPUePhP7ihF6QBSdR1iE5ocC5hQ=/0x0:1497x842/576x324/filters:strip_icc()/pic4449526.jpg",
@@ -2082,8 +2165,9 @@
             "title": "Aeon's End",
             "description": "Mages must reach their full potential to defend humanity from terrible monstrosities.",
             "year": 2016,
+            "bggRank": 84,
             "rating": 7.9,
-            "votes": 20956,
+            "votes": 20990,
             "duration": {
                 "min": 60,
                 "max": 60
@@ -2093,7 +2177,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 2.814,
+            "weight": 2.8127,
             "images": {
                 "default": "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__mediacard/img/s5Alx3LGWRk9Gi0KwsZtSKDFaNU=/0x0:1600x900/288x162/filters:strip_icc()/pic3189350.jpg",
                 "2x": "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__mediacard@2x/img/Km02CiJTmw0Hs2PO3EpgZLjuFoU=/0x0:1600x900/576x324/filters:strip_icc()/pic3189350.jpg",
@@ -2107,8 +2191,9 @@
             "title": "Fields of Arle",
             "description": "Construct dikes, drain bogs, harvest flax and tend to newborn animals in East Frisia.",
             "year": 2014,
+            "bggRank": 85,
             "rating": 8.03,
-            "votes": 11122,
+            "votes": 11139,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2118,7 +2203,7 @@
                 "max": 2
             },
             "minage": 13,
-            "weight": 3.845,
+            "weight": 3.842,
             "images": {
                 "default": "https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__mediacard/img/ShCFW5s-zVaDNgmYtMvuOAD54m8=/0x0:567x319/288x162/filters:strip_icc()/pic2225968.png",
                 "2x": "https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__mediacard@2x/img/VR25oKM6e_dKp6T4aBan987CEjE=/0x0:567x319/576x324/filters:strip_icc()/pic2225968.png",
@@ -2132,8 +2217,9 @@
             "title": "Beyond the Sun",
             "description": "Collectively develop a tech tree to fuel new discoveries and colonize space.",
             "year": 2020,
+            "bggRank": 86,
             "rating": 7.92,
-            "votes": 14844,
+            "votes": 14872,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2143,7 +2229,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.125,
+            "weight": 3.1247,
             "images": {
                 "default": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard/img/joQwWfHLUgc2PgoSOLgPHwVGtWo=/0x0:4371x2459/288x162/filters:strip_icc()/pic5617866.jpg",
                 "2x": "https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__mediacard@2x/img/lQq_-XEqiMFUr37c6tShVxZNTAM=/0x0:4371x2459/576x324/filters:strip_icc()/pic5617866.jpg",
@@ -2157,8 +2243,9 @@
             "title": "Teotihuacan: City of Gods",
             "description": "Use your worker dice to raise the legendary and breathtaking Pyramid of the Sun.",
             "year": 2018,
+            "bggRank": 87,
             "rating": 7.86,
-            "votes": 20105,
+            "votes": 20127,
             "duration": {
                 "min": 90,
                 "max": 120
@@ -2168,7 +2255,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.7775,
+            "weight": 3.778,
             "images": {
                 "default": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard/img/KQPVoFcvfMeDzuqxqgPY4CTlzdk=/0x0:3425x1927/288x162/filters:strip_icc()/pic4583626.jpg",
                 "2x": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__mediacard@2x/img/WAYzAuoKT_XMBbMyYMSM7FTLdc8=/0x0:3425x1927/576x324/filters:strip_icc()/pic4583626.jpg",
@@ -2182,8 +2269,9 @@
             "title": "Lords of Waterdeep",
             "description": "Deploy agents and hire adventurers to expand your control over the city of Waterdeep.",
             "year": 2012,
+            "bggRank": 88,
             "rating": 7.73,
-            "votes": 55892,
+            "votes": 55938,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2207,8 +2295,9 @@
             "title": "Through the Ages: A Story of Civilization",
             "description": "Lead your civilization through strategic drafting of leaders, technologies, and more.",
             "year": 2006,
+            "bggRank": 89,
             "rating": 7.84,
-            "votes": 19435,
+            "votes": 19442,
             "duration": {
                 "min": 120,
                 "max": 120
@@ -2227,38 +2316,14 @@
         },
         {
             "id": 90,
-            "id_name": "dominant-species",
-            "objectId": "62219",
-            "title": "Dominant Species",
-            "description": "With an ice age approaching, which animals will best propagate, migrate, and adapt?",
-            "year": 2010,
-            "rating": 7.81,
-            "votes": 21356,
-            "duration": {
-                "min": 120,
-                "max": 240
-            },
-            "players": {
-                "min": 2,
-                "max": 6
-            },
-            "minage": 14,
-            "weight": 4.0405,
-            "images": {
-                "default": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard/img/RUkeVewZv9zFVt0nOWkTbgzk2TE=/0x2:492x278/288x162/filters:strip_icc()/pic784193.jpg",
-                "2x": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard@2x/img/9S9of9II5UBs8rpakF-7g8NEWqc=/0x2:492x278/576x324/filters:strip_icc()/pic784193.jpg",
-                "banner": "https://cf.geekdo-images.com/_MnzcktXV81bLMElirIvTA__itemheader/img/TSxgxS5tCEImBlx-krKh2bHX1LU=/800x450/filters:quality(30):strip_icc()/pic2023669.jpg"
-            }
-        },
-        {
-            "id": 91,
             "id_name": "el-grande",
             "objectId": "93",
             "title": "El Grande",
             "description": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!",
             "year": 1995,
+            "bggRank": 90,
             "rating": 7.76,
-            "votes": 29275,
+            "votes": 29325,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2276,14 +2341,41 @@
             }
         },
         {
+            "id": 91,
+            "id_name": "dominant-species",
+            "objectId": "62219",
+            "title": "Dominant Species",
+            "description": "With an ice age approaching, which animals will best propagate, migrate, and adapt?",
+            "year": 2010,
+            "bggRank": 91,
+            "rating": 7.81,
+            "votes": 21371,
+            "duration": {
+                "min": 120,
+                "max": 240
+            },
+            "players": {
+                "min": 2,
+                "max": 6
+            },
+            "minage": 14,
+            "weight": 4.0405,
+            "images": {
+                "default": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard/img/RUkeVewZv9zFVt0nOWkTbgzk2TE=/0x2:492x278/288x162/filters:strip_icc()/pic784193.jpg",
+                "2x": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__mediacard@2x/img/9S9of9II5UBs8rpakF-7g8NEWqc=/0x2:492x278/576x324/filters:strip_icc()/pic784193.jpg",
+                "banner": "https://cf.geekdo-images.com/_MnzcktXV81bLMElirIvTA__itemheader/img/TSxgxS5tCEImBlx-krKh2bHX1LU=/800x450/filters:quality(30):strip_icc()/pic2023669.jpg"
+            }
+        },
+        {
             "id": 92,
             "id_name": "age-of-innovation",
             "objectId": "383179",
             "title": "Age of Innovation",
             "description": "Terraform the world to expand your faction and create innovations on the way.",
             "year": 2023,
-            "rating": 8.69,
-            "votes": 4254,
+            "bggRank": 92,
+            "rating": 8.68,
+            "votes": 4321,
             "duration": {
                 "min": 40,
                 "max": 200
@@ -2293,7 +2385,7 @@
                 "max": 5
             },
             "minage": 14,
-            "weight": 4.2359,
+            "weight": 4.2404,
             "images": {
                 "default": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__mediacard/img/_m_5yZf-MoKX3aAMoL1ec7Krlzc=/0x0:1435x807/288x162/filters:strip_icc()/pic7430993.jpg",
                 "2x": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__mediacard@2x/img/FPOTeVWJcVUxuxXBe7QVD4uRKoQ=/0x0:1435x807/576x324/filters:strip_icc()/pic7430993.jpg",
@@ -2307,8 +2399,9 @@
             "title": "The Voyages of Marco Polo",
             "description": "Using unique abilities, fulfill contracts and reach your goals along the Silk Road.",
             "year": 2015,
+            "bggRank": 93,
             "rating": 7.78,
-            "votes": 25012,
+            "votes": 25026,
             "duration": {
                 "min": 40,
                 "max": 100
@@ -2332,8 +2425,9 @@
             "title": "7 Wonders",
             "description": "Draft cards to develop your ancient civilization and build its Wonder of the World.",
             "year": 2010,
+            "bggRank": 94,
             "rating": 7.68,
-            "votes": 105294,
+            "votes": 105376,
             "duration": {
                 "min": 30,
                 "max": 30
@@ -2357,8 +2451,9 @@
             "title": "Robinson Crusoe: Adventures on the Cursed Island",
             "description": "Work together — with friends or with Friday — to survive on a deserted island.",
             "year": 2012,
+            "bggRank": 95,
             "rating": 7.74,
-            "votes": 43730,
+            "votes": 43765,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2382,8 +2477,9 @@
             "title": "The Search for Planet X",
             "description": "Plan, scan, and theorize to find a new planet at the edge of our solar system.",
             "year": 2020,
+            "bggRank": 96,
             "rating": 7.95,
-            "votes": 12584,
+            "votes": 12633,
             "duration": {
                 "min": 60,
                 "max": 75
@@ -2407,8 +2503,9 @@
             "title": "Concordia Venus",
             "description": "Merchants build and trade throughout the Roman Empire to please the Gods.",
             "year": 2018,
+            "bggRank": 97,
             "rating": 8.29,
-            "votes": 6029,
+            "votes": 6048,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2430,10 +2527,11 @@
             "id_name": "tainted-grail-the-fall-of-avalon",
             "objectId": "264220",
             "title": "Tainted Grail: The Fall of Avalon",
-            "description": "Exploration, combat, and diplomacy in a dark Arthurian realm.",
+            "description": "Will take you on a fantastic adventure set in a dark Arthurian lore and legends.",
             "year": 2019,
+            "bggRank": 98,
             "rating": 8.09,
-            "votes": 12604,
+            "votes": 12624,
             "duration": {
                 "min": 60,
                 "max": 120
@@ -2443,7 +2541,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 3.3568,
+            "weight": 3.3561,
             "images": {
                 "default": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__mediacard/img/zbMpDzZ0C3sZHD1CcPRObyRGR9A=/0x0:765x430/288x162/filters:strip_icc()/pic4385726.jpg",
                 "2x": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__mediacard@2x/img/n7XMpj_yiIUhZza55xp5Z4Ljh-k=/0x0:765x430/576x324/filters:strip_icc()/pic4385726.jpg",
@@ -2457,8 +2555,9 @@
             "title": "Decrypto",
             "description": "Decipher your opponents' code before they decipher yours. Don't get caught.",
             "year": 2018,
+            "bggRank": 99,
             "rating": 7.77,
-            "votes": 23029,
+            "votes": 23081,
             "duration": {
                 "min": 15,
                 "max": 45
@@ -2468,7 +2567,7 @@
                 "max": 8
             },
             "minage": 12,
-            "weight": 1.8137,
+            "weight": 1.8142,
             "images": {
                 "default": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard/img/WKrwq2W6lUtSo7Oi6_C0xlV2QLs=/0x0:558x314/288x162/filters:strip_icc()/pic3759421.jpg",
                 "2x": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__mediacard@2x/img/-grqiICsr2alYcmu7UICV_ksIp0=/0x0:558x314/576x324/filters:strip_icc()/pic3759421.jpg",
@@ -2482,8 +2581,9 @@
             "title": "Inis",
             "description": "Claim the crown through merit and wisdom in this Celtic island struggle.",
             "year": 2016,
+            "bggRank": 100,
             "rating": 7.83,
-            "votes": 20494,
+            "votes": 20529,
             "duration": {
                 "min": 60,
                 "max": 90
@@ -2493,7 +2593,7 @@
                 "max": 4
             },
             "minage": 14,
-            "weight": 2.9469,
+            "weight": 2.9471,
             "images": {
                 "default": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__mediacard/img/aQHwhiJtV2CTQ6jLfdLJDs36b3g=/0x0:1500x844/288x162/filters:strip_icc()/pic4739757.jpg",
                 "2x": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__mediacard@2x/img/cN14bI00GHtuq79ACUvyOxOKtmA=/0x0:1500x844/576x324/filters:strip_icc()/pic4739757.jpg",
@@ -2503,8 +2603,5 @@
     ],
     "count": [
         100
-    ],
-    "lastupdated": [
-        "2024-08-21T02:22:33.219Z"
     ]
 }
