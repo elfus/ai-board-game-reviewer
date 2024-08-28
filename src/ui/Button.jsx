@@ -22,16 +22,9 @@ function Button({ children, disabled, to, type, onClick, active }) {
       </Link>
     );
 
-  if (type === 'filter')
-    return (
-      <button onClick={onClick} disabled={disabled} className={styles[type]}>
-        {children}
-      </button>
-    );
-
   if (onClick)
     return (
-      <button onClick={onClick} className={styles[type]}>
+      <button onClick={onClick} disabled={disabled} className={styles[type]}>
         {children}
       </button>
     );
