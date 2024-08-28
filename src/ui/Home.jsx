@@ -23,7 +23,7 @@ function Home() {
             topThree.map((game) => <GameCard key={game.id_name} game={game} />)}
         </div>
       </div>
-      <Button type="primary" to="/list">
+      <Button type="primary" to="/list?filter=airank&sortBy=airank-asc">
         Discover the full list
       </Button>
     </div>
