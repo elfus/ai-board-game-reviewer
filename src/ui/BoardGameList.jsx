@@ -10,6 +10,47 @@ import {
 import { useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Loader from './Loader';
+import Filter from './Filter';
+
+function filterAndSort(allGames, filter, sortBy) {
+  filter = filter ?? 'airank';
+  const isAscending = sortBy?.split('-')[1] === 'asc' ? true : false;
+
+  let sortedGames = [...allGames];
+  switch (filter) {
+    case 'airank':
+      sortedGames.sort((a, b) => {
+        if (isAscending) return a.rank - b.rank;
+        else return b.rank - a.rank;
+      });
+      break;
+    case 'playercount':
+      sortedGames.sort((a, b) => {
+        if (isAscending) return a.players.max - b.players.max;
+        else return b.players.max - a.players.max;
+      });
+      break;
+    case 'price':
+      sortedGames.sort((a, b) => {
+        if (isAscending) return a.price - b.price;
+        else return b.price - a.price;
+      });
+      break;
+    case 'duration':
+      sortedGames.sort((a, b) => {
+        if (isAscending) return a.score.duration - b.score.duration;
+        else return b.score.duration - a.score.duration;
+      });
+      break;
+    case 'votes':
+      sortedGames.sort((a, b) => {
+        if (isAscending) return a.votes - b.votes;
+        else return b.votes - a.votes;
+      });
+      break;
+  }
+  return sortedGames;
+}
 
 function BoardGameList() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -54,13 +95,29 @@ function BoardGameList() {
   );
   filters;
 
+  const gamesFiltered = filterAndSort(
+    currGames,
+    searchParams.get('filter'),
+    searchParams.get('sortBy'),
+  );
+
   return (
     <div className="flex flex-col items-center justify-center">
       {(isLoadingCount || isLoadingPage) && <Loader />}
       <Title />
+      <Filter
+        filterField={'filter'}
+        options={[
+          { value: 'airank', label: 'AI Rank' },
+          { value: 'playercount', label: 'Number of players' },
+          { value: 'price', label: 'Price' },
+          { value: 'duration', label: 'Duration' },
+          { value: 'votes', label: 'Votes' },
+        ]}
+      />
       <div className="flex w-10/12 flex-wrap items-center justify-center">
         {validPageId ? (
-          currGames.map((game) => (
+          gamesFiltered.map((game) => (
             <GameCard key={game.id_name} game={game} className="" />
           ))
         ) : (
