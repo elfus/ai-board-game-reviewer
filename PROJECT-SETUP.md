@@ -233,3 +233,81 @@ npm run server
   ```
 
   Click on the localhost address and you're ready to work.
+
+## Supabase
+
+The following are some example functions on how to perform CRUD
+operations using supabase api.
+
+```js
+/**
+ * The following examples make some basic operations
+ * on a dummy table using the supabase interface.
+ *
+ * You need to create the proper table and have
+ * a corresponding Row Level Security (RLS) policy on
+ * each table for each of the CRUD operations.
+ *
+ */
+async function getDummyData() {
+  const query = supabase.from('dummy').select('id, title, description');
+  console.log(query);
+  const { data, error } = await query;
+
+  console.log(`data`, data);
+
+  if (error) {
+    console.error(error);
+    throw new Error('Dummy could not get loaded');
+  }
+
+  return data;
+}
+
+async function insertDummyData() {
+  const { data, error } = await supabase
+    .from('dummy')
+    .insert([{ title: 'Ark Nova', description: 'ZZZZZ;LKAS;LD' }]);
+
+  if (error) {
+    console.error(error);
+    throw new Error('Dummy data could not be inserted');
+  }
+  console.log(`INSERT Returning data: ${data}`);
+  return data;
+}
+async function updateDummyData() {
+  const { data, error } = await supabase
+    .from('dummy')
+    .update({ description: new Date().toISOString() })
+    .eq('id', 2);
+
+  if (error) {
+    console.error(error);
+    throw new Error('Dummy data could not be updated');
+  }
+  console.log(`UPDATE Returning data: ${data}`);
+  return data;
+}
+
+async function deleteDummy(id) {
+  // REMEMBER RLS POLICIES
+  const { data, error } = await supabase.from('dummy').delete().eq('id', id);
+
+  if (error) {
+    console.error(error);
+    throw new Error('Dummy data could not be deleted');
+  }
+  return data;
+}
+
+function runSupaBaseExamples() {
+  getDummyData();
+  insertDummyData();
+  updateDummyData();
+  getDummyData();
+  // change this number manually by checking the dummy table
+  // on your browser
+  deleteDummy(23);
+}
+```
