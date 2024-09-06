@@ -14,7 +14,9 @@
     "scrapscore": "npm run scrap && npm run comments && npm run score",
     "server": "npx json-server src/api/gameboard-list-scores.json",
     "prepare": "husky",
-    "project": "concurrently --kill-others \"npm run server\" \"npm run dev\""
+    "project": "concurrently --kill-others \"npm run server\" \"npm run dev\"",
+    "uploadtosupabase": "node src/scripts/uploadToSupabase.js",
+    "deletefromsupabase": "node src/scripts/deleteFromSupabase.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.3",
