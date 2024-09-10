@@ -29,9 +29,16 @@ export async function getBoardGamesPage({ page, pageSize }) {
 }
 
 export async function getBoardGamesCount() {
-  const count = await fetch(`${BASE_API_URL}/count`).then((res) => res.json());
+  const { count, error } = await supabase
+    .from('games')
+    .select('*', { count: 'exact', head: true });
 
-  return count[0];
+  if (error) {
+    toast.error(error);
+    throw new Error(error);
+  }
+
+  return count;
 }
 
 function calculateOverall(game) {
@@ -52,7 +59,7 @@ function rank(games) {
 
 export async function getTopThree() {
   const supaGames = await supabase.from('ai_score').select();
-  
+
   /* NOTE: The following code might look excessive, the reason
   for it is that we are matching the structure provided by the JSON
   server. Of course this chould have been avoided by making a better
@@ -81,35 +88,37 @@ export async function getTopThree() {
 
   const games = [];
   for (let i = 0; i < 3; i++) {
-    games.push({ ...q.data[i], score: { ...ratedG[i] }, 
-      players : {
-        min:q.data[i].players_min ,
-        max:q.data[i].players_max ,
+    games.push({
+      ...q.data[i],
+      score: { ...ratedG[i] },
+      players: {
+        min: q.data[i].players_min,
+        max: q.data[i].players_max,
       },
       images: {
-        default:q.data[i].images_default,
-        '2x' :  q.data[i].images_2x,
-        banner: q.data[i].images_banner
+        default: q.data[i].images_default,
+        '2x': q.data[i].images_2x,
+        banner: q.data[i].images_banner,
       },
       overall: ratedG[i].overall,
-      rank: ratedG[i].rank
-      } 
-    );
+      rank: ratedG[i].rank,
+    });
   }
-  
+
   return games;
 }
 
 export async function getLastUpdated() {
   const { data, error } = await supabase
-  .from('ai_score')
-  .select('created_at')
-  .order('created_at', { ascending: false })
-  .limit(1).single();
+    .from('ai_score')
+    .select('created_at')
+    .order('created_at', { ascending: false })
+    .limit(1)
+    .single();
 
-  if(error) {
-    toast.error(error)
-    console.error(`Error fetching last updated data ${error}`)
+  if (error) {
+    toast.error(error);
+    console.error(`Error fetching last updated data ${error}`);
   }
 
   return data['created_at']; // return ISO string
