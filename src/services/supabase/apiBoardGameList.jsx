@@ -80,14 +80,7 @@ export async function getTopThree() {
 
   const games = [];
   for (let i = 0; i < 3; i++) {
-    games.push({ ...q.data[i], score: { 
-        fun : ratedG[i].fun,
-        learning_curve: ratedG[i].learning_curve,
-        duration: ratedG[i].duration ,
-        players:  ratedG[i].players,
-        difficulty:  ratedG[i].difficulty,
-        cost:  ratedG[i].cost
-      }, 
+    games.push({ ...q.data[i], score: { ...ratedG[i] }, 
       players : {
         min:q.data[i].players_min ,
         max:q.data[i].players_max ,
