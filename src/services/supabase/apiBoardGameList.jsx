@@ -42,6 +42,13 @@ function calculateOverall(game) {
   return Number((sum / propertyCount).toFixed(2));
 }
 
+function rank(games) {
+  return games
+    .slice()
+    .sort((a, b) => b.overall - a.overall)
+    .map((game, index) => ({ ...game, rank: index + 1 }));
+}
+
 export async function getTopThree() {
   const supaGames = await supabase.from('ai_score').select();
 
@@ -49,7 +56,9 @@ export async function getTopThree() {
     ...game,
     overall: calculateOverall(game),
   }));
-  ratedG = ratedG
+  ratedG = rank(ratedG);
+
+  ratedG
     .slice()
     .sort((a, b) => b.overall - a.overall)
     .slice(0, 3);

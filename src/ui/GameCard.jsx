@@ -41,14 +41,14 @@ function GameCard({ className, game }) {
       <div className="z-10 flex w-full items-start justify-between group-hover:hidden">
         <span className="p-2 underline">{game.rank}</span>
         <span className="text-5xl">
-          {['🥇', '🥈', '🥉'][game.rank - 1] ?? ''}
+          {['🥇', '🥈', '🥉'][game.score.rank - 1] ?? ''}
         </span>
-        <span className="p-2">{Number(game.overall).toFixed(1)}</span>
+        <span className="p-2">{Number(game.score.overall).toFixed(1)}</span>
       </div>
       <div className="justify-even z-10 hidden w-full grid-cols-4 items-start p-1 text-left text-xs group-hover:grid">
         <span className="p-2 underline">Overview</span>
         <span className="p-2">
-          {getEmoji(game.overall)} {Number(game.overall).toFixed(1)}
+          {getEmoji(game.score.overall)} {Number(game.score.overall).toFixed(1)}
         </span>
         <span className="p-2 text-cyan-400 underline hover:text-cyan-500">
           <a
@@ -76,8 +76,7 @@ function GameCard({ className, game }) {
         </span>
         <span className="p-2 underline">Duration</span>
         <span className="p-2">
-          {getEmoji(game.score.duration)}{' '}
-          {Number(game.score.duration).toFixed(1)}
+          {getEmoji(game.duration_max)} {Number(game.duration_max)} m
         </span>
         <span className="p-2 underline">Players</span>
         <span className="p-2">
