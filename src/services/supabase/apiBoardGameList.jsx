@@ -1,3 +1,4 @@
+import toast from 'react-hot-toast';
 import { BASE_API_URL } from '../apiConstants';
 import supabase from '../supabase';
 
@@ -100,8 +101,16 @@ export async function getTopThree() {
 }
 
 export async function getLastUpdated() {
-  const updated = await fetch(`${BASE_API_URL}/lastupdated`).then((res) =>
-    res.json(),
-  );
-  return updated[0]; // return ISO string
+  const { data, error } = await supabase
+  .from('ai_score')
+  .select('created_at')
+  .order('created_at', { ascending: false })
+  .limit(1).single();
+
+  if(error) {
+    toast.error(error)
+    console.error(`Error fetching last updated data ${error}`)
+  }
+
+  return data['created_at']; // return ISO string
 }
