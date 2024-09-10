@@ -25,51 +25,81 @@ function GameCard({ className, game }) {
   return (
     <div
       key={game.name}
-      className={`${className} group hover:cursor-default flex flex-col bg-black text-white font-bold justify-between items-center w-72 h-40 m-2 relative rounded-2xl overflow-hidden ${overEffect}`}
+      className={`${className} group relative m-2 flex h-40 w-72 flex-col items-center justify-between overflow-hidden rounded-2xl bg-black font-bold text-white hover:cursor-default ${overEffect}`}
       onClick={() => handleClick(game.id)}
     >
       <img
-        src={game.images.banner}
+        src={game.images_banner}
         alt={game.name}
-        className="group-hover:visible absolute opacity-40 left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-0"
+        className="absolute left-1/2 top-1/2 z-0 -translate-x-1/2 -translate-y-1/2 opacity-40 group-hover:visible"
       />
       <img
-        src={game.images.default}
+        src={game.images_default}
         alt={game.name}
-        className="group-hover:hidden absolute opacity-60 left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-0"
+        className="absolute left-1/2 top-1/2 z-0 -translate-x-1/2 -translate-y-1/2 opacity-60 group-hover:hidden"
       />
-      <div className="group-hover:hidden z-10 w-full flex justify-between items-start">
-        <span className='p-2 underline'>{game.rank}</span>
-        <span className='text-5xl'>{(['🥇', '🥈', '🥉'][game.rank-1]??'')}</span>
-        <span className='p-2'>{game.overall.toFixed(1)}</span>
+      <div className="z-10 flex w-full items-start justify-between group-hover:hidden">
+        <span className="p-2 underline">{game.rank}</span>
+        <span className="text-5xl">
+          {['🥇', '🥈', '🥉'][game.rank - 1] ?? ''}
+        </span>
+        <span className="p-2">{Number(game.overall).toFixed(1)}</span>
       </div>
-      <div className="hidden group-hover:grid z-10 w-full grid-cols-4 justify-even p-1 items-start text-left text-xs">
-        <span className='p-2 underline'>Overview</span>
-        <span className='p-2'>{getEmoji(game.overall)} {game.overall.toFixed(1)}</span>
-        <span className='p-2 underline text-cyan-400 hover:text-cyan-500'><a href={`https://boardgamegeek.com/boardgame/${game.objectId}/${game.id_name}/ratings?pageid=1&rated=1&comment=1`} target='_blank'>BGG Score</a></span>
-        <span className='p-2'>{getEmoji(game.rating)} {game.rating.toFixed(1)}</span>
-        <span className='p-2 underline'>Fun</span>
-        <span className='p-2'>{getEmoji(game.score.fun)} {game.score.fun.toFixed(1)}</span>
-        <span className='p-2 underline'>Difficulty</span>
-        <span className='p-2'>{getEmoji(game.score.difficulty)} {game.score.difficulty.toFixed(1)}</span>
-        <span className='p-2 underline'>Cost</span>
-        <span className='p-2'>{getEmoji(game.score.cost)} {game.score.cost.toFixed(1)}</span>
-        <span className='p-2 underline'>Duration</span>
-        <span className='p-2'>{getEmoji(game.score.duration)} {game.score.duration.toFixed(1)}</span>
-        <span className='p-2 underline'>Players</span>
-        <span className='p-2'>{getEmoji(game.score.players)} {game.score.players.toFixed(1)}</span>
-        <span className='p-2 underline'>Learning Curve</span>
-        <span className='p-2'>{getEmoji(game.score.learning_curve)} {game.score.learning_curve.toFixed(1)}</span>
+      <div className="justify-even z-10 hidden w-full grid-cols-4 items-start p-1 text-left text-xs group-hover:grid">
+        <span className="p-2 underline">Overview</span>
+        <span className="p-2">
+          {getEmoji(game.overall)} {Number(game.overall).toFixed(1)}
+        </span>
+        <span className="p-2 text-cyan-400 underline hover:text-cyan-500">
+          <a
+            href={`https://boardgamegeek.com/boardgame/${game.objectId}/${game.id_name}/ratings?pageid=1&rated=1&comment=1`}
+            target="_blank"
+          >
+            BGG Score
+          </a>
+        </span>
+        <span className="p-2">
+          {getEmoji(game.rating)} {game.rating.toFixed(1)}
+        </span>
+        <span className="p-2 underline">Fun</span>
+        <span className="p-2">
+          {getEmoji(game.score.fun)} {Number(game.score.fun).toFixed(1)}
+        </span>
+        <span className="p-2 underline">Difficulty</span>
+        <span className="p-2">
+          {getEmoji(game.score.difficulty)}{' '}
+          {Number(game.score.difficulty).toFixed(1)}
+        </span>
+        <span className="p-2 underline">Cost</span>
+        <span className="p-2">
+          {getEmoji(game.score.cost)} {Number(game.score.cost).toFixed(1)}
+        </span>
+        <span className="p-2 underline">Duration</span>
+        <span className="p-2">
+          {getEmoji(game.score.duration)}{' '}
+          {Number(game.score.duration).toFixed(1)}
+        </span>
+        <span className="p-2 underline">Players</span>
+        <span className="p-2">
+          {getEmoji(game.score.players)} {Number(game.score.players).toFixed(1)}
+        </span>
+        <span className="p-2 underline">Learning Curve</span>
+        <span className="p-2">
+          {getEmoji(game.score.learning_curve)}{' '}
+          {Number(game.score.learning_curve).toFixed(1)}
+        </span>
       </div>
-      <span className="group-hover:hidden z-10 font-mono text-center">
+      <span className="z-10 text-center font-mono group-hover:hidden">
         {game.title}
       </span>
-      <span className="group-hover:hidden z-10 text-sm">
+      <span className="z-10 text-sm group-hover:hidden">
         {game.votes.toLocaleString()} votes
       </span>
-      <div className="group-hover:hidden z-10 w-full flex justify-between items-start">
-        <span className='p-2'>{game.players.min} - {game.players.max} P</span>
-        <span className='p-2'>${game.price}</span>
+      <div className="z-10 flex w-full items-start justify-between group-hover:hidden">
+        <span className="p-2">
+          {game.players_min} - {game.players_max} P
+        </span>
+        <span className="p-2">${game.price}</span>
       </div>
     </div>
   );

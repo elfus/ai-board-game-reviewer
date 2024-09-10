@@ -10,7 +10,7 @@ import {
   getTopThree,
   getBoardGamesPage,
   getBoardGamesCount,
-} from '../../services/jsonServer/apiBoardGameList';
+} from '../../services/supabase/apiBoardGameList';
 
 export function useBoardGameList() {
   const { isLoading, data: boardGameList } = useQuery({
