@@ -5,30 +5,10 @@ import { useQueryClient, useQuery } from '@tanstack/react-query';
 // takes care of deciding whether to use jsonserver, supabase or any other
 // service
 import {
-  getBoardGameList,
-  getBoardGamesRanked,
   getTopThree,
   getBoardGamesPage,
   getBoardGamesCount,
 } from '../../services/supabase/apiBoardGameList';
-
-export function useBoardGameList() {
-  const { isLoading, data: boardGameList } = useQuery({
-    queryKey: ['boardgamelist'],
-    queryFn: getBoardGameList,
-  });
-
-  return { isLoading, boardGameList };
-}
-
-export function useBoardGameRanked() {
-  const { isLoading, data: boardGameRanked } = useQuery({
-    queryKey: ['boardgameranked'],
-    queryFn: getBoardGamesRanked,
-  });
-
-  return { isLoading, boardGameRanked };
-}
 
 export function useBoardGamePage(page, pageSize) {
   const { isLoadingCount, boardGameCount } = useBoardGameCount();

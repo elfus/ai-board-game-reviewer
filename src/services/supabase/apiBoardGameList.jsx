@@ -1,5 +1,4 @@
 import toast from 'react-hot-toast';
-import { BASE_API_URL } from '../apiConstants';
 import supabase from '../supabase';
 
 function normalize(games_table, ai_score_table) {
@@ -61,22 +60,6 @@ function normalize(games_table, ai_score_table) {
   }
 
   return Array.from(map.values());
-}
-
-export async function getBoardGameList() {
-  const allGames = await fetch(`${BASE_API_URL}/games`).then((res) =>
-    res.json(),
-  );
-  return allGames;
-}
-
-export async function getBoardGamesRanked() {
-  // This REST call will get ALL the board games
-  const scoredGames = await fetch(`${BASE_API_URL}/games?score.fun_gte=1`).then(
-    (res) => res.json(),
-  );
-
-  return scoredGames;
 }
 
 export async function getBoardGamesPage({ page, pageSize }) {
