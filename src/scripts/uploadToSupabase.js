@@ -33,6 +33,7 @@ for (const game of gamelist['games']) {
     players: game.score.players,
     difficulty: game.score.difficulty,
     cost: game.score.cost,
+    duration: game.score.duration,
   };
 
   let supaGame = {
@@ -43,6 +44,8 @@ for (const game of gamelist['games']) {
     images_default: game.images.default,
     images_2x: game.images['2x'],
     images_banner: game.images.banner,
+    overall: game.overall,
+    rank: game.rank,
   };
   delete game.duration;
   delete game.players;
