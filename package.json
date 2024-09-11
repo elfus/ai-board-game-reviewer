@@ -14,15 +14,19 @@
     "scrapscore": "npm run scrap && npm run comments && npm run score",
     "server": "npx json-server src/api/gameboard-list-scores.json",
     "prepare": "husky",
-    "project": "concurrently --kill-others \"npm run server\" \"npm run dev\""
+    "project": "concurrently --kill-others \"npm run server\" \"npm run dev\"",
+    "uploadtosupabase": "node src/scripts/uploadToSupabase.js",
+    "deletefromsupabase": "node src/scripts/deleteFromSupabase.js"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.45.3",
     "@tanstack/react-query": "^5.51.23",
     "ollama-ai-provider": "^0.11.0",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-confetti": "^6.1.0",
     "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.26.0"
   },
   "devDependencies": {
@@ -40,7 +44,7 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
     "husky": "^9.1.4",
-    "json-server": "^0.17.4",
+    "json-server": "^1.0.0-beta.2",
     "postcss": "^8.4.40",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.6",

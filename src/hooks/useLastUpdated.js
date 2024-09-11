@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query';
-import { getLastUpdated } from '../services/jsonServer/apiBoardGameList';
+import { getLastUpdated } from '../services/supabase/apiBoardGameList';
 
 function parseIsoString(isoString) {
   // Create a new Date object directly from the ISO string

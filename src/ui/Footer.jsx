@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom';
 import { useLastUpdated } from '../hooks/useLastUpdated';
 import Loader from './Loader';
+import SupabaseButtons from './SupabaseButtons';
 
 function Footer() {
-  const { isLoading : isLoadingUpdated, lastUpdatedDate } = useLastUpdated();
-  
+  const { isLoading: isLoadingUpdated, lastUpdatedDate } = useLastUpdated();
+
   return (
     <>
       {isLoadingUpdated && <Loader />}
@@ -36,6 +37,8 @@ function Footer() {
             How it works
           </Link>
         </p>
+
+        {import.meta.env.DEV && <SupabaseButtons />}
       </footer>
     </>
   );
