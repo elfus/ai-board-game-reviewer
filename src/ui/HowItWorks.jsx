@@ -5,7 +5,7 @@ function HowItWorks() {
       <br />
       <img
         className="rounded-lg border-4 border-slate-500 p-2 shadow-lg"
-        src="/src/assets/how-to-run.png"
+        src="./how-to-run.png"
       />
     </h1>
   );
