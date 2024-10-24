@@ -44,7 +44,7 @@ In order to run locally you need to run the following steps:
    npm run dev
    ```
 
-<img src="src/assets/how-to-run.png" />
+<img src="public/how-to-run.png" />
 
 The following sections provide more details on what each of the components do.
 
@@ -75,6 +75,7 @@ Calculates scores based on game data using [Vercel - AI SDK](https://sdk.vercel.
 ```bash
 npm run score
 ```
+
 ### 2. API
 
 ##### Server
@@ -171,13 +172,11 @@ To start the server application run the following command in the project root di
 npm run dev
 ```
 
-
 ## Screenshots
 
 ### Top 3 (Daily)
 
 <img src="src/assets/top-3.png" />
-
 
 ### Full List (Daily Top ~100)
 
