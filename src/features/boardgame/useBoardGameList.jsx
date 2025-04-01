@@ -1,4 +1,4 @@
-import { useQueryClient, useQuery } from '@tanstack/react-query';
+import { useQuery, useQueryClient } from '@tanstack/react-query';
 
 // import server api
 // TODO: Add an intermediate layer named "GenericAPI" which
@@ -8,7 +8,8 @@ import {
   getTopThree,
   getBoardGamesPage,
   getBoardGamesCount,
-} from '../../services/supabase/apiBoardGameList';
+  // } from '../../services/supabase/apiBoardGameList';
+} from '../../services/jsonServer/apiBoardGameList';
 
 export function useBoardGamePage(page, pageSize) {
   const { isLoadingCount, boardGameCount } = useBoardGameCount();
@@ -39,7 +40,7 @@ export function useBoardGamePage(page, pageSize) {
 export function useBoardGameCount() {
   const { isLoading: isLoadingCount, data: boardGameCount } = useQuery({
     queryKey: ['boardgamecount'],
-    queryFn: () => getBoardGamesCount(),
+    queryFn: getBoardGamesCount,
   });
   return { isLoadingCount, boardGameCount };
 }
