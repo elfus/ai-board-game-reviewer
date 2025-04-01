@@ -3,14 +3,15 @@ import { BASE_API_URL } from '../apiConstants';
 export async function getBoardGamesPage({ page, pageSize }) {
   // This REST call will get ALL the board games
   if (!page || !pageSize) return null;
-  console.log(`PARAMETERS ${page}, ${pageSize}`);
+  // console.log(`PARAMETERS ${page}, ${pageSize}`);
   const gamesPage = await fetch(
-    `${BASE_API_URL}/games?_page=${page}&_limit=${pageSize}`,
+    `${BASE_API_URL}/games?_page=${page}&_per_page=${pageSize}`,
     { headers: {} },
   ).then((res) => res.json());
-  console.log(`API`);
-  console.log(gamesPage);
-  return gamesPage;
+  // console.log(`API`);
+  // console.log(gamesPage['data']);
+  // console.log(Object.entries(gamesPage));
+  return gamesPage['data'];
 }
 
 export async function getBoardGamesCount() {
